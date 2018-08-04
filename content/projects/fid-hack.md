@@ -2,7 +2,7 @@
 title: "I Presented to 3 Senior Vice Presidents of Fidelity Investments"
 date: 2017-07-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 
@@ -19,4 +19,3 @@ tags: ["blog","story"]
 #### What Did I Learn From Building This?
 
 #### Operating Instructions:
-

@@ -3,21 +3,23 @@ Title: "About"
 Date: 2018-07-15T00:27:30-5:00
 ---
 
-Wesley has a couple official roles, but in reality, those are just surface labels. Deep inside, he just wants to be happy and free, but just like seemingly everybody else these days, he is under society's spell to do well in school and obtain a successful career. His long-term goal is to break that spell and truly disregard his own meta-judgment as well as others' judgments to live a free and fulfilling life that will also benefit mankind.
+Wesley has few official titles, but those don't really describe what kind of person he is. Deep down,  he just wants to be happy and free. But just like  everybody else these days, he's fallen under society's spell to walk the common road of a quality education and a well-paying job.
 
-Wesley lives by a few philosophies. 
+Wesley's goal is to eventually break free from that spell and gain the confidence to completely disregard both his own and other people's judgments. At the same time, he'd like to be doing something that he loves and benefits mankind.
 
-1. It is the final goal of mankind as a whole to explore and conquer the universe(s). I want to help mankind achieve that goal by ultimately expending the majority of my resources on improving spacefaring technologies.
+These are a few philosophies that Wesley lives by:
 
-2. We only have one life, as far as we know it, so it's best to enjoy all that life has to offer, try new things, and never regret anything.
+1. He believes it is mankind's ultimate goal to explore and conquer the universe(s). He plans on helping mankind achieve that goal by ultimately expending his resources on improving spacefaring technologies.
+
+2. As far as we know, we only have one life. So, why not try and enjoy all that life has to offer while we still can?
 
 3. Never be afraid to be different and to speak your mind. It's people who are different that do great things. It is more valuable to know you're wrong than to not know anything.
 
-If you'd like to know more about me, feel free to check out the following links. This site most likely provides the most information about me, though.
+If you'd like to learn more about him, feel free to check out the following links.
 
 https://facebook.com/wesleytian  
 https://github.com/wesleytian  
 https://keybase.io/wesleytian  
-https://linkedin.com/in/wesleytian 
+https://linkedin.com/in/wesleytian
 
-And of course, feel free to e-mail me at <wytian@umich.edu>.
+And of course, feel free to e-mail him at <wytian@umich.edu>.

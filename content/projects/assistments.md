@@ -2,7 +2,7 @@
 title: "My First Machine Learning Competition"
 date: 2017-12-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 
@@ -26,5 +26,3 @@ Summary:
 #### Operating Instructions:
 
 Source: https://sites.google.com/view/assistmentsdatamining/winners-of-the-2017-competion
-
-

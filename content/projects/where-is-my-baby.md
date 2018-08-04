@@ -2,13 +2,13 @@
 title: "Baby Tracker"
 date: 2017-03-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 
 More updates coming soon!
 
-Summary: 
+Summary:
 
 * Parse Baby Berk's Twitter feed to gather current location of the food truck and display it on a map.
 * Teammates: Phillip Michalowski and Nischal Tamang

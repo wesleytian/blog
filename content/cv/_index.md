@@ -61,6 +61,8 @@ Teaching Assistant (English, Mathematics, and Computer Science)
 
 * Neuromorphic Computing. TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design, Invited. Michigan Student AI Lab (2018)
 
+* Babble Labble: Training Classifiers with Natural Language Explanations. Clinc, Inc. (2018)
+
 #### Papers
 
 * From Human-Level Artificial Intelligence to Superintelligent Artificial Intelligence: Scenarios, Paths, and Counterarguments,  Dr. Rich Thomason, University of Michigan (2017)
@@ -85,14 +87,10 @@ Teaching Assistant (English, Mathematics, and Computer Science)
 #### Programming Languages
 
 * Java
-* C
-* C++
+* C/C++
 * Python
 * Scala
-* Octave
 * R
-* JavaScript
-* TypeScript
 
 #### Courses
 
@@ -115,6 +113,7 @@ Teaching Assistant (English, Mathematics, and Computer Science)
 
 * HS Varsity Tennis
 * HS Varsity Table Tennis
+* HS Varsity Table Tennis Captain
 * 3rd Place, Asia Pacific Athletics Conference Table Tennis Doubles (2013)
 
 * HS Varsity Track & Field

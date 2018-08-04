@@ -2,13 +2,13 @@
 title: "A CSP Parser for AISpace"
 date: 2017-02-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 
 Summary:
 
-* This script turns a CSV file into a XML file that can be imported into AIspace's Consistency Based CSP Solver. 
+* This script turns a CSV file into a XML file that can be imported into AIspace's Consistency Based CSP Solver.
 * Built using Python.
 
 #### Why Did I Build This?
