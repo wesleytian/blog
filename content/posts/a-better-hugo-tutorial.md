@@ -39,3 +39,5 @@ and run `./deploy.sh "Optional commit message"`. Do both of these steps in your 
 Note: This guide is based off of https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions
 but is more detailed, and includes steps that were missing from the original documentation.
 
+Note: You also have to clone a theme into the themes/ folder or else you will get a "missing layouts" error.
+

@@ -22,3 +22,7 @@ git push origin master
 
 # Come back up to the project root
 cd ..
+
+git add .
+git commit -m "updated site"
+git push -u origin master

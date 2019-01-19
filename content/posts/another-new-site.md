@@ -19,4 +19,3 @@ Hugo is a static site generator that uses Go for templating which means that you
 If you've ever wanted to create your own site that's easy to maintain and free to host, check out my next post for a great tutorial that's written for the average person in mind.
 
 Update: Since creating this website, I'm really enjoying writing again. I think the medium in which you post on is really important. For me, at least.
-

@@ -12,7 +12,7 @@ So naturally, when I went back, I was expecting to see a drastically changed Chi
 
 Instead, what I saw in southern China left me horrified and disgusted. I realized that all of this economic development was not making China a better place to live, even in the face of all of the accomplishments that they made in recent years. Though Forbes predicts that China's GDP will surpass that of the US before 2030, I fear not only for the health and happiness of Chinese people but everybody that shares Earth’s ecosystem.
 
-![Jiangxi, China](/jiangxi.png)
+![Jiangxi, China](/jiangxi.jpeg)
 
 When I looked out of the window that afternoon and saw the ruined state that the city was in I felt a surge of anger well up inside me. I wasn’t just mad at the Chinese government’s selfish policies in an effort to become number one again but at all capitalist nations. I then took out my laptop and began to write a new chapter in my book and my life.
 
