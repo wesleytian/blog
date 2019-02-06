@@ -1,37 +1,65 @@
-baseurl                 = "/"               # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Wesley Tian"
-theme                   = "sam"
-pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
-pygmentsCodefences      = true
-googleAnalytics         = "UA-89706210-1"             # Tracking code, eg. "UA-111111111-1"
+baseurl = "https://www.example.com"
+languageCode = "en"
+title = "Wesley T."
+theme = "kiss"
+copyright = "&copy; Wesley Tian 2019"
+disqusShortname = "shortname"
+googleAnalytics = "UA-89706210-1"
+# Number of posts per page
+Paginate = 3
+enableRobotsTXT = true
 
-[params]
-    dateform            = "Mon Jan 02, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
-    homepage            = "main"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = false                          # Allow links to the full size images
-    footerText          = "Built with love, using Hugo."
+[params.features]
+disqusOnDemand = true  # Load Disqus comments on click
 
-# Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
-    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+[params.assets]
+customCSS = ["css/custom.css"]
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "writing"
+[params.rss]
 
-[[params.mainMenu]]
-    link = "/projects"
-    text = "projects"
+includeContent = true # Includes whole content in rss
+authorName = "Wesley Tian" # Site author's full name
+authorEmail = "tian.wesley@gmail.com"
 
-[[params.mainMenu]]
-    link = "/cv"
-    text = "cv"
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+related = true # Includes related articles
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "who is wesley tian?"
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+
+twitter = "ribicemir"
+github = "wesleytian"
+email = "tian.wesley@gmail.com"
+linkedin = "wesleytian"
+gitlab = "ribice"
+instagram = ""
+codepen = ""
+facebook = ""
+
+[params.social.config]
+platforms = ["github","email","linkedin"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//matomo.example.com/"
+
+[params.fathomAnalytics]
+rootURL = "//fathom.example.com/"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
