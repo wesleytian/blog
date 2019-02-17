@@ -1,25 +1,12 @@
 ---
 Title: "About"
-Date: 2018-07-15T00:27:30-5:00
+Date: 2019-02-17T03:24:30-5:00
 ---
 
-Wesley has few official titles, but those don't really describe what kind of person he is. Deep down,  he just wants to be happy and free. But just like  everybody else these days, he's fallen under society's spell to walk the common road of a quality education and a well-paying job.
+Wesley Tian is currently pursuing a B.S. in Computer Science and Data Science at the [University of Michigan](https://umich.edu/). He currently serves as the President of the [Michigan Data Science Team](https://www.mdst.club/), a competitive data science team funded by Google, the National Science Foundation, and the [Michigan Institute of Data Science](https://midas.umich.edu/). Their work for social good has been covered by media outlets such as the [The New York Times](https://www.nytimes.com/2017/03/27/us/flint-water-lead-pipes.html?_r=0), [Gizmodo](https://gizmodo.com/google-is-helping-flint-prioritize-which-lead-pipes-nee-1774517926), and the [Chicago Tribune](https://www.chicagotribune.com/news/nationworld/midwest/ct-flint-water-app-20161211-story.html). 
 
-Wesley's goal is to eventually break free from that spell and gain the confidence to completely disregard both his own and other people's judgments. At the same time, he'd like to be doing something that he loves and benefits mankind.
+In the past, Wesley has worked on research and development at an Internet of things startup with [Rui Wang](https://people.cs.umass.edu/~ruiwang/), machine learning research in healthcare with [Jenna Wiens](http://www-personal.umich.edu/~wiensj/), and philosophy in artificial intelligence with [Rich Thomason](http://web.eecs.umich.edu/~rthomaso/). Starting in high school, Wesley has also had numerous internships with companies such as [Xuanliang](http://www.dshine.com.cn/), [RaysHobby](https://rayshobby.net/wordpress/), Fidelity Investments, [Clinc](https://clinc.com/), and Microsoft.
 
-These are a few philosophies that Wesley lives by:
+Wesley has been ranked first on a deep learning prediction challenge in University of Michigan's Machine Learning course, placed 3rd in the world in MIT's [ASSISTments Data Mining Competition](https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017/winners?authuser=0), and received awards at multiple other hackathons. He's also a recipient of the Chancellor's Scholarship.
 
-1. He believes it is mankind's ultimate goal to explore and conquer the universe(s). He plans on helping mankind achieve that goal by ultimately expending his resources on improving spacefaring technologies.
-
-2. As far as we know, we only have one life. So, why not try and enjoy all that life has to offer while we still can?
-
-3. Never be afraid to be different and to speak your mind. It's people who are different that do great things. It is more valuable to know you're wrong than to not know anything.
-
-If you'd like to learn more about him, feel free to check out the following links.
-
-https://facebook.com/wesleytian  
-https://github.com/wesleytian  
-https://keybase.io/wesleytian  
-https://linkedin.com/in/wesleytian
-
-And of course, feel free to e-mail him at <wytian@umich.edu>.
+Originally from Mountain View, California, Wesley has transferred schools a total of eight times, relocating from California to Oregon, Taiwan, Shanghai, Massachusetts, and Michigan in the process. He thanks these moves to his openness to new perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.

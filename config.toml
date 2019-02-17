@@ -1,12 +1,12 @@
 baseurl = "https://wesleytian.github.io"
 languageCode = "en"
-title = "Wesley T."
+title = "Wesley Tian"
 theme = "kiss"
 copyright = "&copy; Wesley Tian 2019"
-disqusShortname = "shortname"
+disqusShortname = "wesleytian"
 googleAnalytics = "UA-89706210-1"
 # Number of posts per page
-Paginate = 3
+Paginate = 5
 enableRobotsTXT = true
 
 [params.features]
@@ -63,3 +63,5 @@ tag ="tags"
 [blackfriday]
 hrefTargetBlank = true
 
+[params.sections_left]
+"/about" = "About"
