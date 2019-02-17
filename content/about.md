@@ -10,3 +10,6 @@ In the past, Wesley has worked on research and development at an Internet of thi
 Wesley has been ranked first on a deep learning prediction challenge in University of Michigan's Machine Learning course, placed 3rd in the world in MIT's [ASSISTments Data Mining Competition](https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017/winners?authuser=0), and received awards at multiple other hackathons. He's also a recipient of the Chancellor's Scholarship.
 
 Originally from Mountain View, California, Wesley has transferred schools a total of eight times, relocating from California to Oregon, Taiwan, Shanghai, Massachusetts, and Michigan in the process. He thanks these moves to his openness to new perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
+
+Wesley classifies himself as a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His current interests are software engineering and political philosophy. 
+
