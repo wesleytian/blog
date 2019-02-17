@@ -11,5 +11,5 @@ Wesley has been ranked first on a deep learning prediction challenge in Universi
 
 Originally from Mountain View, California, Wesley has transferred schools a total of eight times, relocating from California to Oregon, Taiwan, Shanghai, Massachusetts, and Michigan in the process. He thanks these moves to his openness to new perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
 
-Wesley classifies himself as a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His current interests are software engineering and political philosophy. 
+Wesley is a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His current interests are software engineering and political philosophy. 
 
