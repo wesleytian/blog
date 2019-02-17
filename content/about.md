@@ -11,4 +11,4 @@ Wesley has been ranked 1st out of 205 students on a deep learning prediction cha
 
 Originally from Mountain View, California, Wesley has transferred schools a total of eight times, relocating from California to Oregon, Taiwan, Shanghai, Massachusetts, and Michigan in the process. He thanks these moves to his openness to new perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
 
-Wesley is also a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His current interests are software engineering and political philosophy. Some of his role models include Elon Musk, Peter Thiel, and Yuval Noah Harari.
+Wesley is also a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His current interests are software engineering and political philosophy. His greatest influencers are Elon Musk, Peter Thiel, and Yuval Noah Harari.
