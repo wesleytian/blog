@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com"
+baseurl = "https://www.wesleytian.github.io"
 languageCode = "en"
 title = "Wesley T."
 theme = "kiss"
@@ -38,11 +38,11 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
+twitter = ""
 github = "wesleytian"
 email = "tian.wesley@gmail.com"
 linkedin = "wesleytian"
-gitlab = "ribice"
+gitlab = ""
 instagram = ""
 codepen = ""
 facebook = ""
