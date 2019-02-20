@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Wesley Tian"
 theme = "kiss"
 copyright = "&copy; Wesley Tian 2019"
-disqusShortname = "wesleytian"
+disqusShortname = "wesleytian-github-io"
 googleAnalytics = "UA-89706210-1"
 # Number of posts per page
 Paginate = 5
