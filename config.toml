@@ -48,7 +48,7 @@ codepen = ""
 facebook = ""
 
 [params.social.config]
-platforms = ["github","email","linkedin"]
+platforms = ["github","email"]
 
 [params.matomoAnalytics]
 siteID = 1
