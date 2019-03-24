@@ -2,7 +2,7 @@
 title: "My Own Cryptocurrency"
 date: 2018-03-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 

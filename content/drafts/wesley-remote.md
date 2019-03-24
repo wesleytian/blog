@@ -2,7 +2,7 @@
 title: "$100,000 in Annual Revenue?!"
 date: 2016-09-15T00:14:49-04:00
 showDate: true
-draft: false
+draft: true
 tags: ["blog","story"]
 ---
 

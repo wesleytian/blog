@@ -11,4 +11,4 @@ Wesley has been ranked 1st out of 205 students on a deep learning prediction cha
 
 Born in Mountain View, California–yes, before Google was there–Wesley has transferred schools a total of nine times. In the process, he has relocated from California to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He thanks these moves for his openness to different perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
 
-Wesley is also a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His past pursuits include machine learning and entrepreneurship. His current pursuits are software engineering and political philosophy. Some of his influencers are Elon Musk, Peter Thiel, and Yuval Noah Harari.
+Wesley has been a utilitarian since his teens. His once pursued machine learning research as a career path. His current pursuits are software engineering, political philosophy, and entrepreneurship.
