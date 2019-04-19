@@ -1,5 +1,6 @@
 ---
 author: "Wesley Tian"
+title: Advice from a 4.00 GPA CS Freshman
 date: 2016-10-16
 draft: false
 tags: ["advice", "college"]
@@ -26,6 +27,6 @@ Fulfilling your general education requirements by taking the easiest classes at 
 
 Additionally, you should do research about the instructor and department of the general education classes you want to take. At the University of Massachusetts Amherst, the Computer Science department is well known for its research and faculty especially in AI, but what UMass Amherst truly excels at is it's Linguistics department in the College of Humanities and Fine Arts. They are ranked 4-8 at PhDs.org - UMass in the United States and so fulfilling a general education requirement by taking a linguistics intro course is sure to be interesting and taught extremely well. Where else can you learn from the smartest professors in their field?
 
-Take a look at <a href="http://www.phds.org/">PhDs.org</a>  for the departments that university excel at, it could be a well-known one or a less known one. Most undergraduates don't ever talk about the research and faculty quality of such departments, but if you talk to graduate students or professors they will know for sure.
+Take a look at [phds.org](http://www.phds.org/">PhDs.org) for the departments that university excel at, it could be a well-known one or a less known one. Most undergraduates don't ever talk about the research and faculty quality of such departments, but if you talk to graduate students or professors they will know for sure.
 
 Obviously, use your common sense as well. UMass Amherst is ranked 1-2 out of 32 programs for food science, 1-7/41 programs for Kinesiology, 3-11/83 for Polymer Science and Engineering, but if you're not interested in food science, kinesiology, or polymer science, then don't take it! Just remember to take it into consideration. You will never know what great professors you will meet and things you will learn from just fulfilling a general education requirement.

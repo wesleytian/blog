@@ -14,7 +14,7 @@ So, it seems like every few months I've been feeling discontent with my personal
 
 I've been toying around with Jekyll and Bootstrap recently, and then I found Hugo.
 
-Hugo is a static site generator that uses Go for templating which means that you can easily separate your content and the code that builds the site. It's completely open-source and was actually based on Jekyll. Many other people agree with me on the awesomeness of Hugo: https://news.ycombinator.com/item?id=16472395&ref=codebldr
+Hugo is a static site generator that uses Go for templating which means that you can easily separate your content and the code that builds the site. It's completely open-source and was actually based on Jekyll. [Many other people agree with me on the awesomeness of Hugo.](https://news.ycombinator.com/item?id=16472395&ref=codebldr)
 
 If you've ever wanted to create your own site that's easy to maintain and free to host, check out my next post for a great tutorial that's written for the average person in mind.
 

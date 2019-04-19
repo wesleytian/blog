@@ -21,6 +21,3 @@ I use this method of mine for even much smaller things. Sometimes I will be lyin
 By doing this, I won’t ever have to procrastinate anymore. No more short-term procastination at least. This method has worked for me 99% of the time. The only 1% of the time that it hasn’t worked for me is in the split-time that I make the decision to take the first step, I manage to convince myself that it isn’t worth doing. Once I was really sore from a work-out and I was lying in bed. Instead of getting out of bed to put away my clothes like I should have, I convinced myself that I needed to rest longer because of how tired I was. Besides the times when this happens, it has been successful every other time.
 
 I use this method for everything I do now. Don’t feel like doing homework? Take out the book first. Don’t feel like writing an essay, open up an empty document and put down a single word. Don’t feel like going to school, get out of bed, and get packed. Looking at the big picture isn’t always the right approach to things. Sometimes you just have to take things step-by-step. Worry about what’s at hand and let things come to you.
-
-
-

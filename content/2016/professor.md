@@ -6,6 +6,7 @@ tags: ["life"]
 ---
 
 My freshmen chapter ends here, and a new chapter begins.  Today, I moved in with an associate professor from the Computer Science department at UMass Amherst. I will be working for him for the next 4 months. He runs an open-source hardware business that produces programmable sprinklers for people. This opportunity is a godsend; the fact that I am making money is crumbs compared to what else I may gain from this invaluable experience. I think the most important thing is that by being in close proximity with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia. The information that I will be able to gain through talking to him, and working with him will hopefully give me a keener insight on my future as well help pave my academic path.
+
 Since I will be learning a lot, I will only post the things that I find are the most valuable to me.
 
     1.  Why do professors continue to do research, even long after they are finished with their PhD, and teaching? Because "there is a problem that I want to solve" It is something that they are passionate about, and just like a game or any other puzzle with an endgame in mind, it is something that they want to achieve.
