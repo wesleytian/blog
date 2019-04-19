@@ -1,5 +1,5 @@
 ---
-title: "Becoming Better at Software Engineering"
+title: "Software Engineering"
 date: 2018-07-25T00:14:49-04:00
 showDate: true
 draft: false

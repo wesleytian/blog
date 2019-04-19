@@ -10,24 +10,24 @@ In this short tutorial, you will be creating two repositories, one that will sto
 
 This guide requires you to have git installed, a Hugo website that you can easily clone from it's github repo, and a GitHub account.
 
-1. Create a GitHub repository for your website. Name it `<USERNAME>.github.io`. All your files neccessary for your website will be stored here.  
+1. Create a GitHub repository for your website. Name it `<USERNAME>.github.io`. All your files neccessary for your website will be stored here.
 	Ex: wesleytian.github.io
 
-2. Create a Github repository for all of your Hugo source code. Name it anything you like _except_ for `<USERNAME>.github.io`.  
+2. Create a Github repository for all of your Hugo source code. Name it anything you like _except_ for `<USERNAME>.github.io`.
 	Ex: blog
 
-3. Navigate to a directory where you want your source files to be stored. `cd <DIRECTORY>` `git clone <SOURCE_REPO_URL>`  
-	Ex: `cd webdev`  
+3. Navigate to a directory where you want your source files to be stored. `cd <DIRECTORY>` `git clone <SOURCE_REPO_URL>`
+	Ex: `cd webdev`
 	`git clone https://github.com/wesleytian/blog.git`
 
-4. Change directory to the repository you just cloned. `cd <SOURCE>`  
+4. Change directory to the repository you just cloned. `cd <SOURCE>`
 Ex: `cd blog`
 
 
-5. `git submodule add -b master <WEBSITE_REPO_URL> public`  
+5. `git submodule add -b master <WEBSITE_REPO_URL> public`
 Ex: `git submodule add -b master https://github.com/wesleytian/wesleytian.github.io.git public`
 
-6. Copy all of your Hugo source files into the source folder except the public folder. 
+6. Copy all of your Hugo source files into the source folder except the public folder.
 
 7. Create a script based on https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script
 and run `./deploy.sh "Optional commit message"`. Do both of these steps in your source folder.

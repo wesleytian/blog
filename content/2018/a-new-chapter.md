@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","story"]
 ---
 
-Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad's side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China's insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode. 
+Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad's side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China's insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.
 
 So naturally, when I went back, I was expecting to see a drastically changed China. I also knew that China had passed policies to reduce the negative consequences that their development was incurring on the environment. I saw from my friends' Instagram stories that the skies in Shanghai were blue. I was excited to not have to wear masks to filter out the pollutants in the air.
 
