@@ -36,7 +36,7 @@ Take the train from St. Larissa (Athens) to Larissa (4 hours)
 http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2968.jpg
 Train at Athens
 
-Transfer trains at the train station Larissa to go to Litochoro (1 major stop)** (30 minutes)
+Transfer trains at the train station Larissa to go to Litochoro (1 major stop) (30 minutes)
 
 From the Litochoro train station to the village it takes 5-10 minutes by taxi. (6km)
 
