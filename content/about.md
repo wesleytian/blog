@@ -3,6 +3,8 @@ Title: "About"
 draft: false
 ---
 
+This blog is intended to be a smorgasbord of topics ranging from hardware projects to philosophy. I write because I want to share my knowledge with other people, just as others have shared with me. If you want to discuss any post in detail, I would really appreciate if you leave a comment or send me an email. Great ideas aren't built in solitary, they are built together.
+
 
 ## About Wesley
 

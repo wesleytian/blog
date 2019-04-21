@@ -1,11 +1,12 @@
 ---
 date: 2016-07-23
-title: Building My Own Amplifier
+title: Assembling My Own Headphone Amplifier
 draft: false
 tags: ["music", "diy", "hardware", "project"]
 ---
 
-![Amp](/IMG_1212.jpg)
+![Amp](/amp/IMG_1212.jpg)
+*The finished Objective2 headphone amp*
 
 Why? What? and How?
 
@@ -17,7 +18,7 @@ In order to play music, one must have an amp. Each computer and device that is a
 
 Headphones such as the Sennheiser HD 600 and HD 800 have output impedances of 300 ohms. In order to properly drive these, you will need an amp. Without an amp, the sound even at the highest volume on your laptop will sound weak and the highs and lows will be greatly lacking. Many bass sounds with low frequencies may not be heard at all. Other earphones such as the Earpods or convenience store headphones have very low output impedances 32 so they appear to be very loud even when only driven by your laptop or phone. Most headphones under $100 will not require an amp as they are meant for the average consumer who only cares about providing sound and not high-quality playback. Many people who ended up trying a better pair of headphones with an external amp have  repeatedly said that it was like listening to a different song. They notice many sounds and background instruments that they have never heard before. And the best thing about this is that you don't need a special pair of ears or training to hear the difference.
 
-![Amp](/IMG_1207.jpg)
+![Amp](/amp/IMG_1207.jpg)
 
 # WHAT
 
@@ -39,38 +40,35 @@ If you are, however, after the solid facts, below I have included the evidence t
 http://nwavguy.blogspot.com/2011/07/o2-headphone-amp.html#measurements
 
 # HOW
-(How did I build the Objective2? Here comes the fun part.)
+How did I build the Objective2? Now this is the fun part.
 
 Now that I've convinced you to buy the Objective2, you must be asking: where can I get one? [Here](https://www.jdslabs.com/products/35/objective2-headphone-amplifier/) you can buy it completely assembled and enclosed in an anodized and fully polished enclosure for $129. It is also customizable for different outputs such as for different countries or 3.5mm headphone jack to 6.35mm (1/4in) headphone jack.
 
-Additionally, there is a refurbished version for $99 [...](https://www.jdslabs.com/products/167/objective2-headphone-amplifier-b-stock/)
+Additionally, there is a [refurbished version for $99.](https://www.jdslabs.com/products/167/objective2-headphone-amplifier-b-stock/)
 
 If you find $129 a bit too expensive to throw down for an amp, then I suggest the DIY option. For just $59, you can purchase a DIY kit that contains all of the components to build the amp. Soldering required.
 
 ($59) [DIY Kit](https://www.jdslabs.com/products/82/objective2-diy-kit/)
 
-![Amp](/IMG_1205.jpg)
-![Amp](/IMG_1203.jpg)
+![Amp](/amp/IMG_1205.jpg)
 
-($9) 2 [9V batteries](https://www.amazon.com/Tenergy-Centura-Self-Discharge-Rechargeable-Batteries/dp/B003QUNYQI/ref=sr_1_10_a_it?ie=UTF8&amp;qid=1469762948&amp;sr=8-10&amp;keywords=9v+rechargeable+batteries)
+- ($9) 2 [9V batteries](https://www.amazon.com/Tenergy-Centura-Self-Discharge-Rechargeable-Batteries/dp/B003QUNYQI/ref=sr_1_10_a_it?ie=UTF8&amp;qid=1469762948&amp;sr=8-10&amp;keywords=9v+rechargeable+batteries)<br>
+or/and<br>
+- ($12.99) [15V AC Power Adapter](https://www.jdslabs.com/products/147/us-15vac-power-adapter-for-objective2/)
 
-or/and
+The only con about this DIY is that there is no enclosure. If you wish you can 3D print one or order the enclosure from the website as well.<br>
 
-($12.99) [15V AC Power Adapter](https://www.jdslabs.com/products/147/us-15vac-power-adapter-for-objective2/)
+- ($12.99) [Top/side enclosure](https://www.jdslabs.com/products/94/aluminum-enclosure-for-objective2/)
 
-The only con about this DIY is that there is no enclosure. If you wish you can 3D print one or order the enclosure from the website as well.
+- ($9.99) [Front panel](https://www.jdslabs.com/products/34/machined-objective2-front-panel/)
 
-($12.99) [Top/side enclosure](https://www.jdslabs.com/products/94/aluminum-enclosure-for-objective2/)
-
-($9.99) [Front panel](https://www.jdslabs.com/products/34/machined-objective2-front-panel/)
-
-($9.99) [Rear plate](https://www.jdslabs.com/products/163/machined-objective2-odac-rear-plate-ac-usb-jacks/)
+- ($9.99) [Rear plate](https://www.jdslabs.com/products/163/machined-objective2-odac-rear-plate-ac-usb-jacks/)<br>
 
 for $99, you can get your own amp!
 
+![Amp](/amp/IMG_2449.jpg)
 
-The DIY Kit
-
-![Amp](/IMG_2449.jpg)
+![Amp](/amp/IMG_1203.jpg)
+*The DIY kit*
 
 Pictures and tools courtesy of Rui Wang @ Rays Hobby
