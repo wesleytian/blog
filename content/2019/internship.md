@@ -2,7 +2,7 @@
 title: "Tips on Getting Internships"
 date: 2019-04-19
 showDate: true
-draft: false
+draft: true
 tags: ["advice", "career", "work"]
 ---
 
