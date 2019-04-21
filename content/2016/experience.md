@@ -2,7 +2,7 @@
 date: 2016-02-19
 title: Experiences vs. Possessions
 draft: false
-tags: ["life"]
+tags: ["life", "story"]
 ---
 Departure.
 You don't really feel the emotions of leaving a place that has been your home until about 4 days before the date of departure. Everyone talks about it long before that phase like they are sad and sentimental, but you don't really feel it until it's right upon you.

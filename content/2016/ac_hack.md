@@ -1,8 +1,8 @@
 ---
 date: 2016-09-08
-title: Hacking an Inadequate Air Conditioner
+title: Hacking an Inadequate Air Conditioner – Part 1
 draft: false
-tags: ["tech", "music", "diy", "electronics"]
+tags: ["hardware", "project", "software", "c"]
 ---
 
 It was scorching hot this summer in Amherst, Massachusetts. Especially because my room was on the second floor, the room temperature would often rise to over 100° F during midday. The house I stayed in didn't have a central HVAC (heat-ventilation-air-conditioning) system built into the house so we opted for a window AC that could be inserted into the frame of the window and be plugged into the wall outlet for power. The problem with this AC was that not only did it not have a specific temperature setting, but also that once turned on, you could not turn it off with having to manually turn the dial on the AC. During the day this was not a problem as I could just turn around from my desk and turn the dial. At night, however, there was a problem.

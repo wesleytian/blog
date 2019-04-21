@@ -3,7 +3,7 @@ title: "Super Linux Warp Pipe"
 date: 2018-07-24T00:14:49-04:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["software", "linux", "work"]
 ---
 
 Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
