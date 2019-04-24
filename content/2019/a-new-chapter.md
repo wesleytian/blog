@@ -1,6 +1,6 @@
 ---
 title: "A New Chapter"
-date: 2019-01-17T00:21:56-04:00
+date: 2019-01-17
 showDate: true
 draft: false
 tags: ["story", "life", "philosophy"]
