@@ -1,11 +1,11 @@
 ---
 date: 2016-05-06
-title: Living with a Professor
+title: My New Housemate is a Professor
 draft: false
 tags: ["life", "story"]
 ---
 
-My freshmen chapter ends here and a new chapter begins.  Today is the first day as housemates with my professor, Rui (pronounced REY) Wang from UMass Amherst. I will be working with him on his open-source hardware business for the next 4 months.
+My freshmen chapter ends here and a new chapter begins.  Today is my first day as housemates with my professor, Rui (pronounced REY) Wang from UMass Amherst. I will be working with him on his open-source hardware business for the next 4 months.
 
 This opportunity is a godsend; the fact that I am making money is peanuts compared to what else I may gain from this invaluable experience. Spending so much time with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia. The information that I will be able to gain through talking to him, and working with him will hopefully give me a keener insight on my future as well help pave my academic path.
 

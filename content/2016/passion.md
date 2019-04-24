@@ -1,6 +1,6 @@
 ---
 date: 2016-07-23
-title: On Passion
+title: Passion > Money
 draft: false
 tags: ["life", "passion"]
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2016-02-19
-title: Experiences vs. Possessions
+title: Are Possessions More Important Than Experiences?
 draft: false
 tags: ["life", "story"]
 ---

@@ -18,6 +18,9 @@ These tips are the culmination of four years of applying to software engineering
 - asked me to explain it
 
 ## 3. Your Online Presence Matters
+
+
+
 - Companies do go through your personal websites
 - interviewed by google for swe (picture)dd
 - microsoft reached out through linkeidn (tip #2) (picture)

@@ -8,11 +8,16 @@ tags: ["music", "diy", "hardware", "project"]
 ![Amp](/amp/IMG_1212.jpg)
 *The finished Objective2 headphone amp*
 
-Why? What? and How?
-
 As a music enthusiast, I've always been in the pursuit of the best sound replication devices. As I researched more and more about headphones and the amazing world of sound replication, I kept reading about these things called amps and DACs (digital-to-analag converters). For a long time, I simply ignored those terms as I felt that they were too advanced for the average Joe. They seemed too complicated and only for the professional studio recorders or niche audiophile market. Some people are fine with their Apple Earpods, but seeing how much I enjoyed listening to music, I decided to further delve into this world of sound reproductions.
 
-# WHY
+## Table of Contents
+
+- [Why](#why)
+- [What](#what)
+- [How](#how)
+
+<a name="why"></a>
+## Why
 
 In order to play music, one must have an amp. Each computer and device that is able to play music have a built-in amp in the housing of the device. However, if you plan to use higher-fidelity earphones that have a higher output impendence (32ohms), then an external amp would be useful if not necessary to increase the volume without unnecessary distortion. As you may know, increasing the volume to high levels will not only cause damage to the headphones but will also cause enormous distortion. A good amp not only provides sufficient power to increase the volume of the sound but also do so without losing noticeable sound quality. An external headphone amp offers more space that can provide better circuitry and a stronger power supply.
 
@@ -20,11 +25,12 @@ Headphones such as the Sennheiser HD 600 and HD 800 have output impedances of 30
 
 ![Amp](/amp/IMG_1207.jpg)
 
-# WHAT
+<a name="what"></a>
+##  What
 
 What is so good about the Objective2?
 
-The story: Nwavguy[2] is an engineer who is also very interested in audio. He searched and searched for the perfect headphone amplifier but couldn't find one. He wanted an amp quiet enough you could use it with the most sensitive in-ear monitors but also powerful enough to drive a full-size can with 600-ohm impedance as well as magnetic-planar models. He also wanted an amp that had a low enough output impedance as to prevent frequency response and bass damping problems. And on top of that, it should be portable powered by DC and also be able to be powered through an AC wall adapter. He wasn't able to find one, so he decided to make his own and make it affordable as well. And as it turns out, if you cut the cost from marketing and unnecessary bling to make it look expensive but have subpar performance, you can create not only an affordable amp but an amp that is portable and offers the best sound quality that compares to the $1600 Benchmark DAC1 Pre in a listening comparison. 
+The story: [NwAvGuy](https://spectrum.ieee.org/tech-history/silicon-revolution/nwavguy-the-audio-genius-who-vanished) is an engineer who is also very interested in audio. He searched and searched for the perfect headphone amplifier but couldn't find one. He wanted an amp quiet enough you could use it with the most sensitive in-ear monitors but also powerful enough to drive a full-size can with 600-ohm impedance as well as magnetic-planar models. He also wanted an amp that had a low enough output impedance as to prevent frequency response and bass damping problems. And on top of that, it should be portable powered by DC and also be able to be powered through an AC wall adapter. He wasn't able to find one, so he decided to make his own and make it affordable as well. And as it turns out, if you cut the cost from marketing and unnecessary bling to make it look expensive but have subpar performance, you can create not only an affordable amp but an amp that is portable and offers the best sound quality that compares to the $1600 Benchmark DAC1 Pre in a listening comparison.
 
 > The DAC1 is something of a favorite in the audiophile headphone community. A lot of subjective critics, and those who have measured it, really love it. So it’s all the more satisfying nobody has yet been able to tell the O2 from the DAC1’s headphone amp. [Source](http://nwavguy.blogspot.com/2011/07/o2-headphone-amp.html#measurements)
 
@@ -39,7 +45,8 @@ If you are, however, after the solid facts, below I have included the evidence t
 
 http://nwavguy.blogspot.com/2011/07/o2-headphone-amp.html#measurements
 
-# HOW
+<a name="how"></a>
+##  How
 How did I build the Objective2? Now this is the fun part.
 
 Now that I've convinced you to buy the Objective2, you must be asking: where can I get one? [Here](https://www.jdslabs.com/products/35/objective2-headphone-amplifier/) you can buy it completely assembled and enclosed in an anodized and fully polished enclosure for $129. It is also customizable for different outputs such as for different countries or 3.5mm headphone jack to 6.35mm (1/4in) headphone jack.
@@ -71,4 +78,4 @@ for $99, you can get your own amp!
 ![Amp](/amp/IMG_1203.jpg)
 *The DIY kit*
 
-Pictures and tools courtesy of Rui Wang @ Rays Hobby
+Thanks Rui Wang @ Rays Hobby

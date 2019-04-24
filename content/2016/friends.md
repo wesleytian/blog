@@ -1,9 +1,13 @@
 ---
 date: 2016-02-20
-title: Defined by Your Friends
+title: Friends
 draft: false
 tags: ["advice"]
 ---
+
+We've all heard this quote before:
+
+> “You are the average of the five people you spend the most time with.” – Jim Rohn
 
 Do your friends define who you are? Take a moment to ponder this thought.
 

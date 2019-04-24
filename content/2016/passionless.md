@@ -1,11 +1,11 @@
 ---
 date: 2016-05-18
-title: I Don't Have a Passion. Yet.
+title: What is your passion?
 draft: false
 tags: ["passion", "life", "story"]
 ---
 
-"What is your passion?" my professor, Rui (pronounced Ray) Wang, asked.
+"What is your passion?" my professor, Rui (pronounced REY) Wang, asked.
 
 At first, the question seemed simple. Yet, after pondering it, I realized I didn't have an answer.
 

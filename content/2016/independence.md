@@ -1,6 +1,6 @@
 ---
 date: 2016-07-16
-title: How I Became Independent
+title: Independence
 draft: false
 tags: ["life", "story"]
 ---
@@ -11,7 +11,7 @@ tags: ["life", "story"]
 
 "When you turn 18, you're on your own," my dad had told me time and time again ever since I was old enough to begin worrying about college.
 
-He told me that he would only cover my school tuition. (I'm   plenty privileged to have parents willing to cover my college tuition. I realize that many people do not have this privilege.) I was 14 when he told me that for the first time. And like any other 14-year-old teen, I brushed it aside and comforted myself that I would be fine and worry about it when the time came. When I turned 18 and went to college, he kept his word about only paying for my tuition. From that point onward, I was on my own.
+He told me that he would only cover my school tuition. (I'm plenty privileged to have parents willing to cover my college tuition. I realize that many people do not have this privilege.) I was 14 when he told me that for the first time. And like any other 14-year-old teen, I brushed it aside and comforted myself that I would be fine and worry about it when the time came. When I turned 18 and went to college, he kept his word about only paying for my tuition. From that point onward, I was on my own.
 
 This "on your own" thing meant that I had to find housing, food on my own and finance it on my own. I had nobody else to rely on but my friends at times. Either I would find a mean of making money, or I would starve.
 
@@ -50,4 +50,4 @@ I am in no way promoting trading self-studying for office hours or saying that g
 
 ## Final Thoughts
 
-It's hard to teach one independence and responsibility. Experience is the best teacher. that my parents have enough trust and faith in me to survive on my own and are confident in their ability to guide me and for that, I am grateful beyond words.
+It's hard to teach one independence and responsibility. Experience is the best teacher. My parents trusted their judgment to let me survive on my own, and for that, I am grateful beyond words.
