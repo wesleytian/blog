@@ -1,8 +1,8 @@
 ---
 date: 2016-02-20
-title: Friends
+title: Thanks Amigos
 draft: false
-tags: ["advice"]
+tags: ["personal"]
 ---
 
 We've all heard this quote before:

@@ -1,8 +1,8 @@
 ---
 date: 2015-09-01
-title: Climbing the Half Dome
+title: Climbing The North Face
 draft: false
-tags: ["climbing", "hiking", "outdoors"]
+tags: ["personal", "travel"]
 ---
 
 It's been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.<br>

@@ -1,8 +1,8 @@
 ---
 date: 2015-07-27
-title: A Journey of a Thousand Miles Begins With a Single Step
+title: A Simple Brain Hack To Accomplish More
 draft: false
-tags: ["advice"]
+tags: ["personal", "advice"]
 ---
 
 Sometimes you don’t feel like going to the gym. For one reason or another, the real reason is that you’re too lazy and don’t feel like it. Don’t make excuses. But that’s another point.

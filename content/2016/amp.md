@@ -1,8 +1,8 @@
 ---
 date: 2016-07-23
-title: Assembling My Own Headphone Amplifier
+title: Building My Own Headphone Amp
 draft: false
-tags: ["music", "diy", "hardware", "project"]
+tags: ["personal", "project"]
 ---
 
 ![Amp](/amp/IMG_1212.jpg)

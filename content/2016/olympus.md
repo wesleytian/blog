@@ -1,8 +1,8 @@
 ---
 date: 2016-09-02
-title: Climbing Mt. Olympus
+title: The Happiest Moment of My Life
 draft: false
-tags: ["climbing", "hiking", "outdoors", "europe"]
+tags: ["personal", "travel"]
 ---
 
 Pic: View from Mt. Olympus
@@ -167,7 +167,7 @@ http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg Breakfast (Bre
 ##  Final Verdict
 Out of all the hikes that I've been on so far, (Mt. Fuji, Half Dome, other less popular hikes) Mt. Olympus has been my favorite experience of them all. First, the people were amazing. The guys that I hiked up the mountain with were extremely friendly and even though two of them did not speak English at all (Romanian and Greek), they were nice and fun people to be around. The people at the Refuge were really good-natured and friendly as well. You will meet people from all over the world and it seems like hikers are just really nice people in general. I became friends with 2 Greeks, 1 Romanian fellow, 3 Austrians, 2 Germans as well as 2 dogs.
 
-The views were absolutely stunning. I finally understand what people mean by 'some views are worth dying for' now. Waking up to the sunrise over Litochoro and the sea was absolutely magical. The hike up the mountain was phenomenal as well. I chose hiking Mt. Olympus over going to the Santorini islands and I think it was definitely worth it. Even though the sights were jaw-dropping, hiking isn't just about the sights, it's about the entire experience that includes the people, the smells, and the feelings that you endure through the hike.
+The views were absolutely stunning. I finally understand what people mean by 'some views are worth dying for' now. Waking up to the sunrise over Litochoro and the sea was absolutely magical. The hike up the mountain was phenomenal as well. I chose hiking Mt. Olympus over going to the Santorini islands and I think it was definitely worth it. Even though the sights were jaw-dropping, hiking isn't just about the sights, it's about the entire experience that includes the people, the smells, and the feelings that you experience through the hike.
 
 This trip I went to Athens, Litochoro, Rome, Florence, Venice and Milan and out of all of the sights and people I met in those cities, I think the hike to Mytikas will definitely be the most memorable experience of them all. Much better than just going somewhere and looking at historical monuments, being able to climb the "Mountain of the gods" that the Greeks have deemed as the location of their Mythological gods was the most amazing thing that I have done.
 

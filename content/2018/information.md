@@ -3,7 +3,7 @@ title: "More Information is Not Always Good"
 date: 2018-08-02T00:14:49-04:00
 showDate: true
 draft: false
-tags: ["story", "philosophy"]
+tags: ["personal"]
 ---
 
 A few days ago, I was debating with my co-workers Alice and Bob about whether or not having more information is always benefical to a person. I'm not going to be able to express their thoughts with high fidelity, so I will only express mine here.

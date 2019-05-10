@@ -3,7 +3,7 @@ title: "Becoming a Better Software Engineer"
 date: 2018-07-25T00:14:49-04:00
 showDate: true
 draft: false
-tags: ["software", "engineering", "work"]
+tags: ["work", "internship", "advice"]
 ---
 
  I've recently realized that the skills you learn as a software engineer (SWE) are disjoint from the skills that you learn in school. Below are some of my findings.

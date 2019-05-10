@@ -1,9 +1,9 @@
 ---
-title: "Hacking the Resume"
+title: "Recruiters Don't Want You to Know This"
 date: 2019-04-19
 showDate: true
 draft: false
-tags: ["advice", "career", "work"]
+tags: ["work", "advice"]
 ---
 
 ## 1. Change your graduation date

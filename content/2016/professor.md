@@ -2,7 +2,7 @@
 date: 2016-05-06
 title: My New Housemate is a Professor
 draft: false
-tags: ["life", "story"]
+tags: ["personal", "internship"]
 ---
 
 My freshmen chapter ends here and a new chapter begins.  Today is my first day as housemates with my professor, [Rui (pronounced REY) Wang from UMass Amherst](https://people.cs.umass.edu/~ruiwang/). I will be working with him on his [open-source hardware business](https://rayshobby.net/wordpress/) for the next 4 months.

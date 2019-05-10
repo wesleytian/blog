@@ -1,9 +1,9 @@
 ---
 author: "Wesley Tian"
-title: Advice from a 4.00 GPA CS Freshman
+title: College Advice
 date: 2016-10-16
 draft: false
-tags: ["advice", "college"]
+tags: ["school", "advice"]
 ---
 
 ### 1. Take classes with the course chair

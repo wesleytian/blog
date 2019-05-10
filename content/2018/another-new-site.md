@@ -3,7 +3,7 @@ title: "Another New Site?"
 date: 2018-07-15T00:14:49-04:00
 showDate: true
 draft: false
-tags: ["meta", "story"]
+tags: ["personal", "meta"]
 ---
 
 So, it seems like every few months I've been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.

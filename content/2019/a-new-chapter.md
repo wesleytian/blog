@@ -2,8 +2,8 @@
 title: "A New Chapter"
 date: 2019-01-17
 showDate: true
-draft: false
-tags: ["story", "life", "philosophy"]
+draft: true
+tags: ["personal"]
 ---
 
 Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad's side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China's insane economic development, advances in artificial intelligence, and a new social credit system that looks like something that came out of a Black Mirror episode.

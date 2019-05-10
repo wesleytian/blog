@@ -1,8 +1,8 @@
 ---
 date: 2016-07-16
-title: Independence
+title: How I Became Independent at 18
 draft: false
-tags: ["life", "story"]
+tags: ["personal"]
 ---
 
 *The following is a story about my dad's iron fist and how he guided me to complete independence at a tender age of 18 and what I did about it.*

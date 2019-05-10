@@ -3,7 +3,7 @@ title: "Hosting Hugo Using GitHub"
 date: 2018-07-15T00:14:49-04:00
 showDate: true
 draft: false
-tags: ["software", "meta"]
+tags: ["personal", "meta", "project", "programming"]
 ---
 
 In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called `public` and will be inside of your source repository. This will be done by using a `git submodule`.
