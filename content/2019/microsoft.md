@@ -6,7 +6,9 @@ draft: true
 tags: ["work", "internship"]
 ---
 
-I'm only writing about this because of how bizzare my recruiting process was. This post describes it. (If you'd like to know what questions my interviewers asked me, please comment below.) Not only did I apply for an internship position and receive a full-time offer but when I flew to Seattle for the on-site, the interview got cancelled so I had to fly back again. If you want tips to help you get an internship or full-time offer at Microsoft or a similar company, see [How to Get an Internship at a Big 4](/2019/internship/).
+This post describes how bizzare my recruiting process was. (If you're interested about the actual details of the interview itself, please comment below.) I applied for an internship position and came out of the process with a a full-time offer. Additionally, I was flown out to Seattle twice for the same interview.
+
+If what you're looking for are tips to help you get an job at Microsoft or a similar company, see [How to Get an Internship at a Big 4](/2019/internship/).
 
 The entire process from my initial contact with a recruiter to me receiving an offer took over a year! Below is the entire timeline.
 
@@ -41,11 +43,11 @@ The entire process from my initial contact with a recruiter to me receiving an o
 
 ### Part 3 - Wait, What?
 
-[08-16-2018] <span style="color:red"> Recruiter #1</span>: **"We’re excited to have you come to Redmond, WA for the Full-time SWE [Software Engineering]" [sic]** 
+[08-16-2018] <span style="color:red"> Recruiter #1</span>: **"We’re excited to have you come to Redmond, WA for the Full-time SWE [Software Engineering]" [sic]**
 
 *Full-time? That's a typo, right?* <br>
 
-I was pretty sure that I was still being interviewed for an internship role because that's what I applied for and my graduation date was more than a year in advance with a whole summer in between now and then. Even if it was for a full-time position, I had little interest in working for Microsoft at the time so I thought the free trip and interview experience would be good practice for interviewing at other companies.
+I was almost certain that I was still being interviewed for an internship role because that's what I applied for and my graduation date was more than a year in advance with a whole summer in between now and then. Even if it was for a full-time position, I had little interest in working for Microsoft at the time so I thought the free trip and interview experience would be good practice for interviewing at other companies.
 
 [08-17-2018] <span style="color:blue">Me</span>: Sent email asking some questions <br>
 [08-18-2018] <span style="color:blue">Me</span>: Fly to Seattle <br>

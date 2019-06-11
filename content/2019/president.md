@@ -47,7 +47,6 @@ In hindsight, all these things that we did above seem obvious and don't seem har
 
 It felt so good to make such an improvement. To see students collaborating and having fun when they weren't before. To see students continue coming to meetings even during exam week and through the entire semester up until the very last meeting. It's a feeling that is addicting and is the most rewarding thing that I have ever done in college. It gave me purpose and a sense of accomplishment. **The accomplishment of leading a group to success has been more rewarding to me than any personal achievement ever. It wasn't just geting the highest test score in some class, I created a sense of community and directly improved the lives of others.**
 
-
 ## What Did I Learn?
 In order to become the best leader I could, I consciously tried to improve my leadership skills. These are a few of the things that I learned.
 
