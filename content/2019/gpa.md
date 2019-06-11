@@ -2,7 +2,7 @@
 title: "I Had a 1.95/4.00 GPA in High School"
 date: 2019-05-09
 showDate: true
-draft: false
+draft: true
 tags: ["personal", "advice"]
 ---
 
