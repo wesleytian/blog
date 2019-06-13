@@ -27,7 +27,7 @@ Since the founding of the team five years ago, the team has had problems with me
 
     <img src="/president/1.jpeg" alt="High school junior year transcript"
     title="I wasn't kidding." width="50%" height="50%" class="center"/>
-    <center> *A team of Chemistry PhD students presenting to a professor* </center>
+    <center> *A team of Chemistry Ph.D. students presenting to a professor* </center>
 
     <img src="/president/2.jpeg" alt="High school junior year transcript"
     title="I wasn't kidding." width="50%" height="50%" class="center"/>
