@@ -9,11 +9,11 @@ tags: ["work", "internship", "advice"]
 Here are five pieces of wisdom that I've gained from applying to hundreds of companies and speaking to hundreds of recruiters in the past four years. These tips aren't just valuable for landing internship offers from the Big 4 (Facebook, Amazon, Microsoft, Google), but also at other companies.
 
 ### 1. Your Online Presence Matters More Than You Think
-Some people think that maintaining a personal website or LinkedIn is a waste of time. There are two main misconceptions. <br>
+Some people think that maintaining a personal website or LinkedIn is a waste of time. I've discovered two misconceptions. <br>
 
 1. Recruiters don't have the time to look at your personal website.
 
-    I applied to Google's software engineering internship when I was a sophomore at UMass Amherst. According to many applicants, the online application for sophomores is a "black hole". You apply and never hear back from them again. You can imagine how ecstatic I was when I received an email from my recruiter that I had landed two phone interviews with Google software engineers. *How did I not get sucked into the "black hole"?* I believe it was because of [this exact blog post](/2016/ac_hack/). By looking at the Google Analytics for my website, I discovered that a person from Mountain View, CA (where Google's HQ is located) had visited my site between the time I submitted my application and the time my recruiter contacted me. My website was kept quite private at the time so it was unlikely that a random person from Mountain View just happened to stumble upon my website. Because of this, I have sufficient reason to believe that the reason I was one of the only sophomores at UMass Amherst to be interviewed by Google was because of my blog post.
+    I applied to Google's software engineering internship when I was a sophomore at UMass Amherst. According to many applicants, the online application for sophomores is a "black hole". You apply and never hear back from them again. You can imagine how ecstatic I was when I received an email from my recruiter that I had landed two phone interviews with Google software engineers. *How did I not get sucked into the "black hole?* I believe it was because of [this blog post](/2016/ac_hack/). By looking at the Google Analytics for my website, I discovered that a person from Mountain View, CA (where Google's HQ is located) had visited my site between the time I submitted my application and the time my recruiter contacted me. My website was kept quite private at the time so it was unlikely that a random person from Mountain View just happened to stumble upon my website. Because of this, I believe that the reason I was one of the only sophomores at UMass Amherst to be interviewed by Google was because of my blog post.
 
 2. Recruiters don't offer interviews through LinkedIn.
 
@@ -42,39 +42,22 @@ Keep calm and apply on!
 ### 3. Recruiting Processes Aren't Perfect
 Nothing is. Instead of complaining of how recruiters take forever to respond, be proactive and reach out to them continuously. Go meet them at campus events or career fairs. Ping them on LinkedIn. Do whatever you can to get in touch with them. **It's up to you, not them, to move you forward in the process.**
 
-Similar to tip #3, never give up once you get started in a recruiting process with a company. Even if it means emailing the recruiter again and again, week after week. Keep emailing them until they reply or move on to the next stage in your process. Sometimes it may even be beneficial to talk to the recruiter in person at a career fair if they don't seem to be replying to your emails. Of course, give them at least a week before reminding them. And do it politely. They're not required by any means to to do anything for you.
+Similar to tip #3, never give up once you get started in a recruiting process with a company. Even if it means emailing the recruiter again and again, week after week. Keep emailing them until they reply or move on to the next stage in your process. Sometimes it may even be beneficial to talk to the recruiter in person at a career fair if they don't seem to be replying to your emails. Of course, give them at least a week before reminding them. And do it politely. They're not required to to do anything for you.
 
-When I was interviewing with Fidelity Investments, my recruiter changed and after emailing the new recruiter it seemed like I never got a reply. Thus, I went to the campus career fair to find the recruiter in person. I talked to him, handed him my resume, and then got my resume forwarded to the managers at their headquarters. <br>
-[09-27-2016] - <span style="color:blue"> Me</span>: Applied online <br>
-[10-04-2016] – Round 1: Digital Interview <br>
-[10-21-2016] - <span style="color:red"> Recruiter #1</span>Invitation to schedule an interview. <br>
-[10-31-2016] - Round 2: 20min behavorial Interview <br>
-[11-08-2016] - <span style="color:blue"> Me</span>: I sent a follow-up thank you email for the interview. <br>
-[12-24-2016] - <span style="color:red"> Recruiter #1</span>: Received email saying that I was still being considered and the process was taking longer than usual. <br>
-[02-10-2017] - <span style="color:red"> Recruiter #1</span>: Informs me that my recruiter had been changed. <br>
-[02-12-2017] - <span style="color:blue"> Me </span>: Emailed Recruiter #2 about my situation <br>
-[02-16-2017] - <span style="color:blue"> Me</span>: Spoke with my new recruiter in person at a campus recruiting event <br>
-[02-17-2017] - <span style="color:orange"> Recruiter #2</span>: Recieved repyl from new recruiter that he had sent my resume to the managers at their HQ <br>
-[03-17-2017] - <span style="color:orange"> Recruiter #2</span>: Reiceved word that a manager wanted to talk to me <br>
-[03-21-2017] - Round 3: Spoke with the manager <br>
-[03-21-2017] - <span style="color:blue"> Me</span>: Phone call follow-up with questions
-[03-30-2017] - Discussed internship start/end dates <br>
-[04-11-2017] - Recieved my offer letter <br>
-
-See [I Interviewed for an Internship at Microsoft but Got a Full-Time Offer](/2016/microsoft/) for details about an even lengthier recruiting process.
+When I was interviewing with Fidelity Investments, my recruiter changed and after emailing the new recruiter it seemed like I never got a reply. Thus, I went to the campus career fair to find the recruiter in person. I talked to him, handed him my resume, and then got my resume forwarded to the managers at their headquarters. Without doing this, I would've been jobless during my sophomore summer.
 
 ### 4. Study
 Study for your interviews!  This tip is underrated for many freshman and sophomores. Many freshmen and sophomores don't expect to get interviews, so when they do, they can be unprepared. I learned this the hard way when I got my Google interview during my sophomore year. Those were probably two of the most stressful weeks of my life. Learn from my mistake and start preparing for your interviews earlier. Note: cramming does not work for programming interviews.
 
-If you want to land your dream internship, start preparing for the interview the summer before the fall recruiting season. By September, you should know your data structures and algorithms like the back of your hand. The steps that you need to take to land your dream internship are quite straightforward. **Though it may vary from person to person, generally speaking if you do about 100 LeetCode medium questions you can get into any of the Big 4.** If you want to get into the uber-cometitive companies such as Airbnb, you may need to do 150 LeetCode medium questions. I think I did about 50 medium, 25 easy, and a few hard LeetCode questions before getting a full-time offer from Microsoft. Knowing what to do is easy. Just schedule two hours on your calendar each day to do two questions on [LeetCode](www.leetcode.com). When I was preparing during my junior year, do two questions after dinner each day. If you can keep this up for the entire summer, your chances of getting into your dream internship will be quite good.
+If you want to land your dream internship, start preparing for the interview the summer before the fall recruiting season. By September, you should know your data structures and algorithms like the back of your hand. The steps that you need to take to land your dream internship are quite straightforward. **Though it may vary from person to person, generally speaking if you do about 100 LeetCode medium questions you can get into any of the Big 4.** If you want to get into uber-cometitive companies such as Airbnb, you may need to do 150 LeetCode medium questions. I think I did about 50 medium, 50 easy, and a few hard LeetCode questions before getting a full-time offer from Microsoft. Knowing what to do is easy. Just schedule two hours on your calendar each day to do two questions on [LeetCode](www.leetcode.com). When I was doing interview prep during my junior year, I did two questions after dinner each day. If you can keep this up for the entire summer, your chances of getting into your dream internship will be quite good.
 
-The easy part is knowing what the process entails. The hard part is developing the motivation to follow through with your plan. I helped motivate myself by inviting friends to do interview prep with me. When one friend was busy, I would invite another friend. This way I always had somebody to keep myself accountable.
+The easy part is knowing what the process entails. The hard part is developing the motivation to follow through with your plan. I helped motivate myself by inviting friends to do interview prep with me. When one friend was busy, I invited another friend. This way I always had somebody to keep myself accountable.
 
 <img src="/internship/schedule.png" alt="LeetCode schedule"
     title="LeetCode schedule" width="50%" height="50%" class="center"/>
 
 ### 5. Beggars Can't Be Choosers
-For those who are having a hard time freshmen and sophomores have a difficult time finding internships. This is why you have to take what you can get, even if it means making sacrifices such as seeing friends and family or going on taking a break from school.
+This tip is for those who are having a hard time (especially freshmen and sophomores) finding internships. You have to take what you can get, even if it means making sacrifices such as seeing friends and family or going on taking a break from school.
 
 A few weeks before the end of my freshmen year, one of my professors sent out an email looking to hire a summer intern. Long story short, I got the job because I was flexible with where I was going to live, and the work schedule. I started as soon as school ended and moved into a spare room in the professors home. See [Independence](/2016/independence/) for why I think the professor chose me over other candidates.
 
