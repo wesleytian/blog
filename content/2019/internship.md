@@ -2,7 +2,7 @@
 title: "How to Land Your Dream Internship"
 date: 2019-05-08
 showDate: true
-draft: true
+draft: false
 tags: ["work", "internship", "advice"]
 ---
 
