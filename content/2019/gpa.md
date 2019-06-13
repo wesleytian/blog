@@ -8,7 +8,7 @@ tags: ["personal", "advice"]
 
 > If you don't believe in yourself, nobody else will. – Me
 
-During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended my first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.96 is equal to a C+ (77%-79%).
+During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended my first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.95 is equal to a C+ (77%-79%).
 
 <img src="/gpa/transcript.jpeg" alt="High school junior year transcript"
     title="I wasn't kidding." width="60%" height="60%" class="center"/>
@@ -18,7 +18,7 @@ I applied to college with a 2.92 GPA.
 
 To put that into perspective, the average GPA for University of Michigan's accepted class in 2018 was 3.88 / 4.00.
 
-Oh and fun fact, I also got a 1 (failing score) on the AP Computer Science exam.
+Oh and fun fact, I also got a 1 (failing score) on the AP Computer Science exam and my computer science professor told me that I wasn't fit to be do programming. Nevertheless, I never stopped believing that my future self would pick it up and turn my life around.
 
 I will split this post into two sections. Section one will be about why my GPA was so terrible. Section two will be about what I learned from this experience.
 
@@ -28,7 +28,7 @@ I was first introduced to a game called League of Legends around the end of my f
 
 It was around that point when I decided that I would stop at nothing to become one of the best players out there.
 
-I was stuck at the bottom 10% of the players for nearly two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
+Out of the 25 million players, I was stuck at the bottom 3% of the them for nearly two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
 <img src="/gpa/hell.png" alt=""
     title="Talk about being bad." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
@@ -37,7 +37,9 @@ I began to spend more and more time on improving my game mechanics.
 
 I had many serious fights with my parents during this time due to my falling grades. I skipped many classes and slept through my exams.
 
-By the start of my junior year, I caused my parents to give up on me.
+My parents, counselors, and teachers became heavily involved with me and tried all sorts of measures to control my computer usage. I was so addicted to getting better at the game that I threatened my parents that I would kill myself if they continued to try to restrict my life. By the start of my junior year, my parents gave up on me and gave me complete freedom.
+
+Many people may be shocked that my parents would do that. I don't know why they did, but after recentely talking to my mom about this,
 
 After two years, I reached my goal and ended up in the top 2% of players in the world. I finally became better than all my peers at League of Legends. But, my GPA suffered as a result. It wasn't easy. I stayed up till 4 AM on weekdays even when I had swim practice at 6 AM. I practiced my game mechanics for up to 10 continuous hours on the weekends and spent an estimated total of more than 1500 hours on the game.
 
@@ -58,11 +60,17 @@ I remember that my biggest goal as a kid was to become a billionaire. I don't kn
 
 That was far-fetched for me at the time so I broke that goal down into subgoals. When I was luckily accepted by University of Massachusetts, Amherst, the only thing that I had on my mind was to transfer to a better university such as Columbia or the University of Michigan. The statistics told me that going to one of these schools gave me a higher probability of becoming a billionaire.
 
-From my junior year to accepting my admission to the University of Michigan in April 2017, everything I did was to help me transfer.
+From my high school senior year's second semester to accepting my admission to the University of Michigan in April 2017, everything I did was to help me transfer.
 
-After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018.
+I quit gaming cold turkey and started studying because I had a different goal in mind.
+
+It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits (18 credits is the most you can take without having to pay extra tuition) and got a 4.00 / 4.00 GPA.
+
+After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
 
 My next goal will be to find my dream job, wherever that is.
+
+In two weeks, I will be running my first marathon. In a couple years, I will run an Ironman and climb Mt. Everest.
 
 One day, I will start my own billion dollar company.
 
