@@ -8,7 +8,7 @@ tags: ["personal", "advice"]
 
 > If you don't believe in yourself, nobody else will. – Me
 
-During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended my first semester of junior year with a 1.96 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.96 is equal to a C+ (77%-79%).
+During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended my first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.96 is equal to a C+ (77%-79%).
 
 <img src="/gpa/transcript.jpeg" alt="High school junior year transcript"
     title="I wasn't kidding." width="60%" height="60%" class="center"/>
