@@ -18,7 +18,7 @@ I applied to college with a 2.92 GPA.
 
 To put that into perspective, the average GPA for University of Michigan's accepted class in 2018 was 3.88 / 4.00.
 
-Oh and fun fact, I also got a 1 (failing score) on the AP Computer Science exam and my computer science professor told me that I wasn't fit to be do programming. Nevertheless, I never stopped believing that my future self would pick it up and turn my life around.
+Oh and fun fact, I also got a 1 (failing score) on the AP Computer Science exam and my computer science professor told me that I wasn't fit to do programming. Nevertheless, I never stopped believing that my future self would pick it up and turn my life around.
 
 I will split this post into two sections. Section one will be about why my GPA was so terrible. Section two will be about what I learned from this experience.
 
@@ -28,7 +28,7 @@ I was first introduced to a game called League of Legends around the end of my f
 
 It was around that point when I decided that I would stop at nothing to become one of the best players out there.
 
-Out of the 25 million players, I was stuck at the bottom 3% of the them for nearly two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
+Of the 25 million players, I was stuck at the bottom 3% of them for nearly two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
 <img src="/gpa/hell.png" alt=""
     title="Talk about being bad." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
@@ -39,7 +39,7 @@ I had many serious fights with my parents during this time due to my falling gra
 
 My parents, counselors, and teachers became heavily involved with me and tried all sorts of measures to control my computer usage. I was so addicted to getting better at the game that I threatened my parents that I would kill myself if they continued to try to restrict my life. By the start of my junior year, my parents gave up on me and gave me complete freedom.
 
-Many people may be shocked that my parents would do that. I don't know why they did, but after recentely talking to my mom about this,
+Many people may be shocked that my parents would do that. I don't know why they did, but after recently talking to my mom about this, she told me that it was because she believed in me and that if I did learn a lesson from all of this, it would come from within. She was right and I am extremely appreciative of her courage to believe in me.
 
 After two years, I reached my goal and ended up in the top 2% of players in the world. I finally became better than all my peers at League of Legends. But, my GPA suffered as a result. It wasn't easy. I stayed up till 4 AM on weekdays even when I had swim practice at 6 AM. I practiced my game mechanics for up to 10 continuous hours on the weekends and spent an estimated total of more than 1500 hours on the game.
 
@@ -50,7 +50,7 @@ The reason why my GPA was so bad in high school is simple. I spent all my time t
 
 ### Dream Big and Never Stop Believing in Yourself
 
-I've always had big dreams. Everybody should. I dislike people who laugh at others for having big dreams. It's the one trait that I value more than everything else.
+I've always had big dreams. Everybody should. I dislike people who laugh at others for having big dreams. It's the one trait that I value more than anything else.
 
 Like my dream of becoming the top 1% of players in League of Legends, I kept on dreaming, kept on setting goals for myself, and kept on achieving them.
 
@@ -82,7 +82,7 @@ For example, between my sophomore and senior year, the only thing that I wanted 
 
 I hope your takeaway from this post isn't that I was stupid or that my parents are failures or that I like bragging about my accomplishments/goals. (I find that it's hard to sometimes convey the same message to everybody.)
 
-The aim of my post is to convince you to dream big and never stop believing in yourself through a personal anecdote. As long as you dream big and believe in yourself, you will do what is necessary to achieve your dreams. Though this following quote is not scientifically accurate, you know what they say:
+The aim of this post is to convince you to dream big and never stop believing in yourself through a personal anecdote. As long as you dream big and believe in yourself, you will do what is necessary to achieve your dreams. Though this following quote is not scientifically accurate, you know what they say:
 
 > "Shoot for the moon, even if you miss, you'll land amongst the stars."
 
