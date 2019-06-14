@@ -28,7 +28,7 @@ I was first introduced to a game called League of Legends around the end of my f
 
 It was around that point when I decided that I would stop at nothing to become one of the best players out there.
 
-Of the 25 million players, I was stuck at the bottom 3% of them for nearly two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
+Of the 25 million players, I was stuck at the bottom 3% of them for two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
 <img src="/gpa/hell.png" alt=""
     title="Talk about being bad." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
@@ -40,7 +40,7 @@ I had many serious fights with my parents during this time due to my falling gra
 
 My parents, counselors, and teachers became concerned for me and tried all sorts of measures to control my computer usage. I was so addicted to getting better at the game that I threatened my parents that I would kill myself if they continued to try to restrict my life. By the start of my junior year, my parents gave up on me and gave me complete freedom.
 
-Some people are shocked that my parents would do that. My mom told me recently that it was because she believed in me and that if I did learn a lesson from all of this, it would have to come from within. She was right and I am grateful to her beyond words.
+Some people are shocked that my parents would do that. My mom told me recently that it was because she believed in me and that if I did learn a lesson from all this, it would have to come from within. She was right and I am grateful to her beyond words.
 
 After two years, I reached my goal and ended up in the top 2% of players in the world. I finally became better than all my peers at League of Legends. But, my GPA suffered as a result. It wasn't easy. I stayed up till 4 AM on weekdays even when I had swim practice at 6 AM. I practiced my game mechanics for 10 continuous hours on the weekends and spent an estimated total of more than 1500 hours on the game.
 
@@ -85,7 +85,7 @@ One day, I will start my own billion dollar company.
 
 Note: It's also okay if your goals change. Unexpected things happen and there's nothing wrong with changing your goals, as long as you don't change them too often. To know when a goal is worth changing, I reflect and ask myself the following question, "is this goal taking me in the direction that makes me happy day-after-day or am I doing something jus because other people think it's the cool thing to do?"
 
-For example, between my sophomore and senior year, the only thing that I wanted to do was to pursue research in machine learning (ex. get a Ph.D. in machine learning at Stanford, then work at Google DeepMind.) I went soul-searching for quite a while, but finally realized that I was only doing it because it was the hottest thing in computer science and not because I enjoyed the work. What I really enjoyed was leading others and building communities and products. See [Being President Was The Best Thing I Did In College](/2019/president/)
+For example, between my sophomore and senior year, the only thing that I wanted to do was to pursue research in machine learning (ex. get a Ph.D. in machine learning at Stanford, then work at Google DeepMind.) I went soul-searching for quite a while, but finally realized that I was only doing it because it was the hottest thing in computer science and not because I enjoyed the work. What I enjoyed was leading others and building communities and products. See [Being President Was The Best Thing I Did In College](/2019/president/)
 
 ### Conclusion
 
