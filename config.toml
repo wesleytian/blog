@@ -38,7 +38,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = ""
+twitter = "wesleyytian"
 github = "wesleytian"
 email = "tian.wesley@gmail.com"
 linkedin = "wesleytian"
@@ -48,7 +48,7 @@ codepen = ""
 facebook = "wesleytian"
 
 [params.social.config]
-platforms = ["facebook", "linkedin", "github","email"]
+platforms = ["twitter", "facebook", "linkedin", "github","email"]
 
 [params.matomoAnalytics]
 siteID = 1
