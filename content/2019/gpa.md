@@ -69,19 +69,19 @@ It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits
 
 <img src="/gpa/5.png" alt=""
     title="My first semester of college" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
-<center>*My first semester of college*</center>
+<center>*My first semester of college at UMass Amherst*</center>
 
 <img src="/gpa/6.png" alt=""
 title="Last semester" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
-<center>*Last semester*</center>
+<center>*My most recent semester at UMich*</center>
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
 
-I never stopped believing in myself, and my friends and family never stopped believing in me.
+During all of this, I never stopped believing in myself, and my friends and family never stopped believing in me.
 
 My next goal will be to find my dream job, wherever that is.
 
-In two weeks, I will be running my first marathon. In a couple years, I will run an Ironman and climb Mt. Everest.
+In two weeks, I will be running my first marathon. In a couple years, I plan to do an Ironman and climb Mt. Everest.
 
 One day, I will start my own billion dollar company.
 
