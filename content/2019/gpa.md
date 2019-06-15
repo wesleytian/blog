@@ -47,7 +47,7 @@ After two years, I reached my goal and ended up in the top 2% of players in the 
 The reason why my GPA was so bad in high school is simple. I spent all my time trying to become better than my peers at League of Legends. (And I finally did it.)
 
 <img src="/gpa/d5.PNG" alt=""
-    title="On the most competitive Chinese server too." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+    title="Diamond 5" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
 
 ### Dream Big and Never Stop Believing in Yourself
 
@@ -68,11 +68,11 @@ I quit gaming cold turkey and started studying because I had a new goal in mind.
 It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits (18 credits is the most you can take without having to pay extra tuition) and got a 4.00 / 4.00 GPA.
 
 <img src="/gpa/5.png" alt=""
-    title="On the most competitive Chinese server too." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+    title="My first semester of college" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
 <center>*My first semester of college*</center>
 
 <img src="/gpa/6.png" alt=""
-title="On the most competitive Chinese server too." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+title="Last semester" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
 <center>*Last semester*</center>
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
