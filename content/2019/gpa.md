@@ -8,7 +8,7 @@ tags: ["personal", "advice"]
 
 > If you don't believe in yourself, nobody else will. – Me
 
-During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended the first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.95 is equal to a C+ (77%-79%).
+During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended the first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.95 is equal to a C- (73%-70%).
 
 <img src="/gpa/transcript.jpeg" alt="High school junior year transcript"
     title="I wasn't kidding." width="60%" height="60%" class="center"/>
@@ -87,10 +87,6 @@ Note: It's also okay if your goals change. Unexpected things happen and there's 
 
 For example, between my sophomore and senior year, the only thing that I wanted to do was to pursue research in machine learning (ex. get a Ph.D. in machine learning at Stanford, then work at Google DeepMind.) I went soul-searching for quite a while, but finally realized that I was only doing it because it was the hottest thing in computer science and not because I enjoyed the work. What I enjoyed was leading others and building communities and products. See [Being President Was The Best Thing I Did In College](/2019/president/)
 
-### Conclusion
-
-I hope your takeaway from this post isn't that I was stupid or that I had terrible parents or that I am trying to brag about my accomplishments. (I find that it's hard to sometimes convey the same message to everybody.)
-
-The aim of this post is to convince you to dream often and never stop believing in yourself through a personal anecdote. As long as you dream and believe in yourself, you will do what is necessary to achieve your dreams. As a wise man once said,
+Through a personal anecdote, I hope you realize the benefit of dreaming often and to never stop believing in yourself. As long as you dream and believe in yourself, you will do what is necessary to achieve your dreams. As a wise man once said,
 
 > "Shoot for the moon, even if you miss, you'll land amongst the stars."
