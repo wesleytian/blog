@@ -77,6 +77,8 @@ title="Last semester" style="width:85%;height:85%;border-radius:5px 25px" class=
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
 
+I never stopped believing in myself, and my friends and family never stopped believing in me.
+
 My next goal will be to find my dream job, wherever that is.
 
 In two weeks, I will be running my first marathon. In a couple years, I will run an Ironman and climb Mt. Everest.
