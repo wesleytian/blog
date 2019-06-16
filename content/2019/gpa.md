@@ -11,7 +11,7 @@ tags: ["personal", "advice"]
 During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended the first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.95 is equal to a C- (73%-70%).
 
 <img src="/gpa/transcript.jpeg" alt="High school junior year transcript"
-    title="I wasn't kidding." width="60%" height="60%" class="center"/>
+    title="I wasn't kidding." class="center_norm_rounded"/>
 <center> *My official high school transcript.* </center>
 
 I applied to college with a 2.92 GPA.
@@ -31,7 +31,7 @@ It was around that point when I decided that I would stop at nothing to become o
 Of the 25 million players, I was stuck at the bottom 3% of them for two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
 <img src="/gpa/hell.png" alt=""
-    title="Talk about being bad." style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+    title="Talk about being bad." class="center_norm_rounded"/>
 <center>The lowest possible Elo was around 500. The highest was 2500. </center>
 
 I began to spend more and more time on improving my game mechanics.
@@ -47,7 +47,7 @@ Nearly two years later, I finally ended up in the top 2% of players in the world
 The reason why my GPA was so bad in high school is simple. I spent all my time trying to become better than my peers at League of Legends. (And I finally did it.)
 
 <img src="/gpa/d5.PNG" alt=""
-    title="Diamond 5" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+    title="Diamond 5" class="center_norm_rounded"/>
 
 ### Dream Big and Never Stop Believing in Yourself
 
@@ -68,11 +68,11 @@ I quit gaming cold turkey and started studying because I had a new goal in mind.
 It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits (18 credits is the most you can take without having to pay extra tuition) and got a 4.00 GPA.
 
 <img src="/gpa/5.png" alt=""
-    title="My first semester of college" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+    title="My first semester of college" class="center_norm_rounded"/>
 <center>*My first semester of college at UMass Amherst*</center>
 
 <img src="/gpa/6.png" alt=""
-title="Last semester" style="width:85%;height:85%;border-radius:5px 25px" class="center"/>
+title="Last semester" class="center_norm_rounded"/>
 <center>*My most recent semester at UMich*</center>
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
