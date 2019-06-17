@@ -26,11 +26,11 @@ Since the founding of the team five years ago, the team has had problems with me
     According to a member who's been on the team since its foundation, this was the most successful thing that the organization has ever done.
 
     <img src="/president/1.jpeg" alt="High school junior year transcript"
-    title="I wasn't kidding." width="50%" height="50%" class="center"/>
+    title="I wasn't kidding." class="center_norm_rounded"/>
     <center> *A team of Chemistry Ph.D. students presenting to a professor* </center>
 
     <img src="/president/2.jpeg" alt="High school junior year transcript"
-    title="I wasn't kidding." width="50%" height="50%" class="center"/>
+    title="I wasn't kidding." class="center_norm_rounded"/>
     <center> *Excited winners* </center>
 
 2. Work Sessions

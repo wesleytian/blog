@@ -20,7 +20,7 @@ Some people think that maintaining a personal website or LinkedIn is a waste of 
     Two weeks into my junior year at UMich, I recieved a LinkedIn message from a Microsoft recruiter informing me that I was a great fit for their company. She said that I could begin their recruiting process by forwarding her my resume. This was eye-opening for me as I've never heard of recruiters actually reaching out through LinkedIn. In fact, I didn't email her back for at least a week because I was so sure that things like this didn't happen and that this was some sort of scam. Now, I'm glad to say that it wasn't and I was scheduled for an on-campus interview shortly after without having to submit any online application or talk to any recruiter at a career fair.
 
     <img src="/internship/linkedin.png" alt="LinkedIn message from Microsoft recruiter"
-        title="LinkedIn message" width="50%" height="50%" class="center"/>
+        title="LinkedIn message" class="center_norm_rounded"/>
 
 The takeaway here is that your online presence matters. Some recruiters do look at your personal website and LinkedIn profile. So, if you want the best chance at getting interviews, post about your projects and keep your LinkedIn profile up to date.
 
@@ -54,7 +54,7 @@ If you want to land your dream internship, start preparing for the interview the
 The easy part is knowing what the process entails. The hard part is developing the motivation to follow through with your plan. I helped motivate myself by inviting friends to do interview prep with me. When one friend was busy, I invited another friend. This way I always had somebody to keep myself accountable.
 
 <img src="/internship/schedule.png" alt="LeetCode schedule"
-    title="LeetCode schedule" width="50%" height="50%" class="center"/>
+    title="LeetCode schedule" class="center_norm_rounded"/>
 
 ### 5. Beggars Can't Be Choosers
 This tip is for those who are having a hard time (especially freshmen and sophomores) finding internships. You have to take what you can get, even if it means making sacrifices such as seeing friends and family or going on taking a break from school.

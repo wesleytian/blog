@@ -23,14 +23,16 @@ I always like to plan things out before I do them. Especially with hiking mount
 
 Location: Litochoro, Greece
 
-![](http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif)
-
+<!-- ![](http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif)
+ -->
 <a name="getting_there"></a>
 ## Getting There
 
 When you arrive in Greece, it is very common to arrive at the ATH (Athens International Airport). There is a train at St. Larissa* (different from the city named Larissa) St. Larissa is a metro stop on the Red Line.
 
-![Metro Map](http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg)
+<img src="/olympus/IMG_3110.JPG" alt="Metro"
+    title="Metro" class="center_norm_rounded"/>
+<center> *Metro* </center>
 
 1. Take the train from St. Larissa (Athens) to Larissa (4 hours)
 
@@ -46,18 +48,21 @@ The train will stop a couple of times before reaching a major stop. Listen to "
 <a name="prepration"></a>
 ## Preparation
 
-![Packing List|width: 500px](/olympus/IMG_3007.JPG)
+<img src="/olympus/IMG_3007.JPG" alt="Packing List"
+    title="Packing List" class="center_norm_rounded"/>
+<center> *Packing List* </center>
+
+- [Sun protection] Sun hat, Sunglasses, Sunscreen<br>
+- [Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get to 5C<br>
+- [Wind protection] Pants, windbreaker<br>
+- [Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)<br>
+- [Water] 1.5L<br>
+- [Other] Hiking map with trails, compass, camera, first aid kit<br>
+- [Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money
 
 Note: DO NOT bring only nuts. I basically ate none of it then relied on the food at the refuge. Eating only nuts SUCKS! Bars and bread are much better.<br>
-[Sun protection] Sun hat, Sunglasses, Sunscreen<br>
-[Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get to 5C<br>
-[Wind protection] Pants, windbreaker<br>
-[Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)<br>
-[Water] 1.5L<br>
-[Other] Hiking map with trails, compass, camera, first aid kit<br>
-[Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money
 
-Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis
+Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis.
 
 <a name="routes"></a>
 ## Routes
@@ -89,7 +94,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/b2/Mytikas_from_Skala.jpg Mytik
 
 Even the most experienced hikers will follow this approach to hiking Mt. Olympus.
 
-Day 1
+#### Day 1
 (You can start the Day 1 Hike anytime you want. I recommend starting it in the morning so it is not as hot and you have more time to adjust to the elevation. More info in the Tips section below.)
 @ T 0-  Take a taxi to Prionia
 @30 min -Begin hike from Prionia towards Refuge A. Follow the E4 trail (basically the only visible trail) and the clear directions towards the Refuge.
@@ -98,22 +103,32 @@ http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg
 
 Total hiking time: 3 hours
 
+<img src="/olympus/IMG_3105.JPG" alt="Dinner (Spaghetti Bolognese with Orange Soda"
+    title="Dinner (Spaghetti Bolognese with Orange Soda" class="center_norm_rounded"/>
+<center> *Dinner (Spaghetti Bolognese with Orange Soda* </center>
+
 Stay at Refuge A for the night
 
-Day 2
+#### Day 2
 6:00 Breakfast opens. Eat breakfast.
 7:00 Sun rises, set out for the hike. Follow the E4 trail towards Skala (Ascent)
 (2.25 hours)
 9:30 Arrive at Skala. Take path to Mytikas (Requires Class 3 Scrambling)
 (45 minutes)
 
-![](/olympus/P1220774.JPG)
-![](/olympus/P1220770.JPG)
+<img src="/olympus/P1220774.JPG" alt="Sunrise from Refuge A"
+    title="Sunrise from Refuge A" class="center_norm_rounded"/>
+<center> ** </center>
 
+
+<img src="/olympus/P1220770.JPG" alt="Sunrise from Refuge A"
+    title="Sunrise from Refuge A" class="center_norm_rounded"/>
+<center> ** </center>
 
 10:30 Reach Mytikas (15 minutes)<br>
 10:45 Start climbing down to Refuge A (Descent) (3 hours)<br>
 13:30 Reach Refuge A. Rest. (1 hour)<br>
+
 14:30 Refuge A --Prionia (Descent) (3 hours)<br>
 17:30 Arrive at Prionia. Take Taxi* back to Litochoro (30 minutes)<br>
 18:00 Arrive back at Litochoro.<br>
@@ -137,32 +152,6 @@ I only wore shorts because I thought that it wouldn't be that cold at the top. I
 
 **Will my camera work at such cold temperatures?**
 Your phone may not work at very cold temperatures, as in the case with my iPhone 6s. At about halfway to Skala from Refuge A, my phone would just die even though it had 30% battery left. I had to keep it tight against my stomach and hope that it would heat up enough so that I could take a few pictures. I was able to take a few from time to time, but for the most part, my phone was inoperable. Bring a camera that can withstand low temperatures to prevent these troubles.
-
-<a name="pictures"></a>
-## Pictures
-![Litochoro Town Map](/olympus/IMG_3107.JPG)
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg Prionia -- Refuge A
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg Ingenious Plant Species
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg Ingenious Plant Species
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg Ingenious Animal Species 1
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg Mt. Olympus Landscape
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg Refuge A Sign
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg Refuge A Interior
-
-![Refuge A Menu List](/olympus/IMG_3111.JPG)
-
-![Dinner (Spaghetti Bolognese with Orange Soda](/olympus/IMG_3105.JPG)
-
-Refuge A Interior
-
-http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg Breakfast (Bread and Tea)
 
 <a name="final_verdict"></a>
 ##  Final Verdict
