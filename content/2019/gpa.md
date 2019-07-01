@@ -92,3 +92,5 @@ For example, between my sophomore and senior year, the only thing that I wanted 
 Through a personal anecdote, I hope you realize the benefit of dreaming often and to never stop believing in yourself. As long as you dream and believe in yourself, you will do what is necessary to achieve your dreams. As a wise man once said,
 
 > "Shoot for the moon, even if you miss, you'll land amongst the stars."
+
+Views: 1386
