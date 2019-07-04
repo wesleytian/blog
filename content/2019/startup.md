@@ -2,7 +2,7 @@
 title: "I Will Start a Company One Day"
 date: 2019-06-19
 showDate: true
-draft: false
+draft: true
 tags: ["work"]
 ---
 
