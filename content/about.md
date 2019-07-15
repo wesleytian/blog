@@ -14,7 +14,7 @@ In the past few years, Wesley has worked on research and development at an Inter
 
 Wesley ranked 1st out of 205 students on a deep learning prediction challenge in University of Michigan's Machine Learning course, placed 3rd in the world in MIT's [ASSISTments Data Mining Competition](https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017/winners?authuser=0), and received awards at many other hackathons. He has also been a recipient of the Chancellor's Scholarship.
 
-Born non-uniquely in Mountain View, California, but uniquely relocated to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
+He was born in Mountain View, California, and then moved to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and running.
 
 Wesley has been a utilitarian and determinist since his teens. He once pursued a doctorate in machine learning research until he realized he would be wasting some of his other strengths. His current pursuits are software engineering, political philosophy, and entrepreneurship.
 

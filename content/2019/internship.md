@@ -57,7 +57,7 @@ The easy part is knowing what the process entails. The hard part is developing t
     title="LeetCode schedule" class="center_norm_rounded"/>
 
 ### 5. Beggars Can't Be Choosers
-This tip is for those who are having a hard time (especially freshmen and sophomores) finding internships. You have to take what you can get, even if it means making sacrifices such as seeing friends and family or going on taking a break from school.
+This tip is for those who are having a hard time (especially freshmen and sophomores) finding internships. You have to take what you can get, even if it means making sacrifices such as seeing friends and family or going on vacation.
 
 A few weeks before the end of my freshmen year, one of my professors sent out an email looking to hire a summer intern. Long story short, I got the job because I was flexible with where I was going to live, and the work schedule. I started as soon as school ended and moved into a spare room in the professors home. See [Independence](/2016/independence/) for why I think the professor chose me over other candidates.
 
