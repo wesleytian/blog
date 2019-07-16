@@ -12,7 +12,7 @@ Wesley Tian is currently pursuing a B.S. in Computer Science and Data Science at
 
 In the past few years, Wesley has worked on research and development at an Internet of things startup with [Rui Wang](https://people.cs.umass.edu/~ruiwang/), machine learning research in healthcare with [Jenna Wiens](http://www-personal.umich.edu/~wiensj/), and philosophy in artificial intelligence with [Rich Thomason](http://web.eecs.umich.edu/~rthomaso/). Last summer, he was hired by conversational AI startup, [Clinc](https://clinc.com/), to improve their machine learning models. This summer, he will be working at Microsoft.
 
-He was born in Mountain View, California, and then moved to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and hiking. His favorite hikes include the Half Dome, Mt. Olympus in Greece, and Mt. Fuji in Japan.
+He was born in Mountain View, California, and then moved to Oregon, Taiwan, Shanghai, Massachusetts, and finally, Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and hiking. His favorite hikes include the Half Dome in Yosemite National Park, Mt. Olympus in Greece, and Mt. Fuji in Japan.
 
 ## About This Site
 
