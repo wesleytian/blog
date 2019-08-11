@@ -42,7 +42,9 @@ title="I wasn't kidding." class="center_norm_rounded"/>
 title="I wasn't kidding." class="center_norm_rounded"/>
 <center> *Lone Pine Lake* </center>
 
-Mt. Whitney Stats
+## Mt. Whitney Stats
 Height: 14,505 ft (4,421 m)
-Length: 21.9 mi
-Elevation Gain: 6,721 ft (m)
+Length: 21.9 miles (35.2 km)
+Elevation Gain: 6,715 ft (2,047 m)
+
+https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail
