@@ -6,33 +6,33 @@ draft: false
 tags: ["personal"]
 ---
 
-<img src="/whitney/whitney_sunrise.jpg" alt="High school junior year transcript"
+<img src="/whitney/whitney_sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
 <center> *Mount Whitney* </center>
 
 #### Day 1: Mountain View to Lone Pine
 
-<img src="/whitney/map_route.png" alt="High school junior year transcript"
-title="Road trip!" class="center_norm_rounded"/>
+<img src="/whitney/jeep.jpg" alt=""
+title="" class="center_norm_rounded"/>
+<center> *Our temporary ride* </center>
+
+<img src="/whitney/map_route.png" alt=""
+title="" class="center_norm_rounded"/>
 
 On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out from Mountain View, CA to climb Mount Whitney, the tallest mountain in the contiguous United States.
-
-<img src="/whitney/jeep.jpg" alt="High school junior year transcript"
-title="Splendid car, egregious fuel economy" class="center_norm_rounded"/>
-<center> *Our 2019 Jeep Wrangler rental* </center>
 
 #### Day 2: Acclimatization at Lone Pine Lake
 
 The next day, we trekked to Lone Pine Lake for some more acclimatization. We were terrified from reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death. We figured that the most we could do was get to a higher altitude for a while.
 
-<img src="/whitney/lone_pine_lake.jpg" alt="High school junior year transcript"
-title="I wasn't kidding." class="center_norm_rounded"/>
+<img src="/whitney/lone_pine_lake.jpg" alt=""
+title="" class="center_norm_rounded"/>
 
-<img src="/whitney/lone_pine_group.jpg" alt="High school junior year transcript"
-title="I wasn't kidding." class="center_norm_rounded"/>
+<img src="/whitney/lone_pine_group.jpg" alt=""
+title="" class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from multiple directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times writes,
+The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from multiple directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times write,
 
 <blockquote>LONE PINE, Calif. —
 As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
@@ -56,32 +56,32 @@ Source: [Hikers Find Death, Terror at Summit of Mt. Whitney, Los Angeles Times](
 
 We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but being too excited to start the climb, we naturally woke up at 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
-<img src="/whitney/start.jpg" alt="High school junior year transcript"
+<img src="/whitney/start.jpg" alt=""
 title="" class="center_norm_rounded"/>
 <center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
-Until about 5 a.m., we were hiking completely in the dark by using our headlamps.
+Until about 5 a.m., we navigated the mountain trail by relying completely on our trusty headlamps.
 
-<img src="/whitney/night_crossing.jpg" alt="High school junior year transcript"
+<img src="/whitney/night_crossing.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *Stream crossing* </center>
+<center> *Mile 2: Stream crossing* </center>
 
 There were a couple of streams that we had to cross, but they were quite manageable and my feet never got soaked. We ate a snack about every 1.5 hours and took breaks/filtered water as needed.
 
-<img src="/whitney/sunrise.jpg" alt="High school junior year transcript"
+<img src="/whitney/sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *5:42 a.m. – Sunrise* </center>
+<center> *5:42 a.m. – Mile 4: Sunrise* </center>
 
-At around 5:30 a.m., we could start to see without using our headlamps. There were few people on the trail and it was incredibly serene.
+After around three hours of hiking in complete darkness, we could begin to see faint glow of the rising sun. There were few people on the trail and it was incredibly serene.
 
-<img src="/whitney/whitney.jpg" alt="High school junior year transcript"
+<img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
 
 We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in many days so they were starting to wake up and pack up their tents for their final push to the summit.
 
-<img src="/whitney/trail_camp.jpg" alt="High school junior year transcript"
+<img src="/whitney/trail_camp.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *5:58 a.m. – Mile 6: Trail Camp (12,039 ft, 3,669 m)* </center>
+<center> *5:58 a.m. – Mile 5: Trail Camp (12,039 ft, 3,669 m)* </center>
 
 This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we only realized didn't make sense after it was too late.
 
@@ -91,15 +91,15 @@ This also marked the beginning of the infamous "97-switchbacks".
 
 <img src="/whitney/switchbacks.jpg" alt="Switchbacks"
 title="" class="center_norm_rounded"/>
-<center> *Some of the switchbacks* </center>
+<center> *Mile 6: Some of the switchbacks* </center>
 
 <img src="/whitney/trail_crest.jpg" alt="Start of the Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
+<center> *Mile 7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *8:45 a.m – Mile 9: Looking west from the Trail Crest* </center>
+<center> *8:45 a.m – Mile 8: Looking west from the Trail Crest* </center>
 
 As we neared the summit, Doug ran out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filter instead.
 
@@ -107,27 +107,27 @@ Newton was the next to piss so he pissed into the filter. Doug refused to drink 
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
-<center> *9:37 a.m. – Looking east at the summit from the Trail Crest* </center>
+<center> *9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest* </center>
 
 It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood. We traveled at what we called, "my grandpa's walking speed".
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
-<center> *10:22 a.m. – The snowfield before the summit* </center>
+<center> *10:22 a.m. – Mile 10: The snowfield before the summit* </center>
 
 There was no way that we would come this far to turn back now. Giving up was not an option. Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
 
-<img src="/whitney/summit_group.jpg" alt="High school junior year transcript"
+<img src="/whitney/summit_group.jpg" alt=""
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mile 11: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
-To celebrate, Doug and I had some Tangerine Express IPA. Consuming alcohol at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
+At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the remaining 11 miles of the mountain trail to order burgers for all of us. We made it down in record time.
+As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for all of us. We made it down in record time.
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
