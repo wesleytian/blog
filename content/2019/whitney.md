@@ -23,7 +23,7 @@ On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out f
 
 #### Day 2: Acclimatization at Lone Pine Lake
 
-The next day, we trekked to Lone Pine Lake for some more acclimatization. Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Acclimating by resting at a higher altitude for a while seemed like a good idea.
+Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Acclimating by resting at a higher altitude for a while seemed like a good idea.
 
 <img src="/whitney/lone_pine_lake.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -32,7 +32,7 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times wrote,
+The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. A few years ago, this following story headlined the news,
 
 <blockquote>LONE PINE, Calif. —
 As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
@@ -52,15 +52,15 @@ He died several hours later, after being removed from the 14,495-foot summit by 
 </blockquote>
 Source: [Hikers Find Death, Terror at Summit of Mt. Whitney, Los Angeles Times](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html)
 
-#### Day 3: Summit Day
+#### Day 3: The Big Day
 
-We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too excited to start the climb, we all naturally woke up at 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
+We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt=""
 title="" class="center_norm_rounded"/>
 <center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
-Until about 5 a.m., we navigated the mountain trail by relying completely on our trusty headlamps.
+For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps.
 
 <img src="/whitney/night_crossing.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -72,7 +72,7 @@ There were a couple of streams that we had to cross, but they were quite managea
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Mile 4: Sunrise* </center>
 
-After around three hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. There were few people on the trail and was unnaturally serene.
+After a few hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. There were few people on the trail and was unnaturally serene.
 
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -101,15 +101,15 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *8:45 a.m – Mile 8: Looking west from the Trail Crest* </center>
 
-As we neared the summit, Doug ran out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filters instead.
+Still more than an half hour from summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filter bottles instead.
 
-Newton was the next to piss so he pissed into the filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered piss himself. According to Netwon, the filtered urine was slightly bitter but otherwise tasted fine.
+Newton was the next to go so he pissed into the filter bottle. Not yet ready to become Bear Grylls, Doug refused to drink the piss-filtered water. Newton gave the remainder of the water from his bottle to Doug and offered drink the filtered piss himself. According to him, the filtered urine tasted slightly bitter, but otherwise fine.
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
 <center> *9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest* </center>
 
-It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood. We traveled at what we called, "my grandpa's walking speed".
+It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood.
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
@@ -121,13 +121,13 @@ There was no way that we would come this far to turn back now. Giving up was not
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mile 11: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
-At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
+At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from serious dehydration.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-The summit was only halfway. Descending wasn't easy until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for us all. We made it down in record time. What better motivation than food?
+The summit was only halfway. Descending wasn't easy until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori and I ran down the remaining 5 miles of the mountain trail to order burgers for us all. We made it down in record time. What better motivation than food?
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
@@ -215,5 +215,5 @@ Besides the beer, bring all the following and only the following. Avoid any non-
 
 If you have any questions or need any tips about the hike, feel free to reach out!
 
-Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before Feb of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the admission rate is about 30%. Overnight permits are sought after even more.
+Lastly, do your research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the acceptance rate is about 30%. Overnight permits are even rarer.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
