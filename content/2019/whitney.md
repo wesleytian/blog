@@ -29,9 +29,9 @@ Along the way, we made many stops, including one near Gilroy, a city known for i
 title="It tastes as expected" class="center_norm_rounded"/>
 <center> *Gilroy's famous garlic ice cream* </center>
 
-After checking into our Airbnb, we quickly packed up our hiking gear and headed to the Mount Whitney trailhead (8,600 ft / 2,621 m) for some critical acclimatization.
+After checking into our Airbnb, we quickly geared up and headed to the Mount Whitney trailhead (8,600 ft / 2,621 m) for some critical acclimatization.
 
-Since we arrived at Lone Pine pretty late, we only hiked for a total of around two hours, before heading back and to get as much sleep as we could.
+Since we arrived at Lone Pine pretty late, we only hiked for a total of around two hours, before heading back to get as much sleep as we could.
 
 #### Day 2: Acclimatization at Lone Pine Lake
 
@@ -64,7 +64,6 @@ title="" class="center_norm_rounded"/>
 
 There were a couple of streams that we had to cross, but they were quite manageable and my feet never got wet. We ate a snack about every 1.5 hours and took breaks/filtered water as needed.
 
-
 <img src="/whitney/sunrise.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Sunrise* </center>
@@ -74,7 +73,7 @@ At around 5:30 a.m., we could start to see without using our headlamps. There we
 <img src="/whitney/whitney.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
 
-We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in multiple days so they were just starting to wake up and pack up their tents for the final push to the summit.
+We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in many days so they were starting to wake up and pack up their tents for the final push to the summit.
 
 <img src="/whitney/trail_camp.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
@@ -88,14 +87,13 @@ This also marked the beginning of the infamous "97-switchbacks".
 title="" class="center_norm_rounded"/>
 <center> *Some of the switchbacks* </center>
 
-<img src="/whitney/switchbacks.jpg" alt="Switchbacks"
+<img src="/whitney/trail_crest.jpg" alt="Start of the Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *Start of the trail crest, the highet trail pass in the contiguous US* </center>
--- Fix this
+<center> *Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *8:45 a.m – Trail Crest (13,645 ft / 4,159 m) (Facing west)* </center>
+<center> *8:45 a.m – Looking west from the Trail Crest* </center>
 
 As we neared the summit, Doug ran out of water. Without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into my water filter instead.
 
@@ -103,27 +101,27 @@ Newton was the next to piss so he pissed into my filter. Doug refused to drink w
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
-<center> *9:37 a.m. – Mount Whitney (Facing east)* </center>
+<center> *9:37 a.m. – Looking east at the summit from the Trail Crest* </center>
 
-It was around this point that mountain [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) began to chip away at our body. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood.
+It was around this point that mountain [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood. We traveled at what we called, "my grandpa's walking speed".
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *10:22 a.m. – The snowfield before the summit* </center>
 
-There was no way that we would come this far just to turn back now. Giving up was not an option. Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
+There was no way that we would come this far to turn back now. Giving up was not an option. Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
 
 <img src="/whitney/summit_group.jpg" alt="High school junior year transcript"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
-To celebrate, Doug and I had some Tangerine Express IPA. Drinking beers at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to alleviate the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
+To celebrate, Doug and I had some Tangerine Express IPA. Consuming alcohol at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-On the way down, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all of us. We made it down in record time.
+On the way down, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all us. We made it down in record time.
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
@@ -135,7 +133,7 @@ Definitely.
 
 This hike may be the hardest non-technical day-hike in the contiguous US. At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
 
-Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any additional training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
+Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
 
 The hardest part of the hike was the symptoms of altitude sickness. Without Advil, the headaches made the summit very painful.
 
@@ -158,7 +156,7 @@ For more information about the trail, see [Mount Whitney via Mount Whitney Trail
 
 #### My Complete Packing List&#42;
 
-Besides the beer, I highly suggest that you bring all of the following and only the following. Anything not listed is non-essential and should be avoided to reduce weight.
+Besides the beer, I suggest that you bring all the following and only the following. Anything not listed is non-essential and should be avoided to reduce weight.
 
  <div class="row">
   <div class="column">
@@ -174,7 +172,7 @@ Besides the beer, I highly suggest that you bring all of the following and only 
 
   </div>
   <div class="column">
-      Additional Clothes to Pack
+      Extra Clothes to Pack
 
 - Windbreaker
 - Rain Jacket
@@ -214,6 +212,6 @@ Besides the beer, I highly suggest that you bring all of the following and only 
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
-If you have any additional questions or need any tips about the hike, feel free to reach out!
+If you have any questions or need any tips about the hike, feel free to reach out!
 
 Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before April of that year since the permit lottery happens during that time.
