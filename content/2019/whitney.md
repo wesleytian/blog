@@ -44,13 +44,14 @@ title="I wasn't kidding." class="center_norm_rounded"/>
 title="I wasn't kidding." class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, there was a thunderstorm so we were afraid that our summit day plans would be ruined. The most dangerous thing that can happen in this area, besides the effects of altitude sickness is being struck by lightning. This News Article describes the horrifying tale of 13 hikers trapped at the summit during a thunderstorm.
+The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, there was a thunderstorm so we were afraid that our summit day plans would be ruined. The most dangerous thing that can happen in this area, besides the effects of altitude sickness is being struck by lightning. See [Hikers Find Death, Terror at Summit of Mt. Whitney by Los Angeles Times](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) for a horrifying tale of 13 hikers trapped at the summit during a thunderstorm.
 
 You can find more information about the Lone Pine Lake trail [here](https://www.alltrails.com/trail/us/california/mount-whitney-trail-to-lone-pine-lake--2).
 
 #### Day 3: Summit Day
 
 We went to bed around 8:00 p.m. that night and being too excited to start the climb, we naturally woke up at 1:00 a.m. We got to the Mount Whitney trailhead around 2:00 a.m.
+--Fix this tried to wake up at 2, naturally woke up at 1
 
 <img src="/whitney/start.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
@@ -91,22 +92,21 @@ title="" class="center_norm_rounded"/>
 <img src="/whitney/switchbacks.jpg" alt="Switchbacks"
 title="" class="center_norm_rounded"/>
 <center> *Start of the trail crest, the highet trail pass in the contiguous US* </center>
-
-Beginning of the trail crest.
+-- Fix this
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
 <center> *8:45 a.m – Trail Crest (13,645 ft / 4,159 m) (Facing west)* </center>
 
-As we neared the summit, Doug ran out of water. Without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should pee into the water filter instead.
+As we neared the summit, Doug ran out of water. Without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into my water filter instead.
 
-Newton was the next to piss so he pissed into his filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered pee himself. The filtered urine was slightly bitter but otherwise tasted fine.
+Newton was the next to piss so he pissed into my filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered piss himself. According to Netwon, the filtered urine was slightly bitter but otherwise tasted fine.
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
 <center> *9:37 a.m. – Mount Whitney (Facing east)* </center>
 
-It was around this point that mountain [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) began to chip away at our body. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all the worst headaches of our entire lives. Every time we moved, we could feel the blood throbbing in our heads.
+It was around this point that mountain [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) began to chip away at our body. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood.
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
@@ -118,17 +118,23 @@ There was no way that we would come this far just to turn back now. Giving up wa
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
-To celebrate, Doug and I had some Tangerine Express IPA. Drinking beers at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to alleviate the symptoms of altitude sickness. Thankfully, we found some a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
+To celebrate, Doug and I had some Tangerine Express IPA. Drinking beers at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to alleviate the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
+On the way down, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all of us. We made it down in record time.
+
+<img src="/whitney/burger.jpg" alt="Having a drink at the summit"
+title="" class="center_norm_rounded"/>
+<center> *The best burger ever* </center>
+
 #### Overall, was it worth it?
 
 Definitely.
 
-This may have been *one of the*, if not *the* hardest non-technical day-hike in the contiguous US. It is certainly the tallest. The hike wasn't technical at all. I remember only having to use my hands once or twice, when there were icy rocks on the switchbacks, and when I slipped coming down on the snowfield.
+This hike may be the hardest non-technical day-hike in the contiguous US. At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
 
 Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any additional training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
 
@@ -204,10 +210,11 @@ Besides the beer, I highly suggest that you bring all of the following and only 
 </div>
 
 &#42;My recommendations are in parentheses. <br>
-&#42;&#42;The amount of water you bring depends on the mountain water conditions and the time of year. Check with the park ranger or with recent hikers through AllTrails or Facebook Groups() to see how much water you should be bringing. <br>
+&#42;&#42;The amount of water you bring depends on the mountain water conditions and the time of year. Check with the park ranger or with recent hikers through [AllTrails](https://www.facebook.com/groups/30962451768/about/) or the [Mt. Whitney Facebook Group](https://www.facebook.com/groups/30962451768/about/) to see how much water you should be bringing. <br>
+
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
-If you have any additional questions or tips about the hike, feel free to reach out!
+If you have any additional questions or need any tips about the hike, feel free to reach out!
 
 Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before April of that year since the permit lottery happens during that time.
