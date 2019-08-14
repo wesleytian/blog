@@ -32,17 +32,33 @@ title="I wasn't kidding." class="center_norm_rounded"/>
 title="I wasn't kidding." class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, there was a thunderstorm so we were afraid that our summit day plans would be ruined. The most dangerous thing that can happen in this area, besides the effects of altitude sickness is being struck by lightning. See [Hikers Find Death, Terror at Summit of Mt. Whitney by Los Angeles Times](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) for a horrifying tale of 13 hikers trapped at the summit during a thunderstorm.
+The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from multiple directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times writes,
 
-You can find more information about the Lone Pine Lake trail [here](https://www.alltrails.com/trail/us/california/mount-whitney-trail-to-lone-pine-lake--2).
+<blockquote>LONE PINE, Calif. —
+As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
+<br>
+<br>
+It nearly became their tomb.
+<br><br>
+“I was sitting on the floor, my back against one of the walls,” said Edward (E.J.) Wueherer, a hiker from Tehachapi. “All of a sudden I saw this flash and I felt this jolt like on my funny bone, and my toe started burning.
+<br><br>
+“The next thing I knew I was helping to untangle bodies.”
+<br><br>
+The surging electrical charge threw Matthew Edward Nordbrock, who had been seated in the center of the hut, several feet, where he lay still on the ground.
+<br><br>
+As the hikers had sprinted for cover during the squall Saturday afternoon, Nordbrock, 26, of Huntington Beach, told one of his hiking buddies: “I’ve been hit by lightning before, so I won’t get struck.”
+<br><br>
+He died several hours later, after being removed from the 14,495-foot summit by helicopter.
+</blockquote>
+Source: [Hikers Find Death, Terror at Summit of Mt. Whitney, Los Angeles Times](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html)
 
 #### Day 3: Summit Day
 
-We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but being too excited to start the climb, we naturally woke up at 1:00 a.m. We got to the Mount Whitney trailhead around 2:00 a.m.
+We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but being too excited to start the climb, we naturally woke up at 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
-<center> *2:15 a.m. – Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
+<center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
 Until about 5 a.m., we were hiking completely in the dark by using our headlamps.
 
@@ -56,18 +72,20 @@ There were a couple of streams that we had to cross, but they were quite managea
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Sunrise* </center>
 
-At around 5:30 a.m., we could start to see without using our headlamps. There were few people on the trail so it was incredibly serene.
+At around 5:30 a.m., we could start to see without using our headlamps. There were few people on the trail and it was incredibly serene.
 
 <img src="/whitney/whitney.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
 
-We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in many days so they were starting to wake up and pack up their tents for the final push to the summit.
+We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in many days so they were starting to wake up and pack up their tents for their final push to the summit.
 
 <img src="/whitney/trail_camp.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
-<center> *5:58 a.m. – Trail Camp (12,039 ft, 3,669 m)* </center>
+<center> *5:58 a.m. – Mile 6: Trail Camp (12,039 ft, 3,669 m)* </center>
 
-This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we only realized didn't make sense after it was too late. I drank 2L of water to get to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
+This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we only realized didn't make sense after it was too late.
+
+I drank 2L of water to get to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
 
 This also marked the beginning of the infamous "97-switchbacks".
 
@@ -81,11 +99,11 @@ title="" class="center_norm_rounded"/>
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *8:45 a.m – Looking west from the Trail Crest* </center>
+<center> *8:45 a.m – Mile 9: Looking west from the Trail Crest* </center>
 
-As we neared the summit, Doug ran out of water. Without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into my water filter instead.
+As we neared the summit, Doug ran out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filter instead.
 
-Newton was the next to piss so he pissed into my filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered piss himself. According to Netwon, the filtered urine was slightly bitter but otherwise tasted fine.
+Newton was the next to piss so he pissed into the filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered piss himself. According to Netwon, the filtered urine was slightly bitter but otherwise tasted fine.
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
@@ -101,7 +119,7 @@ There was no way that we would come this far to turn back now. Giving up was not
 
 <img src="/whitney/summit_group.jpg" alt="High school junior year transcript"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
-<center> *11:09 a.m. – Mount Whitney summit (14,505 ft / 4,421 m)* </center>
+<center> *11:09 a.m. – Mile 11: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
 To celebrate, Doug and I had some Tangerine Express IPA. Consuming alcohol at the summit might not have been the smartest idea as it slows down acclimatization and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from dangerous dehydration.
 
@@ -109,18 +127,13 @@ To celebrate, Doug and I had some Tangerine Express IPA. Consuming alcohol at th
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all of us. We made it down in record time.
+As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the remaining 11 miles of the mountain trail to order burgers for all of us. We made it down in record time.
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
-<center> *The best burger ever* </center>
+<center> *6:00 p.m. – Mile 22: The best burger ever* </center>
 
-#### Mount Whitney Stats
-Length: 22 miles / 35 km <br>
-Elevation Gain: 6,100 ft / 2,047 m <br>
-Total Duration: 16 hours (2:00 a.m. – 6:00 p.m.)
-
-For more information about the trail, see [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail).
+In total, the hike took just under 16 hours. What a day.
 
 #### Overall, was it worth it?
 
@@ -130,7 +143,7 @@ This hike may be the hardest non-technical day-hike in the contiguous US. At the
 
 Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
 
-The hardest part of the hike was the symptoms of altitude sickness. Without Advil, the headaches made the summit very painful.
+The hardest part of the hike was the symptoms of altitude sickness. Only Advil made the altitude sickness bearable.
 
 #### What's next?
 
@@ -203,3 +216,4 @@ Besides the beer, I suggest that you bring all the following and only the follow
 If you have any questions or need any tips about the hike, feel free to reach out!
 
 Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before April of that year since the permit lottery happens during that time.
+See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
