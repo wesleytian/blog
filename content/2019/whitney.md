@@ -8,7 +8,7 @@ tags: ["personal"]
 
 <img src="/whitney/whitney_sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *Mount Whitney "The Big Daddy"* </center>
+<center> *Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)* </center>
 
 #### Day 1: Mountain View to Lone Pine
 
