@@ -1,5 +1,5 @@
 ---
-title: "We Climbed the Tallest Mountain in the Contiguous US"
+title: "Climbing the Tallest Mountain in the Contiguous US"
 date: 2019-08-11
 showDate: true
 draft: false
@@ -8,7 +8,7 @@ tags: ["personal"]
 
 <img src="/whitney/whitney_sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *Mount Whitney* </center>
+<center> *Mount Whitney "The Big Daddy"* </center>
 
 #### Day 1: Mountain View to Lone Pine
 
@@ -54,7 +54,7 @@ Source: [Hikers Find Death, Terror at Summit of Mt. Whitney, Los Angeles Times](
 
 #### Day 3: Summit Day
 
-We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but being too excited to start the climb, we naturally woke up at 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
+We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too excited to start the climb, we all naturally woke up at 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -66,7 +66,7 @@ Until about 5 a.m., we navigated the mountain trail by relying completely on our
 title="" class="center_norm_rounded"/>
 <center> *Mile 2: Stream crossing* </center>
 
-There were a couple of streams that we had to cross, but they were quite manageable and my feet never got soaked. We ate a snack about every 1.5 hours and took breaks/filtered water as needed.
+There were a couple of streams that we had to cross, but they were quite manageable and my feet never got soaked. We scheduled periodic snack breaks every 1.5 hours and took breaks and filtered water as needed.
 
 <img src="/whitney/sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -77,15 +77,15 @@ After around three hours of hiking in complete darkness, we could begin to see f
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
 
-We saw a lot more people as we neared the trail camp. Many people were hiking Mount Whitney in many days so they were starting to wake up and pack up their tents for their final push to the summit.
+We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in multiple days. We watched groups of of backpackers fold up their tents as they readied themselves to tackle the summit.
 
 <img src="/whitney/trail_camp.jpg" alt=""
 title="" class="center_norm_rounded"/>
 <center> *5:58 a.m. – Mile 5: Trail Camp (12,039 ft, 3,669 m)* </center>
 
-This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we only realized didn't make sense after it was too late.
+This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we realized didn't make sense only after it was too late.
 
-I drank 2L of water to get to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
+2 liters of water got me to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
 
 This also marked the beginning of the infamous "97-switchbacks".
 
@@ -127,7 +127,7 @@ At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Expr
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for all of us. We made it down in record time.
+The summit was only halfway. Descending wasn't easy, until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immedaitely began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for all of us. We made it down in record time. What better motivation than food?
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
@@ -151,13 +151,13 @@ There are two routes I can take. I can either stick with non-technical hikes and
 
 More challenging non-technical hikes include [Mount Kilimanjaro](https://en.wikipedia.org/wiki/Mount_Kilimanjaro) (19,341 ft / 5,895 m) in Tanzania, Africa or [Mount Aconcagua](https://en.wikipedia.org/wiki/Aconcagua) (22,837 ft / 6,960 m) in Argentina, South America. Both of these are part of the [Seven Summits](https://en.wikipedia.org/wiki/Seven_Summits), which are now on my radar.
 
-Or, I could start learning technical mountaineering skills such as self-arrest with an ice pick and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
+Or, I could start learning technical mountaineering skills such as self-arrest with an ice axe and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
 
 Whatever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
 
 #### My Complete Packing List&#42;
 
-Besides the beer, I suggest that you bring all the following and only the following. Anything not listed is non-essential and should be avoided to reduce weight.
+Besides the beer, I suggest that you bring all the following and only the following. Anything not listed is non-essential and should be avoided to reduce weight. This packing list is only for the day-hikers. Multi-day summits will require extra gear such as a tent, sleeping bag, etc.
 
  <div class="row">
   <div class="column">
@@ -191,7 +191,7 @@ Besides the beer, I suggest that you bring all the following and only the follow
       Food & Water
 
 - 1.5L of Water, 3L Total Capacity&#42;&#42;
-- 1500+ Calories of Food
+- 1500+ Calories of Food – You will burn over 4000 calories on this trip!
 - Beer&#42;&#42;&#42;
   </div>
   <div class="column">
@@ -213,7 +213,7 @@ Besides the beer, I suggest that you bring all the following and only the follow
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
-If you have any questions or need any tips about the hike, feel free to reach out!
+If you have any questions or need any tips regarding the hike, feel free to reach out!
 
-Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before April of that year since the permit lottery happens during that time.
+Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before Feb of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the admission rate is about 30%. Overnight permits are sought after even more.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
