@@ -50,8 +50,7 @@ You can find more information about the Lone Pine Lake trail [here](https://www.
 
 #### Day 3: Summit Day
 
-We went to bed around 8:00 p.m. that night and being too excited to start the climb, we naturally woke up at 1:00 a.m. We got to the Mount Whitney trailhead around 2:00 a.m.
---Fix this tried to wake up at 2, naturally woke up at 1
+We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but being too excited to start the climb, we naturally woke up at 1:00 a.m. We got to the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
