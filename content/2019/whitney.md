@@ -21,21 +21,9 @@ On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out f
 title="Splendid car, egregious fuel economy" class="center_norm_rounded"/>
 <center> *Our 2019 Jeep Wrangler rental* </center>
 
-We drove for about seven hours before arriving at Lone Pine, a quaint town at the base of Mount Whitney.
-
-Along the way, we made many stops, including one near Gilroy, a city known for its garlic crop and annual Gilroy Garlic Festival.
-
-<img src="/whitney/gilroy_ice_cream.jpg" alt="Garic ice cream"
-title="It tastes as expected" class="center_norm_rounded"/>
-<center> *Gilroy's famous garlic ice cream* </center>
-
-After checking into our Airbnb, we quickly geared up and headed to the Mount Whitney trailhead (8,600 ft / 2,621 m) for some critical acclimatization.
-
-Since we arrived at Lone Pine pretty late, we only hiked for a total of around two hours, before heading back to get as much sleep as we could.
-
 #### Day 2: Acclimatization at Lone Pine Lake
 
-Given more time the next day, we trekked to Lone Pine Lake for some more acclimatization.
+The next day, we trekked to Lone Pine Lake for some more acclimatization. We were terrified from reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death. We figured that the most we could do was get to a higher altitude for a while.
 
 <img src="/whitney/lone_pine_lake.jpg" alt="High school junior year transcript"
 title="I wasn't kidding." class="center_norm_rounded"/>
@@ -62,7 +50,7 @@ Until about 5 a.m., we were hiking completely in the dark by using our headlamps
 title="" class="center_norm_rounded"/>
 <center> *Stream crossing* </center>
 
-There were a couple of streams that we had to cross, but they were quite manageable and my feet never got wet. We ate a snack about every 1.5 hours and took breaks/filtered water as needed.
+There were a couple of streams that we had to cross, but they were quite manageable and my feet never got soaked. We ate a snack about every 1.5 hours and took breaks/filtered water as needed.
 
 <img src="/whitney/sunrise.jpg" alt="High school junior year transcript"
 title="" class="center_norm_rounded"/>
@@ -103,7 +91,7 @@ Newton was the next to piss so he pissed into my filter. Doug refused to drink w
 title="" class="center_norm_rounded"/>
 <center> *9:37 a.m. – Looking east at the summit from the Trail Crest* </center>
 
-It was around this point that mountain [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood. We traveled at what we called, "my grandpa's walking speed".
+It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood. We traveled at what we called, "my grandpa's walking speed".
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
@@ -121,11 +109,18 @@ To celebrate, Doug and I had some Tangerine Express IPA. Consuming alcohol at th
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-On the way down, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all us. We made it down in record time.
+As we were descending, some hikers told us about the best burger ever at the Whitney Portal Store. Since the store closed at 7:30 p.m., we had to make it back by then. Doug injured his knee so Netwon stayed with him while Nori an I ran down the mountain to order burgers for all of us. We made it down in record time.
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *The best burger ever* </center>
+
+#### Mount Whitney Stats
+Length: 22 miles / 35 km <br>
+Elevation Gain: 6,100 ft / 2,047 m <br>
+Total Duration: 16 hours (2:00 a.m. – 6:00 p.m.)
+
+For more information about the trail, see [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail).
 
 #### Overall, was it worth it?
 
@@ -146,13 +141,6 @@ More challenging non-technical hikes include [Mount Kilimanjaro](https://en.wiki
 Or, I could start learning technical mountaineering skills such as self-arrest with an ice pick and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
 
 Whatever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
-
-#### Mount Whitney Stats
-Length: 22 miles / 35 km <br>
-Elevation Gain: 6,100 ft / 2,047 m <br>
-Total Duration: 16 hours (2:00 a.m. – 6:00 p.m.)
-
-For more information about the trail, see [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail).
 
 #### My Complete Packing List&#42;
 
