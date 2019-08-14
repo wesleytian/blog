@@ -23,7 +23,7 @@ On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out f
 
 #### Day 2: Acclimatization at Lone Pine Lake
 
-The next day, we trekked to Lone Pine Lake for some more acclimatization. We were terrified from reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death. We figured that the most we could do was get to a higher altitude for a while.
+The next day, we trekked to Lone Pine Lake for some more acclimatization. Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Acclimating by resting at a higher altitude for a while seemed like a good idea.
 
 <img src="/whitney/lone_pine_lake.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -32,7 +32,7 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from multiple directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times write,
+The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. As Janet Rae-Dupree and Edward J. Boyer of the Los Angeles Times wrote,
 
 <blockquote>LONE PINE, Calif. —
 As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
@@ -72,12 +72,12 @@ There were a couple of streams that we had to cross, but they were quite managea
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Mile 4: Sunrise* </center>
 
-After around three hours of hiking in complete darkness, we could begin to see faint glow of the rising sun. There were few people on the trail and it was incredibly serene.
+After around three hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. There were few people on the trail and was unnaturally serene.
 
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
 
-We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in multiple days. We watched groups of of backpackers fold up their tents as they readied themselves to tackle the summit.
+We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in many days. We watched groups of backpackers fold up their tents as they readied themselves to tackle the summit.
 
 <img src="/whitney/trail_camp.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -101,7 +101,7 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *8:45 a.m – Mile 8: Looking west from the Trail Crest* </center>
 
-As we neared the summit, Doug ran out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filter instead.
+As we neared the summit, Doug ran out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filters instead.
 
 Newton was the next to piss so he pissed into the filter. Doug refused to drink water that had been filtered from piss, so Newton offered the remaining of his water to Doug and decided to drink the filtered piss himself. According to Netwon, the filtered urine was slightly bitter but otherwise tasted fine.
 
@@ -127,15 +127,15 @@ At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Expr
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-The summit was only halfway. Descending wasn't easy, until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immedaitely began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for all of us. We made it down in record time. What better motivation than food?
+The summit was only halfway. Descending wasn't easy until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori an I ran down the remaining 5 miles of the mountain trail to order burgers for us all. We made it down in record time. What better motivation than food?
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *6:00 p.m. – Mile 22: The best burger ever* </center>
 
-In total, the hike took just under 16 hours. What a day.
+In total, the hike took under 16 hours. What a day.
 
-#### Overall, was it worth it?
+#### Was it worth it?
 
 Definitely.
 
@@ -151,17 +151,17 @@ There are two routes I can take. I can either stick with non-technical hikes and
 
 More challenging non-technical hikes include [Mount Kilimanjaro](https://en.wikipedia.org/wiki/Mount_Kilimanjaro) (19,341 ft / 5,895 m) in Tanzania, Africa or [Mount Aconcagua](https://en.wikipedia.org/wiki/Aconcagua) (22,837 ft / 6,960 m) in Argentina, South America. Both of these are part of the [Seven Summits](https://en.wikipedia.org/wiki/Seven_Summits), which are now on my radar.
 
-Or, I could start learning technical mountaineering skills such as self-arrest with an ice axe and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
+Or, I could start learning technical mountaineering skills such as self-arrest with an ice ax and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
 
 Whatever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
 
 #### My Complete Packing List&#42;
 
-Besides the beer, I suggest that you bring all the following and only the following. Anything not listed is non-essential and should be avoided to reduce weight. This packing list is only for the day-hikers. Multi-day summits will require extra gear such as a tent, sleeping bag, etc.
+Besides the beer, bring all the following and only the following. Avoid any non-essentials not listed to reduce weight. This packing list is only for the day-hikers. Multi-day summits will need extra gear such as a tent, sleeping bag, etc.
 
  <div class="row">
-  <div class="column">
-      What to Wear
+ <div class="column">
+ What to Wear
 
 - Moisture-Wicking T-shirt
 - Pants [(Prana Stretch Zion Straight Pants)](https://www.rei.com/product/134025/prana-stretch-zion-straight-pants-mens)&#42;
@@ -171,9 +171,9 @@ Besides the beer, I suggest that you bring all the following and only the follow
 - ~20L Backpack [(Osprey Talon 22 Pack)](https://www.rei.com/product/111296/osprey-talon-22-pack-mens)
 - Mount Whitney Permit
 
-  </div>
-  <div class="column">
-      Extra Clothes to Pack
+ </div>
+ <div class="column">
+ Extra Clothes to Pack
 
 - Windbreaker
 - Rain Jacket
@@ -183,19 +183,19 @@ Besides the beer, I suggest that you bring all the following and only the follow
 - Hat
 - Sunglasses
 
-  </div>
+ </div>
 </div>
 
  <div class="row">
-  <div class="column">
-      Food & Water
+ <div class="column">
+ Food & Water
 
 - 1.5L of Water, 3L Total Capacity&#42;&#42;
 - 1500+ Calories of Food – You will burn over 4000 calories on this trip!
 - Beer&#42;&#42;&#42;
-  </div>
-  <div class="column">
-      Other Essential Items
+ </div>
+ <div class="column">
+ Other Essential Items
 
 - First Aid Kit [(Adventure Medical Kits Ultralight/Watertight .3 Medical Kit)](https://www.rei.com/product/800721/adventure-medical-kits-ultralightwatertight-3-medical-kit)
 - Water Filter [(Katadyn BeFree Collapsible Water Filter Bottle 1L)](https://www.rei.com/product/100537/katadyn-befree-collapsible-water-filter-bottle-20-fl-oz)
@@ -204,7 +204,7 @@ Besides the beer, I suggest that you bring all the following and only the follow
 - Sunscreen
 - WAGbag&#42;&#42;&#42;&#42;
 - Map&#42;&#42;&#42;&#42;
-  </div>
+ </div>
 </div>
 
 &#42;My recommendations are in parentheses. <br>
@@ -213,7 +213,7 @@ Besides the beer, I suggest that you bring all the following and only the follow
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
-If you have any questions or need any tips regarding the hike, feel free to reach out!
+If you have any questions or need any tips about the hike, feel free to reach out!
 
 Lastly, do your research and take everything with a grain of salt. Experiences are all very subjective. If you want to summit Mount Whitney, start preparing before Feb of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the admission rate is about 30%. Overnight permits are sought after even more.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
