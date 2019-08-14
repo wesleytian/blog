@@ -201,7 +201,7 @@ Besides the beer, I highly suggest that you bring all of the following and only 
 
 - First Aid Kit [(Adventure Medical Kits Ultralight/Watertight .3 Medical Kit)](https://www.rei.com/product/800721/adventure-medical-kits-ultralightwatertight-3-medical-kit)
 - Water Filter [(Katadyn BeFree Collapsible Water Filter Bottle 1L)](https://www.rei.com/product/100537/katadyn-befree-collapsible-water-filter-bottle-20-fl-oz)
-- Pocket Knife [(Victorino Hiker Swiss Army Knife)](https://www.rei.com/product/100537/katadyn-befree-collapsible-water-filter-bottle-20-fl-oz)
+- Pocket Knife [(Victorinox Hiker Swiss Army Knife)](https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Hiker/p/1.4613)
 - Lip Balm with SPF
 - Sunscreen
 - WAGbag&#42;&#42;&#42;&#42;
