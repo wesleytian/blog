@@ -10,7 +10,7 @@ tags: ["personal"]
 title="I did not take this picture." class="center_norm_rounded"/>
 <center> *Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)* </center>
 
-#### Introduction
+#### Part 1: Introduction
 
 <img src="/whitney/jeep.jpg" alt=""
 title="The perfect ride." class="center_norm_rounded"/>
@@ -26,7 +26,7 @@ Once upon a time, my lack of preparedness put me through bouts of suffering on M
 
 [&#42;](https://en.wikipedia.org/wiki/Mount_Whitney_Trail)
 
-#### Acclimatization at Lone Pine Lake
+#### Part 2: Acclimatization at Lone Pine Lake
 
 Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Soon after getting to Lone Pine, acclimating by resting at a higher altitude for a while seemed like a good idea.
 
@@ -61,7 +61,7 @@ He died several hours later, after being removed from the 14,495-foot summit by 
 </blockquote>
 
 
-#### The Big Day
+#### Part 3: The Big Day
 
 We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
