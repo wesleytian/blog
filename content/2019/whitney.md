@@ -35,7 +35,7 @@ title="Serene af." class="center_norm_rounded"/>
 
 <img src="/whitney/lone_pine_group.jpg" alt=""
 title="From left, Doug, Wes, Newton, Nori" class="center_norm_rounded"/>
-<center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
+<center> *Lone Pine Lake (10,050 ft / 3,063 m) (From left, Doug, Wes, Newton, Nori)* </center>
 
 So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization.
 
@@ -67,7 +67,7 @@ We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but to
 
 <img src="/whitney/start.jpg" alt=""
 title="From left, Doug, Wes, Nori, Newton" class="center_norm_rounded"/>
-<center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
+<center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m) (From left, Doug, Wes, Nori, Newton)* </center>
 
 For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would've stopped our hike cold and saddened us deeply.
 
@@ -158,7 +158,7 @@ Confronting the altitude sickness, harsh winds, and the near-zero temperatures, 
 
 <img src="/whitney/summit_group.jpg" alt=""
 title="From left, Nori, Doug, Wes, Newton" class="center_norm_rounded"/>
-<center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
+<center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m) (From left, Nori, Doug, Wes, Newton)* </center>
 
 "YEEEAAAAA" I screamed with the little energy I had left.
 
