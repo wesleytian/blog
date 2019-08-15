@@ -81,7 +81,7 @@ There were a couple of streams that we had to cross, but they were quite managea
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Sunrise* </center>
 
-After a few hours of hiking in complete darkness, we began to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was it felt unnaturally serene as there was no wildlife. At that moment, I felt like we were the only living things alive in the world.
+After a few hours of hiking in complete darkness, we began to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was it felt unnaturally quiet as there was no wildlife. At that moment, I felt like we were the only living things alive in the world.
 
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -154,7 +154,7 @@ title="Wesley" class="center_norm_rounded"/>
 
 There was no way that we would come this far to turn back now. Giving up was not an option. Even though we were all in pain, Doug and I kept yelling words of encouragement such as "We got this!"" and "We're almost there!"
 
-Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
+Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onward and eventually made it to the summit.
 
 <img src="/whitney/summit_group.jpg" alt=""
 title="From left, Nori, Doug, Wes, Newton" class="center_norm_rounded"/>
@@ -200,7 +200,7 @@ In total, the hike took just under 16 hours. What a day.
 
 Definitely.
 
-This hike may be the hardest non-technical day-hike in the contiguous US. (Technical hikes require the use of hands, usually involving mountaineering equipment such as ice axes and crampons.) At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
+This hike may be the hardest non-technical day-hike in the contiguous US. (Technical hikes need the use of hands, usually involving mountaineering equipment such as ice axes and crampons.) At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
 
 Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine.
 
@@ -219,7 +219,7 @@ title="" class="center_norm_rounded"/>
 
 Or, I could start learning technical mountaineering skills such as self-arrest with an ice ax and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
 
-Whatever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
+Whichever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
 
 <a name="packing_list"></a>
 #### My Complete Packing List&#42;
@@ -284,6 +284,5 @@ title="Til next time!" class="center_norm_rounded"/>
 
 If you have any questions or need any tips about the hike, feel free to reach out!
 
-Lastly, do your own research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year since the permit lottery applications are due during that time. The hardest part may actually be getting a permit since the acceptance rate is around 30%. Overnight permits are even harder to get.
+Lastly, do your own research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year as the permit lottery applications are due during that time. The hardest part may actually be getting a permit since the acceptance rate is around 30%. Overnight permits are even harder to get.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
-
