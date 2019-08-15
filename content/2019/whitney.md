@@ -14,7 +14,7 @@ title="" class="center_norm_rounded"/>
 
 <img src="/whitney/jeep.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *Our temporary ride* </center>
+<center> *What a fitting ride* </center>
 
 <img src="/whitney/map_route.png" alt=""
 title="" class="center_norm_rounded"/>
@@ -60,7 +60,7 @@ We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but an
 title="" class="center_norm_rounded"/>
 <center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
-For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps.
+For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would stop our hike cold and sadden us deeply.
 
 <img src="/whitney/night_crossing.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -72,10 +72,14 @@ There were a couple of streams that we had to cross, but they were quite managea
 title="" class="center_norm_rounded"/>
 <center> *5:42 a.m. – Mile 4: Sunrise* </center>
 
-After a few hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. There were few people on the trail and was unnaturally serene.
+After a few hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was unnaturally serene. I felt like we were the only people awake in the world at that moment.
 
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
+
+"The sky looks clear!" I shouted in relief as I realized that the clouds we saw earlier were just mountains.
+
+We continued to set our hopes high, but also kept our expectations low to avoid potential disappointment.
 
 We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in many days. We watched groups of backpackers fold up their tents as they readied themselves to tackle the summit.
 
@@ -83,7 +87,7 @@ We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, mo
 title="" class="center_norm_rounded"/>
 <center> *5:58 a.m. – Mile 5: Trail Camp (12,039 ft, 3,669 m)* </center>
 
-This was the last place to get water according to both online and local sources. According to an online source, we only needed 1.5L to 2L of water, which we realized didn't make sense only after it was too late.
+This was the last place to get water according to both online and local sources. One person told us thatwe only needed to bring 1.5L to 2L of water–which we realized didn't make sense only after it was too late.
 
 2 liters of water got me to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
 
@@ -101,45 +105,93 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *8:45 a.m – Mile 8: Looking west from the Trail Crest* </center>
 
-Still more than an half hour from summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. Since we carried water filters with us, I suggested that the next person who had to piss should piss into one of our water filter bottles instead.
+Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
-Newton was the next to go so he pissed into the filter bottle. Not yet ready to become Bear Grylls, Doug refused to drink the piss-filtered water. Newton gave the remainder of the water from his bottle to Doug and offered drink the filtered piss himself. According to him, the filtered urine tasted slightly bitter, but otherwise fine.
+My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I jokingly suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
+
+I didn't expect them to take me seriously, but Newton was actually like, "Sure."
+
+And so, Newton, being the next to piss, pissed into one of our filter bottles. 
+
+<img src="/whitney/piss.png" alt="Trail Crest"
+title="" class="center_norm_rounded"/>
+<center> *Newton: "Iconic, dude."* </center>
+
+Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, ended up giving the rest of the water from his bottle to Doug and drank the filtered piss himself. 
+
+When asked what the water tasted like, Newton though for a second, furrowed his brows and said, "It didn't taste like water. It tasted a bit bitter." 
+
+Who knew?
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
 <center> *9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest* </center>
 
-It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. Every time we moved, we could feel our heads throbbing and pulsating with blood.
+It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. <br>
+Every single step I took, I felt my head throbbing and pulsating with blood.  <br>
+Every. <br>
+Single.  <br>
+Step. <br>
+
+Step.  <br> <br>
+
+Throb. <br> <br>
+Step.  <br>
+On the outside, I had my usual deadpan face, but internally I was screaming.
 
 <img src="/whitney/snowfield.jpg" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *10:22 a.m. – Mile 10: The snowfield before the summit* </center>
 
-There was no way that we would come this far to turn back now. Giving up was not an option. Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
+There was no way that we would come this far to turn back now. Giving up was not an option. Even though we were all in pain, Doug and I kept yelling words of encouragement such as "We got this!"" and "We're almost there!"
+
+Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
 
 <img src="/whitney/summit_group.jpg" alt=""
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mile 11: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
-At last, we made it! To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO. We hung out for some lunch, drinks, and pictures before quickly descending to ease the symptoms of altitude sickness. Thankfully, we found a few sources of water that we could filter on the way down that prevented us from serious dehydration.
+"YEEEAAAAA" I screamed with the little energy I had left.
+
+We had finally made it to the summit. To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
-The summit was only halfway. Descending wasn't easy until some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed. Doug injured his knee on the descent so Netwon stayed with him while Nori and I ran down the remaining 5 miles of the mountain trail to order burgers for us all. We made it down in record time. What better motivation than food?
+A few pictures in, Nori mentioned to us, "I don't feel good."
+
+Doug and I didn't take this as seriously as we should have. His tone didn't sound urgent to us and we wanted to take as many pictures as we could. Doug showed little symptoms of altitude sickness and I had a headache that was quickly disappearing.
+
+A few more minutes later, Nori said, this time more seriously, "Hey guys, can we head down soon?"
+
+By that point, we should have noticed that something was up, but we continued chatting with other hikers and went about our own business.
+
+A few more minutes passed and this time Nori interjected our conversation and sternly demanded, "We need to go down. __NOW__."
+
+Only this time it hit us how urgent this situation was and I told Nori to immediately head down first, with Newton accompanying him. Only later did Nori tell us how much discomfort he was in. This event made me realize how subjective our experiences are and why it matters so much to be open to the subtle hints that other people give you. This could've turned out badly and I'm so glad it didn't. Some extra few pictures aren't worth the suffering of a fellow pal.
+
+On the way down, Doug and I thankfully found a few sources of water that we could filter on the way down so that we didn't have to drink more piss.
+
+__The summit is only halfway.__ Descending wasn't easy until we got a second wind when some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed.
+
+Doug wanted the burger so bad that he was willing to further damage his knee to take a bite of the delicious burger.
+
+To get the burgers before the store closed, Netwon offered to stay with Doug while he asked Nori and me to run down the remaining 5 miles of the mountain trail to get the burgers. We made it down in record time.
+
+What better motivation than food?
 
 <img src="/whitney/burger.jpg" alt="Having a drink at the summit"
 title="" class="center_norm_rounded"/>
 <center> *6:00 p.m. – Mile 22: The best burger ever* </center>
 
-In total, the hike took under 16 hours. What a day.
+In total, the hike took just under 16 hours. What a day.
 
 #### Was it worth it?
 
 Definitely.
 
-This hike may be the hardest non-technical day-hike in the contiguous US. At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
+This hike may be the hardest non-technical day-hike in the contiguous US. (Technical hikes require the use of hands, usually involving mountaineering equipment such as ice axes and crampons.) At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
 
 Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
 
@@ -202,7 +254,7 @@ Besides the beer, bring all the following and only the following. Avoid any non-
 - Pocket Knife [(Victorinox Hiker Swiss Army Knife)](https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Hiker/p/1.4613)
 - Lip Balm with SPF
 - Sunscreen
-- WAGbag&#42;&#42;&#42;&#42;
+- WAGbag – The anywhere toilet kit&#42;&#42;&#42;&#42;
 - Map&#42;&#42;&#42;&#42;
  </div>
 </div>
