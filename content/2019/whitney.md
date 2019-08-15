@@ -270,7 +270,6 @@ Besides the beer, bring all the following and only the following. Avoid any non-
 
 &#42;My recommendations are in parentheses. <br>
 &#42;&#42;The amount of water you bring depends on the mountain water conditions and the time of year. Check with the park ranger or with recent hikers through [AllTrails](https://www.facebook.com/groups/30962451768/about/) or the [Mt. Whitney Facebook Group](https://www.facebook.com/groups/30962451768/about/) to see how much water you should be bringing. <br>
-
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
