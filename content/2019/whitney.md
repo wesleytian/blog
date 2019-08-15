@@ -164,9 +164,9 @@ title="Tangerine Express IPA" class="center_norm_rounded"/>
 
 A few pictures in, Nori mentioned to us, "I don't feel good."
 
-Doug and I didn't take this as seriously as we should have. His tone didn't sound urgent to us and we wanted to take as many pictures as we could. Doug showed little symptoms of altitude sickness and I had a headache that was quickly disappearing.
+Doug and I didn't take this as seriously as we should have. His tone didn't sound urgent to us and we wanted to take as many pictures as we could. Doug showed little symptoms of altitude sickness and my painful headache was quickly fading.
 
-A few more minutes later, Nori said, this time more seriously, "Hey guys, can we head down soon?"
+A couple minutes later, Nori said, this time more seriously, "Hey guys, can we head down soon?"
 
 By that point, we should have noticed that something was up, but we continued chatting with other hikers and went about our own business.
 
