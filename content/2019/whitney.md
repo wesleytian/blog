@@ -39,7 +39,7 @@ title="From left, Doug, Wes, Newton, Nori" class="center_norm_rounded"/>
 
 So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization.
 
-During the ascent, we heard thunder and saw lightning from many directions, so we were afraid our summit day plans would be jeopardized. Besides the effects of altitude sickness, the most dangerous thing that could happen in this area is being struck by lightning.
+During the ascent, we heard thunder and saw lightning from many directions. We were afraid our summit day plans would be jeopardized. Besides the effects of altitude sickness, the most dangerous thing that could happen in this area is being struck by lightning.
 
 A few years ago, [this](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) following story headlined the news,
 
