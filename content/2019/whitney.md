@@ -14,7 +14,7 @@ title="" class="center_norm_rounded"/>
 
 <img src="/whitney/jeep.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *What a fitting ride* </center>
+<center> *The perfect ride* </center>
 
 <img src="/whitney/map_route.png" alt=""
 title="" class="center_norm_rounded"/>
@@ -32,7 +32,11 @@ title="" class="center_norm_rounded"/>
 title="" class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-The 5.2-mile loop to the lake and back took us a total of two hours and 45 minutes. We stayed at the lake for a couple of hours to help with the acclimatization. On the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. A few years ago, this following story headlined the news,
+So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization. 
+
+During the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. 
+
+A few years ago, [this](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) following story headlined the news,
 
 <blockquote>LONE PINE, Calif. —
 As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
@@ -50,7 +54,7 @@ As the hikers had sprinted for cover during the squall Saturday afternoon, Nordb
 <br><br>
 He died several hours later, after being removed from the 14,495-foot summit by helicopter.
 </blockquote>
-Source: [Hikers Find Death, Terror at Summit of Mt. Whitney, Los Angeles Times](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html)
+
 
 #### Day 3: The Big Day
 
@@ -60,19 +64,19 @@ We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but an
 title="" class="center_norm_rounded"/>
 <center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
-For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would stop our hike cold and sadden us deeply.
+For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would've stopped our hike cold and saddened us deeply.
 
 <img src="/whitney/night_crossing.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *Mile 2: Stream crossing* </center>
+<center> *A stream crossing* </center>
 
-There were a couple of streams that we had to cross, but they were quite manageable and my feet never got soaked. We scheduled periodic snack breaks every 1.5 hours and took breaks and filtered water as needed.
+There were a couple of streams that we had to cross, but they were quite manageable and my feet were never wet beyond my toes. We scheduled periodic snack breaks every 1.5 hours and took breaks and filtered water as needed.
 
 <img src="/whitney/sunrise.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *5:42 a.m. – Mile 4: Sunrise* </center>
+<center> *5:42 a.m. – Sunrise* </center>
 
-After a few hours of hiking in complete darkness, we could begin to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was unnaturally serene. I felt like we were the only people awake in the world at that moment.
+After a few hours of hiking in complete darkness, we began to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was it felt unnaturally serene as there was no wildlife. At that moment, I felt like we were the only living things alive in the world.
 
 <img src="/whitney/whitney.jpg" alt=""
 title="" class="center_norm_rounded"/>
@@ -81,13 +85,13 @@ title="" class="center_norm_rounded"/>
 
 We continued to set our hopes high, but also kept our expectations low to avoid potential disappointment.
 
-We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in many days. We watched groups of backpackers fold up their tents as they readied themselves to tackle the summit.
+We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in many days. We enviously watched as groups of well-rested, fully acclimated backpackers packed up their tents, prepared warm breakfasts, and readied themselves to tackle the summit.
 
 <img src="/whitney/trail_camp.jpg" alt=""
 title="" class="center_norm_rounded"/>
-<center> *5:58 a.m. – Mile 5: Trail Camp (12,039 ft, 3,669 m)* </center>
+<center> *5:58 a.m. – Mile 6: Trail Camp (12,039 ft, 3,669 m)* </center>
 
-This was the last place to get water according to both online and local sources. One person told us thatwe only needed to bring 1.5L to 2L of water–which we realized didn't make sense only after it was too late.
+This was the last place to get water according to both online and local sources. One person told us that we only needed to bring 1.5L to 2L of water–which we realized didn't make sense only after it was too late.
 
 2 liters of water got me to trail camp and the route to trail camp was only a quarter of the entire trail. From trail camp to summit and back to trail camp was around half of the entire trail, so at the very least we should have brought 4L of water.
 
@@ -95,15 +99,15 @@ This also marked the beginning of the infamous "97-switchbacks".
 
 <img src="/whitney/switchbacks.jpg" alt="Switchbacks"
 title="" class="center_norm_rounded"/>
-<center> *Mile 6: Some of the switchbacks* </center>
+<center> *Some of the switchbacks* </center>
 
 <img src="/whitney/trail_crest.jpg" alt="Start of the Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *Mile 7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
+<center> *Mile 8.7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *8:45 a.m – Mile 8: Looking west from the Trail Crest* </center>
+<center> *8:45 a.m – Looking west from the Trail Crest* </center>
 
 Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
@@ -115,7 +119,7 @@ And so, Newton, being the next to piss, pissed into one of our filter bottles.
 
 <img src="/whitney/piss.png" alt="Trail Crest"
 title="" class="center_norm_rounded"/>
-<center> *Newton: "Iconic, dude."* </center>
+<center> *"Iconic, dude."* </center>
 
 Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, ended up giving the rest of the water from his bottle to Doug and drank the filtered piss himself. 
 
@@ -139,9 +143,9 @@ Throb. <br> <br>
 Step.  <br>
 On the outside, I had my usual deadpan face, but internally I was screaming.
 
-<img src="/whitney/snowfield.jpg" alt="Snowfield"
+<img src="/whitney/snowfield.png" alt="Snowfield"
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
-<center> *10:22 a.m. – Mile 10: The snowfield before the summit* </center>
+<center> *10:22 a.m. – The snowfield before the summit* </center>
 
 There was no way that we would come this far to turn back now. Giving up was not an option. Even though we were all in pain, Doug and I kept yelling words of encouragement such as "We got this!"" and "We're almost there!"
 
@@ -149,7 +153,7 @@ Confronting the altitude sickness, harsh winds, and the near-zero temperatures, 
 
 <img src="/whitney/summit_group.jpg" alt=""
 title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
-<center> *11:09 a.m. – Mile 11: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
+<center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
 "YEEEAAAAA" I screamed with the little energy I had left.
 
@@ -202,6 +206,9 @@ The hardest part of the hike was the symptoms of altitude sickness. Only Advil m
 There are two routes I can take. I can either stick with non-technical hikes and start doing multi-day hikes, or I can start doing technical hikes.
 
 More challenging non-technical hikes include [Mount Kilimanjaro](https://en.wikipedia.org/wiki/Mount_Kilimanjaro) (19,341 ft / 5,895 m) in Tanzania, Africa or [Mount Aconcagua](https://en.wikipedia.org/wiki/Aconcagua) (22,837 ft / 6,960 m) in Argentina, South America. Both of these are part of the [Seven Summits](https://en.wikipedia.org/wiki/Seven_Summits), which are now on my radar.
+
+<img src="/whitney/seven_summits.png" alt="Having a drink at the summit"
+title="" class="center_norm_rounded"/>
 
 Or, I could start learning technical mountaineering skills such as self-arrest with an ice ax and begin to do technical climbs such as on [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier) (14,111 ft / 4,392 m).
 
@@ -265,7 +272,11 @@ Besides the beer, bring all the following and only the following. Avoid any non-
 &#42;&#42;&#42; Bring and drink at your own risk. <br>
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
+<img src="/whitney/whitney_intro.jpg" alt="Having a drink at the summit"
+title="" class="center_norm_rounded"/>
+
 If you have any questions or need any tips about the hike, feel free to reach out!
 
 Lastly, do your research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the acceptance rate is about 30%. Overnight permits are even rarer.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
+
