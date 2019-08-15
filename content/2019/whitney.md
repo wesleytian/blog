@@ -278,6 +278,6 @@ title="Til next time!" class="center_norm_rounded"/>
 
 If you have any questions or need any tips about the hike, feel free to reach out!
 
-Lastly, do your research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year since the permit lottery happens during that time. The hardest part may actually be getting a permit since the acceptance rate is about 30%. Overnight permits are even rarer.
+Lastly, do your own research and take everything with a grain of salt. Personal experiences are very subjective. If you want to summit Mount Whitney, start preparing before February of that year since the permit lottery applications are due during that time. The hardest part may actually be getting a permit since the acceptance rate is around 30%. Overnight permits are even harder to get.
 See [Mount Whitney via Mount Whitney Trail on AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail) for more information about the trail.
 
