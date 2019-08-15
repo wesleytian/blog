@@ -196,7 +196,10 @@ Definitely.
 
 This hike may be the hardest non-technical day-hike in the contiguous US. (Technical hikes require the use of hands, usually involving mountaineering equipment such as ice axes and crampons.) At the very least, it's the tallest. The hike wasn't technical at all. I remember only having to use my hands twice, when there were icy rocks on the switchbacks and when I slipped coming down on the snowfield.
 
-Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine. None of us felt anything besides some slight soreness the next day.
+Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine.
+
+We were barely sore. "Round two, anybody?" joked Nori the next day.
+
 
 The hardest part of the hike was the symptoms of altitude sickness. Only Advil made the altitude sickness bearable.
 
