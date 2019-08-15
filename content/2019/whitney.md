@@ -7,14 +7,13 @@ tags: ["personal"]
 ---
 
 <img src="/whitney/whitney_sunrise.jpg" alt=""
-title="" class="center_norm_rounded"/>
+title="I did not take this picture." class="center_norm_rounded"/>
 <center> *Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)* </center>
 
 #### Day 1: Mountain View to Lone Pine
 
 <img src="/whitney/jeep.jpg" alt=""
-title="" class="center_norm_rounded"/>
-<center> *The perfect ride* </center>
+title="The perfect ride." class="center_norm_rounded"/>
 
 <img src="/whitney/map_route.png" alt=""
 title="" class="center_norm_rounded"/>
@@ -26,15 +25,15 @@ On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out f
 Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Acclimating by resting at a higher altitude for a while seemed like a good idea.
 
 <img src="/whitney/lone_pine_lake.jpg" alt=""
-title="" class="center_norm_rounded"/>
+title="Serene af." class="center_norm_rounded"/>
 
 <img src="/whitney/lone_pine_group.jpg" alt=""
-title="" class="center_norm_rounded"/>
+title="From left, Doug, Wes, Newton, Nori" class="center_norm_rounded"/>
 <center> *Lone Pine Lake (10,050 ft / 3,063 m)* </center>
 
-So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization. 
+So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization.
 
-During the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning. 
+During the ascent, we heard and saw lightning from many directions so we were afraid that would jeopardize our summit day plans. besides the effects of altitude sickness, the most dangerous thing that could happen in this area was being struck by lightning.
 
 A few years ago, [this](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) following story headlined the news,
 
@@ -61,14 +60,14 @@ He died several hours later, after being removed from the 14,495-foot summit by 
 We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt=""
-title="" class="center_norm_rounded"/>
+title="From left, Doug, Wes, Nori, Newton" class="center_norm_rounded"/>
 <center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m)* </center>
 
 For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would've stopped our hike cold and saddened us deeply.
 
 <img src="/whitney/night_crossing.jpg" alt=""
-title="" class="center_norm_rounded"/>
-<center> *A stream crossing* </center>
+title="From left, Wes, Newton" class="center_norm_rounded"/>
+<center> *Stream crossing* </center>
 
 There were a couple of streams that we had to cross, but they were quite manageable and my feet were never wet beyond my toes. We scheduled periodic snack breaks every 1.5 hours and took breaks and filtered water as needed.
 
@@ -102,7 +101,7 @@ title="" class="center_norm_rounded"/>
 <center> *Some of the switchbacks* </center>
 
 <img src="/whitney/trail_crest.jpg" alt="Start of the Trail Crest"
-title="" class="center_norm_rounded"/>
+title="Doug" class="center_norm_rounded"/>
 <center> *Mile 8.7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
 
 <img src="/whitney/trail_crest_west.jpg" alt="Trail Crest"
@@ -118,7 +117,7 @@ I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 And so, Newton, being the next to piss, pissed into one of our filter bottles. 
 
 <img src="/whitney/piss.png" alt="Trail Crest"
-title="" class="center_norm_rounded"/>
+title="Newton" class="center_norm_rounded"/>
 <center> *"Iconic, dude."* </center>
 
 Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, ended up giving the rest of the water from his bottle to Doug and drank the filtered piss himself. 
@@ -144,7 +143,7 @@ Step.  <br>
 On the outside, I had my usual deadpan face, but internally I was screaming.
 
 <img src="/whitney/snowfield.png" alt="Snowfield"
-title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
+title="Wesley" class="center_norm_rounded"/>
 <center> *10:22 a.m. – The snowfield before the summit* </center>
 
 There was no way that we would come this far to turn back now. Giving up was not an option. Even though we were all in pain, Doug and I kept yelling words of encouragement such as "We got this!"" and "We're almost there!"
@@ -152,15 +151,15 @@ There was no way that we would come this far to turn back now. Giving up was not
 Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onwards and eventually made it to the summit.
 
 <img src="/whitney/summit_group.jpg" alt=""
-title="From left to right: Nori, Doug, me, and Newton" class="center_norm_rounded"/>
+title="From left, Nori, Doug, Wes, Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m)* </center>
 
 "YEEEAAAAA" I screamed with the little energy I had left.
 
-We had finally made it to the summit. To celebrate, Doug and I had some refreshing Tangerine Express IPA. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
+We had finally made it to the summit. To celebrate, Doug and I had some refreshing beers. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
 
 <img src="/whitney/beer.jpg" alt="Having a drink at the summit"
-title="" class="center_norm_rounded"/>
+title="Tangerine Express IPA" class="center_norm_rounded"/>
 <center> *Enjoying a well-deserved drink* </center>
 
 A few pictures in, Nori mentioned to us, "I don't feel good."
@@ -273,7 +272,7 @@ Besides the beer, bring all the following and only the following. Avoid any non-
 &#42;&#42;&#42;&#42;You will be given one of these for each person in your group when you pick up your permit.
 
 <img src="/whitney/whitney_intro.jpg" alt="Having a drink at the summit"
-title="" class="center_norm_rounded"/>
+title="Til next time!" class="center_norm_rounded"/>
 
 If you have any questions or need any tips about the hike, feel free to reach out!
 
