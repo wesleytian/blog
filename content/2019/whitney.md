@@ -57,7 +57,7 @@ He died several hours later, after being removed from the 14,495-foot summit by 
 
 #### Day 3: The Big Day
 
-We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
+We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 <img src="/whitney/start.jpg" alt=""
 title="From left, Doug, Wes, Nori, Newton" class="center_norm_rounded"/>
