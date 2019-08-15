@@ -10,7 +10,7 @@ tags: ["personal"]
 title="I did not take this picture." class="center_norm_rounded"/>
 <center> *Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)* </center>
 
-#### Day 1: Mountain View to Lone Pine
+#### Introduction
 
 <img src="/whitney/jeep.jpg" alt=""
 title="The perfect ride." class="center_norm_rounded"/>
@@ -18,13 +18,17 @@ title="The perfect ride." class="center_norm_rounded"/>
 <img src="/whitney/map_route.png" alt=""
 title="" class="center_norm_rounded"/>
 
-Once upon a time, my lack of preparedness put me through bouts of suffering on Mount Fuji, so this time around I made sure to be extra cautious.
+On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out from Mountain View, CA to tackle Mount Whitney.
 
-On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out from Mountain View, CA to tackle the tallest mountain in the contiguous United States, Mount Whitney.
+Not only were we determined to summit the tallest mountain in the contiguous United States, but to also do it in one day. In comparison, most overnight backpackers take between 2 and 4 days to complete.&#42;
 
-#### Day 2: Acclimatization at Lone Pine Lake
+Once upon a time, my lack of preparedness put me through bouts of suffering on Mount Fuji, so this time around I made sure to be extra cautious. Our journey is detailed below. See [here](#packing_list) for my complete packing list.
 
-Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Acclimating by resting at a higher altitude for a while seemed like a good idea.
+[&#42;](https://en.wikipedia.org/wiki/Mount_Whitney_Trail)
+
+#### Acclimatization at Lone Pine Lake
+
+Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sickness) and [high-altitude cerebral edema](https://en.wikipedia.org/wiki/High-altitude_cerebral_edema) which could permanently damage your brain and lead to death terrified the hell out of us. Soon after getting to Lone Pine, acclimating by resting at a higher altitude for a while seemed like a good idea.
 
 <img src="/whitney/lone_pine_lake.jpg" alt=""
 title="Serene af." class="center_norm_rounded"/>
@@ -57,7 +61,7 @@ He died several hours later, after being removed from the 14,495-foot summit by 
 </blockquote>
 
 
-#### Day 3: The Big Day
+#### The Big Day
 
 We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
@@ -217,6 +221,7 @@ Or, I could start learning technical mountaineering skills such as self-arrest w
 
 Whatever I choose, this hike has done a poor job at deterring me from more challenging hikes and only has me craving more.
 
+<a name="packing_list"></a>
 #### My Complete Packing List&#42;
 
 Besides the beer, bring all the following and only the following. Avoid any non-essentials not listed to reduce weight. This packing list is only for the day-hikers. Multi-day summits will need extra gear such as a tent, sleeping bag, etc.
