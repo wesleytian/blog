@@ -1,5 +1,5 @@
 ---
-title: "Climbing the Tallest Mountain in the Contiguous US"
+title: "Surviving the Tallest Mountain in the Contiguous US: A Tale of Friendship, Altitude Sickness, and Piss"
 date: 2019-08-11
 showDate: true
 draft: false
@@ -18,7 +18,9 @@ title="The perfect ride." class="center_norm_rounded"/>
 <img src="/whitney/map_route.png" alt=""
 title="" class="center_norm_rounded"/>
 
-On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out from Mountain View, CA to climb Mount Whitney, the tallest mountain in the contiguous United States.
+Once upon a time, my lack of preparedness put me through bouts of suffering on Mount Fuji, so this time around I made sure to be extra cautious.
+
+On August 6th, 2019, Douglas Qian, Newton Xie, Noriyuki Kojimano and I set out from Mountain View, CA to tackle the tallest mountain in the contiguous United States, Mount Whitney.
 
 #### Day 2: Acclimatization at Lone Pine Lake
 
@@ -198,10 +200,9 @@ This hike may be the hardest non-technical day-hike in the contiguous US. (Techn
 
 Though it was a long hike, anyone who is somewhat athletic and has good cardiovascular health should be able to conquer this mountain. Training will vary from person to person. A few months before this, I trained for a marathon at a 3:30 to 4:00 pace and I did a 10+ mile trek in Washington state. I also did some targeted work on my calves, side glutes, and hip flexors because of some muscle imbalances. Besides having also trained for and ran a marathon a few months prior, Doug didn't do any extra training for the hike and was also fine.
 
-We were barely sore. "Round two, anybody?" joked Nori the next day.
-
-
 The hardest part of the hike was the symptoms of altitude sickness. Only Advil made the altitude sickness bearable.
+
+We were barely sore the next day. "Round two, anybody?" joked Nori.
 
 #### What's next?
 
