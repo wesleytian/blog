@@ -60,6 +60,8 @@ As the hikers had sprinted for cover during the squall Saturday afternoon, Nordb
 He died several hours later, after being removed from the 14,495-foot summit by helicopter.
 </blockquote>
 
+We drove back to our Airbnb in Lone Pine shortly afterwards.
+
 
 #### Part 3: The Big Day
 
@@ -116,7 +118,7 @@ title="" class="center_norm_rounded"/>
 
 Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
-My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I jokingly suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
+My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
 
 I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 
@@ -131,6 +133,8 @@ Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the
 When asked what the water tasted like, Newton though for a second, furrowed his brows and said, "It didn't taste like water. It tasted a bit bitter." 
 
 Who knew?
+
+(So apparently, drinking filtered piss is actually a bad idea. See [this comment thread](https://www.facebook.com/groups/30962451768/permalink/10156539356891769/) for details.)
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
@@ -184,7 +188,7 @@ On the way down, Doug and I thankfully found a few sources of water that we coul
 
 __The summit is only halfway.__ Descending wasn't easy until we got a second wind when some hikers told us about the best burger ever at the Whitney Portal Store. Picturing fat juicy burgers in our heads, we immediately began running down the mountain to make it to the store before it closed.
 
-Doug wanted the burger so bad that he was willing to further damage his knee to take a bite of the delicious burger.
+Doug wanted the burger so bad that he was willing to further damage his already painful knee to take a bite of the delicious burger.
 
 To get the burgers before the store closed, Netwon offered to stay with Doug while he asked Nori and me to run down the remaining 5 miles of the mountain trail to get the burgers. We made it down in record time.
 

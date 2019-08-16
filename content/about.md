@@ -14,8 +14,8 @@ In the past few years, Wesley has worked on research and development at an Inter
 
 He was born in Mountain View, California, and then moved to Oregon, Taiwan, back to Oregon, Shanghai, Massachusetts, and finally, Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and hiking. His favorite hikes include Greece's [Mount Olympus](https://www.alltrails.com/trail/greece/crete--3/mount-olympus-from-prionia-trailhead?u=i), the [Cascade Pass and Sahale Arm Trail](https://www.alltrails.com/trail/us/washington/cascade-pass-and-sahale-arm-trail--2) in Washington's North Cascades National Park, and [Mount Whitney](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail), the tallest mountain in the contiguous US.
 
-&#42; See [Hacking an Inadequate Air Conditioner](https://wesleytian.github.io/2016/ac_hack/) <br>
-&#42;&#42; See [paper](https://drive.google.com/file/d/1eWGKG3tjlNllsdLcThaYQGSemOWjcSg7/view)
+&#42; See [Hacking an Inadequate Air Conditioner](https://wesleytian.github.io/2016/ac_hack/). <br>
+&#42;&#42; See [paper](https://drive.google.com/file/d/1eWGKG3tjlNllsdLcThaYQGSemOWjcSg7/view).
 
 ## About This Site
 
