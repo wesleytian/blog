@@ -118,7 +118,7 @@ title="" class="center_norm_rounded"/>
 
 Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
-My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
+My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I half-jokingly suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
 
 I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 
@@ -128,29 +128,33 @@ And so, Newton, being the next to piss, pissed into one of our filter bottles.
 title="Newton" class="center_norm_rounded"/>
 <center> *"Iconic, dude."* </center>
 
-Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, ended up giving the rest of the water from his bottle to Doug and drank the filtered piss himself. 
+Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, offered the rest of the water from his bottle to Doug and drank the filtered piss himself.
 
-When asked what the water tasted like, Newton though for a second, furrowed his brows and said, "It didn't taste like water. It tasted a bit bitter." 
+When asked what the water tasted like, Newton though for a second, furrowed his brows and said, "It didn't taste like water. It tasted a bit bitter."
 
 Who knew?
 
-(So apparently, drinking filtered piss is actually a bad idea. See [this comment thread](https://www.facebook.com/groups/30962451768/permalink/10156539356891769/) for details.)
+(So apparently, drinking filtered piss is actually a terrible idea. See [this comment thread](https://www.facebook.com/groups/30962451768/permalink/10156539356891769/) for details.)
+
+Oh and Doug never ended up taking the water that Newton offered him, so Newton drank the filtered piss for no reason.
 
 <img src="/whitney/towards_summit.jpg" alt="Summit"
 title="" class="center_norm_rounded"/>
 <center> *9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest* </center>
 
-It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM while running out of breath consistently, Newton felt nauseous and wanted to puke, and we all had the worst headaches of our entire lives. <br>
-Every single step I took, I felt my head throbbing and pulsating with blood.  <br>
-Every. <br>
-Single.  <br>
-Step. <br>
+It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM, Newton felt nauseous, and we all had the worst headaches of our entire lives. <br>
+Every few minutes, I felt my head throbbing and pulsating with blood.  <br>
 
 Step.  <br> <br>
 
 Throb. <br> <br>
+
 Step.  <br>
 On the outside, I had my usual deadpan face, but internally I was screaming.
+
+If it had gotten much worse for us, we would've turned back for safety reasons, but since the swelling of blood of my head would reside after a few minutes at a certain altitude, and it was tolerable for Newton and Nori we continued onwards.
+
+While we were all suffering, Doug, on the otherhand, luckily experienced no symptoms whatsoever. Apparently 40% of mountaineers don't experience AMS symptoms at 14,000 feet. Why? Nobody knows.
 
 <img src="/whitney/snowfield.png" alt="Snowfield"
 title="Wesley" class="center_norm_rounded"/>
@@ -164,7 +168,7 @@ Confronting the altitude sickness, harsh winds, and the near-zero temperatures, 
 title="From left, Nori, Doug, Wes, Newton" class="center_norm_rounded"/>
 <center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m) (From left, Nori, Doug, Wes, Newton)* </center>
 
-"YEEEAAAAA" I screamed with the little energy I had left.
+"YEEEAAAAA" I yelled with the little energy I had left.
 
 We had finally made it to the summit. To celebrate, Doug and I had some refreshing beers. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
 
