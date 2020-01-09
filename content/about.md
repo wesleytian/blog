@@ -5,7 +5,7 @@ draft: false
 
 ## About This Site
 
-<img src="/me.jpg" alt="Wesley Tian"
+<img src="/me2.jpg" alt="Wesley Tian"
         title="Me" style="width:20%;height:20%;border-radius:5px 25px" class="center"/>
 
 Hi! 
