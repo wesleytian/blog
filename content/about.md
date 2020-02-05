@@ -22,7 +22,7 @@ I recently recieved my Bachelor of Science degree from the University of Michiga
 
 Before attending the University of Michigan, I took classes in computer science, mathematics, and economics at the University of Massachusetts, Amherst.
 
-Although I was born in Mountain View, California, I have also lived Oregon, Taiwan, Shanghai, Massachusetts, and Michigan.
+Although I was born in Mountain View, California and lived there for the first 5 years of my life, I have also lived Oregon (2.5 years), Taiwan (1.5 years), Shanghai (8 years), Massachusetts (2 years), and Michigan (2.5 years).
 
 > _All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated._
 
