@@ -6,7 +6,7 @@ copyright = "&copy; Wesley Tian 2019"
 disqusShortname = "wesleytian-github-io"
 googleAnalytics = "UA-89706210-1"
 # Number of posts per page
-Paginate = 10
+Paginate = 20 
 enableRobotsTXT = true
 
 [params.features]

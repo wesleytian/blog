@@ -12,7 +12,7 @@ Hi!
 
 Welcome to my website.
 
-I made this blog primarily because I enjoy writing and want to get better at it. I also want to share what I've learned from my real-life experiences with other people, just as others have shared with me (e.g. [Phillip Guo](www.pgbovine.net), [Sam Altman](blog.samaltman.com), and [Paul Graham](paulgraham.com)). This blog is intended cover a smorgasbord of topics – from hardware projects to philosophy. If you'd like to discuss any post in detail, please leave a comment in the respective post's comment section.
+I created this blog because I enjoy writing and want to get better at it. I also want to share what I've learned from my real-life experiences with other people, just as others have shared with me (e.g. [Phillip Guo](www.pgbovine.net), [Sam Altman](blog.samaltman.com), and [Paul Graham](paulgraham.com)). This blog is intended cover a smorgasbord of topics – from hardware projects to philosophy. If you'd like to discuss any post in detail, please leave a comment in the respective post's comment section.
 
 Tags for posts include #work, #personal, #school, #internship, #project, #programming, #advice, and #travel. If you'd like to view posts with a certain tag, please navigate to wesleytian.com/tags/name_of_tag (e.g. [wesleytian.com/tags/personal](/tags/personal)).
 
@@ -22,6 +22,7 @@ I recently recieved my Bachelor of Science degree from the University of Michiga
 
 Before attending the University of Michigan, I took classes in computer science, mathematics, and economics at the University of Massachusetts, Amherst.
 
+Although I was born in Mountain View, California, I have also lived Oregon, Taiwan, Shanghai, Massachusetts, and Michigan.
 
 > _All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated._
 
