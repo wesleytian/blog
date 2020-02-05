@@ -1,8 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/wesleytian/wesleytian.github.io.git
-	branch = master
-[submodule "publicgit"]
-	path = publicgit
+[submodule "wesleytian.github.io"]
+	path = wesleytian.github.io
 	url = https://github.com/wesleytian/wesleytian.github.io.git
-	branch = master
