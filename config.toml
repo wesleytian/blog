@@ -6,7 +6,7 @@ copyright = "&copy; Wesley Tian 2019"
 disqusShortname = "wesleytian-github-io"
 googleAnalytics = "UA-89706210-1"
 # Number of posts per page
-Paginate = 5
+Paginate = 10
 enableRobotsTXT = true
 
 [params.features]
@@ -38,7 +38,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "wesleyytian"
+twitter = ""
 github = "wesleytian"
 email = "tian.wesley@gmail.com"
 linkedin = "wesleytian"
