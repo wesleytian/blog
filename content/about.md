@@ -26,7 +26,7 @@ Although I was born in Mountain View, California, I have also lived Oregon, Taiw
 
 > _All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated._
 
-Views: 8,837 times
+Views: 8,837 
 
 Unique users: 3,722
 
