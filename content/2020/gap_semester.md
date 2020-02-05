@@ -2,7 +2,7 @@
 title: "Life After College, A State of Limbo"
 date: 2020-02-05
 showDate: true
-draft: false
+draft: true
 tags: ["personal"]
 ---
 

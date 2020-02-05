@@ -18,9 +18,14 @@ Tags for posts include #work, #personal, #school, #internship, #project, #progra
 
 ## About Me
 
-I recently graduated from the University of Michigan.
+I recently recieved my Bachelor of Science degree from the University of Michigan. While there, I studied computer science, data science and entrepreneurship. I also served as the president of the [Michigan Data Science Team](https://news.engin.umich.edu/2018/08/michigan-data-science-team-wrangles-big-data/).
+
+Before attending the University of Michigan, I took classes in computer science, mathematics, and economics at the University of Massachusetts, Amherst.
 
 
 > _All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated._
 
-Since 2017, this site has been viewed 8,837 times. 3,722 unique users. Last updated on 2-5-2020.
+Views: 8,837 times
+
+Unique users: 3,722
+
