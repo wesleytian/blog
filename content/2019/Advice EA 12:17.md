@@ -1,8 +1,16 @@
+---
+title: "$100,000 in Annual Revenue?!"
+date: 2016-09-15T00:14:49-04:00
+showDate: true
+draft: true
+tags: ["blog", "story"]
+---
+
 ### Doing a PhD in the US
 
 > I think doing a PhD in the US was probably questionable, compared to the UK. It has some benefits, but it took a long time. US PhDs are heavily designed for teaching — but If you’re not thinking about going into US academia, I don’t think it makes much sense.
 
-###  Getting advice from the wrong people
+### Getting advice from the wrong people
 
 > Not getting advice from the right people about something I was working on. I should have reached out to more people. The people around me were not experts, so I should not have trusted their judgment. It would have taken a lot of effort to find the right people, but it also would have made a big difference.
 
@@ -10,14 +18,14 @@
 
 > Assuming I only get to keep my wisdom and not explicit knowledge or skills, I’d:
 >
-> - Learn personal finances and retirement concepts and put money into retirement immediately
-> - Learn critical thinking, research methodology, and statistics/probability regardless of initial ability (stats and research methods skills would realistically require school for me)
-> - Learn to write simply and clearly and start a blog to practice
-> - Get really good at networking and learning people’s names
-> - Do everything I can to minimise or avoid student loan debt
-> - Take on complicated organising activities and actively learn project and people management
-> - Participate in diverse groups to build my network
-> - Sign up for toastmasters
+> -   Learn personal finances and retirement concepts and put money into retirement immediately
+> -   Learn critical thinking, research methodology, and statistics/probability regardless of initial ability (stats and research methods skills would realistically require school for me)
+> -   Learn to write simply and clearly and start a blog to practice
+> -   Get really good at networking and learning people’s names
+> -   Do everything I can to minimise or avoid student loan debt
+> -   Take on complicated organising activities and actively learn project and people management
+> -   Participate in diverse groups to build my network
+> -   Sign up for toastmasters
 
 ### Obsessing about grades
 
