@@ -2,7 +2,7 @@
 title: "I Predicted the COVID-19 Stock Market Crash of 2020"
 date: 2020-03-14
 showDate: true
-draft: true
+draft: false
 tags: ["personal"]
 ---
 

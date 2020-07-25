@@ -51,3 +51,10 @@ I spent these three weeks working around 15-20 hours a week in Dr. Borjigin's La
 ###March, Weeks 1-2
 
 I heard back from Stanford and was rejected. Since then, I've applied to a couple of full-stack positions and have also been working on a web app that I intend to turn into a profitable business. So far, it's been very enjoyable and I have been learning a lot such as how to handle scammers, which database to use, React, and payments APIs.  I will and have applied to and interviewed with talent investors and incubators to allow me to continue working on this app. I've also been reaching out to people to help me work on this. Regardless of what the outcome of this app is, I think that this would be an amazing learning experience for me. In addition, I've realized that I really enjoy full-stack development. I enjoy working on the front-end and connecting the front-end to the back-end through APIs and requests. 
+
+March Weeks 3-4
+
+
+
+April 1st-15th
+As of April 3rd, I've been working with Ish on Virtually, Inc.
