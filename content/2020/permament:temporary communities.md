@@ -2,7 +2,7 @@
 title: "To Improve Your Life and the World, Treat the Communities You Live In As Permanent"
 date: 2020-02-05
 showDate: true
-draft: true
+draft: false
 tags: ["personal"]
 ---
 
