@@ -20,7 +20,7 @@ On February 18th, 2020, the S&P reached an all time high, despite the known \_\_
 
 ![2:18:2020-1](../2:18:2020-1.png)
 
-On February 21th, 2020, the S&P crashed.
+On February 21th, 2020, the S&P 500 crashed.
 
 ![](../s&p500crash.png)
 
