@@ -107,7 +107,7 @@ In summary, I picked Reno, Nevada because of its:
 2. Outdoors (the Sierra Nevada, Lake Tahoe, and National Parks such as Yosemite, a 2.5-hour drive away)
 3. Relatively cheap cost of living (no state income tax and low-cost housing)
 
-Though my reasons for moving to Reno will not apply to everyone, I hope by reading this post, you've learned a bit more about the Reno area. It's much easier to follow the herd at the peak of a hype cycle and move to places like San Francisco or Seattle, but I believe the best rewards happen in life when you're an early adopter.
+Though my reasons for moving to Reno will not apply to everyone, I hope by reading this post, you've learned a bit more about the Reno area. It's much easier to follow the herd at the peak of a hype cycle and move to places like San Francisco or Seattle, but just like with any sort of investing, I believe that the best rewards happen in life when you're an early adopter.
 
 So, yeah. That's why I'm moving to Reno, Nevada!
 
