@@ -14,7 +14,7 @@ tags: ["personal"]
 
 Though COVID-19 has been an inconvenience for many, it has allowed more and more people the autonomy to choose where they want to live. Seeing that my work could be done remotely for the foreseeable future and that my girlfriend, Carol, was willing to relocate with me since all of her classes would be remote, why not choose somewhere I want to live?
 
-I thought about moving to Hawaii, New Zealand, or even a cabin in the middle of nowhere–a shot at Waldenponding. However, out of all of the places in the world, I chose Reno. Hopefully, by the end of this article, you'll learn why I'M moving to Reno and why YOU may want to move there someday, too.
+I thought about moving to Hawaii, New Zealand, or even a cabin in the middle of nowhere–a shot at Waldenponding (See [Walden](https://en.wikipedia.org/wiki/Walden)). However, out of all of the places in the world, I chose Reno. Hopefully, by the end of this article, you'll learn why I'M moving to Reno and why YOU may want to move there someday, too.
 
 <img src="../reno-map-1.png" style="width:45%;height:45%;border-radius:10px;margin-right:10px"/><a href="https://www.google.com/maps/place/Reno,+NV/@40.7209138,-123.5475481,6.39z/data=!4m5!3m4!1s0x809940ae9292a09d:0x40c5c5ce7438f787!8m2!3d39.5296329!4d-119.8138027"><img src="../reno-map-2.png" style="width:45%;height:45%;border-radius:10px"/></a>
 
