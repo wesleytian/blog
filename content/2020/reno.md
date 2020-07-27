@@ -2,92 +2,116 @@
 title: "I'm Moving to Reno, Nevada. Why?"
 date: 2020-07-25
 showDate: true
-draft: true
+draft: false
 tags: ["personal"]
 ---
 
-I'm moving to Reno, Nevada. Why?
+<img src="https://download.hipwallpaper.com/desktop/1600/900/80/44/0EYU2v.jpg"style="border-radius:10px"/>
 
-Lake Tahoe, Nevada
-(Besides being within a 1-hour drive to this beautiful lake that is.)
+<center> Besides being a 1-hour drive to this beautiful beach, that is. </center>
 
-Before I even settled on moving to Reno, Nevada, two reasons made me want to move from Ann Arbor, Michigan. First, as I started working for Virtually, Inc. remotely, I realized that If I could work anywhere, why not choose where to live instead of staying in Ann Arbor? Plus, Carol, my girlfriend was willing to relocate with me as all of her classes would be remote for next semester and potentially the one after that as well.
-Second, seeing that the COVID situation grew worse and worse, I began to think about moving to the middle of nowhere, where the chance of catching the virus would be lower. where at the time, people didn't seem to care about COVID, and there were unpleasant political events. [insert link protests whitmer]
+### Preface
 
-I thought about Hawaii, New Zealand, the middle of nowhere US, etc.
-But out of all of the places in the world, why Reno?
-[insert picture here of Reno on a map]
+Though COVID-19 has been an inconvenience for many, it has allowed more and more people the autonomy to choose where they want to live. Seeing that my work could be done remotely for the foreseeable future and that my girlfriend, Carol, was willing to relocate with me since all of her classes would be remote, why not choose somewhere I want to live?
 
-Primary considerations:
-My first consideration or most important factor to consider was the proximity to family and friends. Having used to live near San Jose, California, my parents really enjoyed the weather, so they wanted to move back to California after retirement next year. Many of my childhood, high school, and college friends live in Seattle or the Bay Area.
+I thought about moving to Hawaii, New Zealand, or even a cabin in the middle of nowhere–a shot at Waldenponding. However, out of all of the places in the world, I chose Reno. Hopefully, by the end of this article, you'll learn why I'M moving to Reno and why YOU may want to move there someday, too.
 
-Therefore, I decided that I wanted to be near Seattle or the Bay area.
+<img src="../reno-map-1.png" style="width:45%;height:45%;border-radius:10px;margin-right:10px"/><a href="https://www.google.com/maps/place/Reno,+NV/@40.7209138,-123.5475481,6.39z/data=!4m5!3m4!1s0x809940ae9292a09d:0x40c5c5ce7438f787!8m2!3d39.5296329!4d-119.8138027"><img src="../reno-map-2.png" style="width:45%;height:45%;border-radius:10px"/></a>
 
-The next important consideration for me was how I'mI could align with some of my life goals. At some point, I'd love to climb all seven summits. (The tallest mountain on each continent.). To get in shape for mountain climbing, there's not a better training ground than real mountains. Besides Alaska and Colorada, the next best place would be the Sierra Nevada mountain range in California (it turns out, that this mountain range was even closer to Reno than any other major city in California)
+### Primary Considerations
 
-Seattle wouldn't be too bad either, but Rainier is the only 14er, very snowy, technical, and I would get bored of climbing the same mountain repeatedly.
+1. I believe the number one factor that you should consider when moving is the proximity to family and friends (or the potential for new friends). Multiple sources have shown just how indispensable our relationships and communities are for life satisfaction and happiness. My parents, having used to live near San Jose, California, are planning on moving back to CA after they retire at the end of 2021. Additionally, many of my childhood, high school, and college friends live in Seattle or the Bay Area. Therefore, I decided that I wanted to be near either of those two places.
 
-So, it seemed like I narrowed my choices to the Bay Area.
+2. The next consideration for me was how I could align my move with some of my life goals. One of my goals is to climb the [seven summits](https://en.wikipedia.org/wiki/Seven_Summits). (The highest mountain on each continent.) There's no better training ground for climbing the seven summits than climbing real mountains at a high elevation. After Colorada and Alaska, the next best place in the US for climbing mountains is in the Sierra Nevada mountain range, located next to the border of CA and NV. There are a few tall mountains near Seattle, but there are only a few above 12,000 ft. Additionally, Mt. Rainier, one of two of Washington State's [14ers](https://en.wikipedia.org/wiki/Fourteener), is technical, difficult to access, and is even [one of the most dangerous volcanoes in the world](https://en.wikipedia.org/wiki/Mount_Rainier#cite_note-8). I would also get bored of climbing the same mountains over and over again. So, I narrowed my choices down to somewhere near the Sierra Nevada.
 
-The next factor would be the deciding factor for me. Given that working at an early stage startup means low starting salary but potential for massive growth in stock value, I wanted to live somewhere with a lower cost of living. Since I could move anywhere, why would I live in the Bay area where a 1Br costs \$2500-3000? Plus, state taxes in Ca go up to 13%, depending on your income.
+3. The next factor was the deciding factor for me. According to Robert Kiyosaki, author of Rich Dad, Poor Dad, Americans spend nearly 50% of their life's income on taxes. Therefore, I wanted to live somewhere where I could keep more of the money that I made. The state income tax in California goes up to [13.3%](https://smartasset.com/taxes/california-tax-calculator#:~:text=gallon%20of%20diesel-,California%20has%20among%20the%20highest%20taxes%20in%20the%20nation.,tax%20rate%20in%20the%20country.), while its base sales tax is higher than any other state at 7.25%. Plus, since I could move anywhere, why would I want to live in the Bay Area where the average 1Br/1Ba apartment costs $2500-$3000/month? Although my boss said he would adjust my salary based on my local cost of living, high tax rates still mean I get to pocket less of what I make. Robert Kiyosaki's net worth didn't become $80 million by paying half his income in taxes, that's for sure!
 
-Now, which state near California has no state income tax? NEVADA!
+Now, where could I live to satisfy all three conditions above? None other than Reno, Nevada!
 
-As I was looking at places to live near the Bay area, I stumbled upon Reno, Reno, being near Lake Tahoe, is actually quite a desirable place for many people and many reasons. Here are just a few stats about the area:
+### vs. San Francisco Bay Area
 
-Supporting
-Reasons:
-Teslas first and largest gigafactory
+Though some common reasons why people dislike San Francisco include the traffic and homeless problem, none of them make San Francisco inhabitable. What can make San Francisco actually inhabitable, though, is a magnitude 7.0 earthquake.
 
-Top producer of metals such as gold in the USA
+According to the [US Geological Survey](https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf), within the next 23 years, there's a 72% chance that a magnitude 6.7 earthquake will hit the San Francisco Bay Area.
 
-A lot of land?
-Cheaper than bay area, yet still reasonably close to it
-An exponentially increasing rate of pop growth
-Increase housing prices
+Additionally, COVID-19 makes me especially wary of living in a city where you have to share public spaces with strangers such as corridors, elevators, stairs, washers, and dryers. The place I'm moving to in Reno not only has a private entrance, washer, and dryer but also only costs $700 per person per month, utilities included.
 
-Incline Village is super desirable and is already filled with billionaires and millionaires
-Great place for businesses
-https://www.heraldnet.com/business/seattle-likes-bill-gates-but-jeff-bezos-not-so-much/#:~:text=Bezos%2C%20who%20grew%20up%20in,Washington%20state's%20favorable%20tax%20structure.&text=Bezos%20%E2%80%94%20who%20in%20the%20past,philanthropy%20in%20a%20big%20way.
-"Bezos, who grew up in Houston, moved to Seattle to launch his startup in part because of Washington state's favorable tax structure."
-Great place for outdoor activities such as skiing more often, etc.
-Close enough to Bay Area for local sources of talent
-Decent weather, not SF, but better than Michigan
-Carol and I both like 4 season places
+Moving to Reno isn't just about short-term living but about trying to find a place where I can invest in the long term.
 
-The more I researched the Reno area, the more I realized how perfect it would be.
+### Supporting Reasons
 
-As I talked to friends and family about this decision, they reaffirmed my decision unknowingly. 1. The professor I befriended while taking SI 360, Walt Borland, is from Incline Village, Nevada, which can be considered a part of the Reno area. He loved it there.
+The more and more research I did, the more I realized just how desirable Reno is/could become. Here are some supporting reasons why, even if Reno is not super sought-after right now, I predict it will be:
 
-2. The person that I purchased my 2006 Honda Pilot EX from lived in Reno for a few years. He loved it there.
-3. A few friends of mine, at least Edward, and Douglas have been to Reno on the way to Lake Tahoe.
-4. After talking to my parents, they told me that they used to go to Reno all the time when they went skiing in Lake Tahoe. 5. My friend Joe living in Seattle, has heard about lake Tahoe and is planning on visiting.
-5. My sister Jeni, who lives in LA, was also planning on doing a camping trip at Lake Tahoe.
+Reason 1: A Diverse Economy Fueled by Natural Resources and Pro-Business Politics
 
-So, it turns out that the Reno area was way more popular than I had imagined. I could get Lake Tahoe's benefits, enjoy the cheap cost of living, and see my friends occasionally.
+- [0% corporate and personal income tax](https://en.wikipedia.org/wiki/Nevada_corporation)
+- [Low-regulation environment](https://www.diversifynevada.com/why-nevada/nevada-advantage/#:~:text=Nevada%20is%20a%20one%2Dof,environment%20for%20business%20and%20industry.&text=No%20inheritance%20or%20gift%20tax,regulatory%2C%20licensing%20and%20annual%20fees.)
+- "[Jeff] Bezos moved to Seattle to launch his startup in part [because](https://www.heraldnet.com/business/seattle-likes-bill-gates-but-jeff-bezos-not-so-much/) of Washington state's favorable tax structure."
+  Like Seattle, Reno has a favorable tax structure for businesses.
+- [One-of-a-kind](https://www.inc.com/ilya-pozin/this-is-why-nevada-is-the-best-place-for-you-to-start-a-business.html#:~:text=Nevada%20is%20a%20great%20place,be%20residents%20of%20the%20state.) states for businesses
 
-7. I even called a previous tenant what the place I'm living and they said they said loved it if you like the outdoors.
+- [Giga Nevada](https://en.wikipedia.org/wiki/Giga_Nevada), Tesla's first and largest Gigafactory, is just a 32-minute drive away from where I'll be living.
 
-So, in summary, I picked Nevada for the
-Within 3-hour driving distance to friends and family
-Near 14er mountains for climbing in all seasons
-Low/no income tax
-Cheap housing \$700/month
+  <img src="../giga-nevada-location.jpg" style="width:50%;border-radius:10px" class="center">
 
-Bonus, close to the beach
-Have mutual connections in politics and entrepreneurship there
+<a href="https://www.tesla.com/gigafactory"><img src="../gigafactory.jpg" style="border-radius:10px" /></a>
 
-Some bonuses, why not SF:
-Sf has earthquakes, insert statistic 99% chance of magnitude 7.0 earthquake hitting SF in the next 40 years. SF is going to go under potentially due to global warming. Cities suck because you share stuff with people due to COVID, makes it challenging to have a dog, loud, dirty,
-https://www.usgs.gov/faqs/what-probability-earthquake-will-occur-los-angeles-area-san-francisco-bay-area?qt-news_science_products=0#qt-news_science_products
-70% chance o
-Within the next 30 years, the probability is:
-72% that an earthquake measuring magnitude 6.7
-51% that an earthquake measuring magnitude 7
+- Nevada is one of the largest sources of gold in the world. [78% of US gold is mined in Nevada](https://en.wikipedia.org/wiki/Gold_mining_in_Nevada).
 
-Other parts of the Bay could be better, but again earthquakes and global warming.
+Reason 2: Attractive and Close to Existing Talent
 
-So yeah, that's why I'm moving to Reno, Nevada.
-Send me snail mail at 6850 Sharlands Ave #K1059, Reno, NV 89523
+- Great place for outdoor activities such as skiing, hiking, swimming, etc.
+- Close enough to the Bay Area for local sources of talent.
+- Tons of tech workers visit Lake Tahoe each year.
+- A decent climate that's cool at night even in the summer. It's no San Francisco or San Diego, but it has four seasons, and its weather is milder than Michigan's.
+  <img src="https://lh3.googleusercontent.com/RGBsADXvkCsrxmt9o9urdNwtHtGheHt-ydB1kZMIMusDukKocCLaocYLeiMsrdVhxi6Kvoavu3AzFqPQyyZ2AcpQnxT_phN2vIy-3OHHaM3gI8Mx5T-nJD6h6ffMC8VVK2FjiTnV93xHpL3zbEDmFako8ifhXJCg7PxLHr-8LFINAK1SflFvYLgLEqOcmIpXwVaOCCuWemGUwDgBgDj9J8ZdrNfHi2psO6siUQ2OioPocbgZj1iGsMvrJNpwQdHfNZeJpt-zZZ1dBTQkn3mBHmEO8XCehicOeRGIwESCPZfWSCWZPctUwWceRs6Tvla_GimdtiFK7ssLqYjPG9uQOysaQWvoPBA6xIYxJV0Um4bm_YxJDYNbE7HnluPhVG3rTlknRG5e6Pk9goOLDBAjP4GJR41bzI2u9j1nsUq0AsDCdozQizAvl2Ngp27CLP-8c2YXFOjR6eQfVdsDYdA_wC67oIIKC_l6Jhy0rHS_qHG4cphPTQ7JIMoVf-5XxM3J7qi3xB29ZTMjnM2y7MAerKK1WUYU1azXkqPXAYvd4jAePs3y_sJwZ4EqycQoX36SAsVee1CZDXp9r6GRTvzGCrjPh84v9ah3ktEc36gUjSeov7bI_C10vlXmQR5g-CstV5aCu747SNzoHh4RA6Vjak-tr_3GpbpV8gs9-rgaZTQZ63NOmY-_andrygAhLtc=w1050-h1318-no?authuser=0" style="width:80%;border-radius:10px" class="center"/>
 
-Disclaimer: Of course, moving to Reno may not apply to everyone. Obviously, I haven't moved there yet, so I can't vouch for it with first-hand experiences.
+Reason 3: Existing Growth
+
+- Nevada Population Growth
+
+  <a href="https://worldpopulationreview.com/states/nevada-population"> <img src="../nv-pop-growth.png" style="width:80%;border-radius:10px" class="center"/> </a>
+  <center> Nevada Population by Year </center>
+
+- Housing Price Growth in Reno and Incline Village, NV.
+
+  <a href="https://www.zillow.com/reno-nv/home-values/"><img src="../reno-housing-prices.png" style="width:80%;border-radius:10px" class="center"/></a>
+  <center> Reno Median Home Sale Price by Year </center>
+
+  <a href="https://www.zillow.com/incline-village-nv/home-values/"><img src="../incline-house-prices.png" style="width:80%;border-radius:10px" class="center"/></a>
+  <center> Incline Village Home Value Index by Year </center>
+
+* Like San Francisco, Incline Village is desirable amongst the ultra-wealthy. Examples of some of their residents include Warren Buffet and Larry Ellison, co-founder and former CEO of Oracle. [(Source)](https://en.wikipedia.org/wiki/Incline_Village,_Nevada). A native of Incline Village told me that Incline Village is where the billionaires push out the millionaires.
+
+The more I researched the Reno area, the more I realized how good an investment Reno could become.
+
+### Social Proof
+
+Besides the reasons above, talking to my friends and family about this decision offered me additional social proof.
+
+1. A University of Michigan professor that I've been talking to, Walt Borland, is from Incline Village, Nevada, a 30-minute drive from Reno. He loves the area and is planning on moving back when he retires.
+2. It turns out that Andrei, the guy who sold me my used Honda Pilot, also lived in Reno for a few years. He loved it there.
+3. A few of my friends who have visited Reno or Lake Tahoe have said they loved the area.
+4. After talking to my parents, they told me that they used to drive by Reno all the time when they went skiing in Lake Tahoe. They loved the area.
+5. I even talked to two previous tenants of the place I was moving to, and they said they loved it there.
+6. My friend, Joe, who is living in Seattle, has also heard about Lake Tahoe's beauties and is considering visiting.
+7. My sister, Jeni, who lives in LA, is also planning on going camping at Lake Tahoe.
+
+So, it turns out that the Reno area was way more popular than I had initially imagined.
+
+### Conclusion
+
+In summary, I picked Reno, Nevada because of its:
+
+1. Proximity to friends and family (within a 3.5-hour drive)
+2. Outdoors (the Sierra Nevada, Lake Tahoe, and National Parks such as Yosemite, a 2.5-hour drive away)
+3. Relatively cheap cost of living (no state income tax and low-cost housing)
+
+Though my reasons for moving to Reno will not apply to everyone, I hope by reading this post, you've learned a bit more about the Reno area. It's much easier to follow the herd at the peak of a hype cycle and move to places like San Francisco or Seattle, but I believe the best rewards happen in life when you're an early adopter.
+
+So, yeah. That's why I'm moving to Reno, Nevada!
+
+<img src="https://images.alphacoders.com/872/872790.jpg" style="border-radius:10px" />
+<center> South Lake Tahoe, Nevada </center>
+
+Adios, Ann Arbor. Thanks for being my home for the past three years. 😊 I'm going to miss you!

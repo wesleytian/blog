@@ -11,12 +11,12 @@ On February 15th, 2020, I predicted that COVID-19, which was wrecking havoc in C
 On February 15th, 2020, I sold 85% percent of all my stocks.
 
 ![2:15:2020-1](../2:15:2020-1.png)
-
 ![2:15:2020-3](../2:15:2020-3.png)
+![2:15:2020-4](../2:15:2020-4.png)
+![2:15:2020-5](../2:15:2020-5.png)
+![](../stocksellproof.png)
 
-![2:15:2020-4](../2:15:2020-4.png)![2:15:2020-5](../2:15:2020-5.png)
-
-On February 18th, 2020, the S&P reached an all time high, despite the known \_\_\_ in China.
+On February 18th, 2020, the S&P 500 reached an all time high, despite the known deaths in China.
 
 ![2:18:2020-1](../2:18:2020-1.png)
 
