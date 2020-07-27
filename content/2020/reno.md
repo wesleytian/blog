@@ -64,7 +64,7 @@ Reason 2: Attractive and Close to Existing Talent
 - Close enough to the Bay Area for local sources of talent.
 - Tons of tech workers visit Lake Tahoe each year.
 - A decent climate that's cool at night even in the summer. It's no San Francisco or San Diego, but it has four seasons, and its weather is milder than Michigan's.
-  <img src="https://lh3.googleusercontent.com/RGBsADXvkCsrxmt9o9urdNwtHtGheHt-ydB1kZMIMusDukKocCLaocYLeiMsrdVhxi6Kvoavu3AzFqPQyyZ2AcpQnxT_phN2vIy-3OHHaM3gI8Mx5T-nJD6h6ffMC8VVK2FjiTnV93xHpL3zbEDmFako8ifhXJCg7PxLHr-8LFINAK1SflFvYLgLEqOcmIpXwVaOCCuWemGUwDgBgDj9J8ZdrNfHi2psO6siUQ2OioPocbgZj1iGsMvrJNpwQdHfNZeJpt-zZZ1dBTQkn3mBHmEO8XCehicOeRGIwESCPZfWSCWZPctUwWceRs6Tvla_GimdtiFK7ssLqYjPG9uQOysaQWvoPBA6xIYxJV0Um4bm_YxJDYNbE7HnluPhVG3rTlknRG5e6Pk9goOLDBAjP4GJR41bzI2u9j1nsUq0AsDCdozQizAvl2Ngp27CLP-8c2YXFOjR6eQfVdsDYdA_wC67oIIKC_l6Jhy0rHS_qHG4cphPTQ7JIMoVf-5XxM3J7qi3xB29ZTMjnM2y7MAerKK1WUYU1azXkqPXAYvd4jAePs3y_sJwZ4EqycQoX36SAsVee1CZDXp9r6GRTvzGCrjPh84v9ah3ktEc36gUjSeov7bI_C10vlXmQR5g-CstV5aCu747SNzoHh4RA6Vjak-tr_3GpbpV8gs9-rgaZTQZ63NOmY-_andrygAhLtc=w1050-h1318-no?authuser=0" style="width:80%;border-radius:10px" class="center"/>
+  <img src="../reno-weather.png" style="width:80%;border-radius:10px" class="center"/>
 
 Reason 3: Existing Growth
 
