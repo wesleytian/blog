@@ -6,7 +6,7 @@ draft: false
 tags: ["personal"]
 ---
 
-<img src="https://download.hipwallpaper.com/desktop/1600/900/80/44/0EYU2v.jpg"style="border-radius:10px"/>
+<img src="../reno-beach.jpg"style="border-radius:10px"/>
 
 <center> Besides being a 1-hour drive to this beautiful beach, that is. </center>
 
@@ -32,7 +32,7 @@ Now, where could I live to satisfy all three conditions above? None other than R
 
 Though some common reasons why people dislike San Francisco include the traffic and homeless problem, none of them make San Francisco inhabitable. What can make San Francisco actually inhabitable, though, is a magnitude 7.0 earthquake.
 
-According to the [US Geological Survey](https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf), within the next 23 years, there's a 72% chance that a magnitude 6.7 earthquake will hit the San Francisco Bay Area.
+According to the [US Geological Survey](https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf), within the next 23 years, there's a 72% chance that a magnitude 6.7 earthquake will hit the San Francisco Bay Area. To me, this makes the Bay Area unfit for settling or investing in, long-term.
 
 Additionally, COVID-19 makes me especially wary of living in a city where you have to share public spaces with strangers such as corridors, elevators, stairs, washers, and dryers. The place I'm moving to in Reno not only has a private entrance, washer, and dryer but also only costs $700 per person per month, utilities included.
 
