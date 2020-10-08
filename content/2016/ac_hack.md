@@ -32,3 +32,5 @@ The AC:
 ![AC](/ac_hack/ac.jpg)
 
 A few weeks after I created this, Rui found a few other similar gadgets that people made to try and regulate their room temperature. One of them decided to use a breadboard and flimsy wires to control the surge. (Very dangerous!) [Arduino Replaces Bad AC Thermostat, Hacker Stays Cool](http://hackaday.com/2016/08/05/arduino-replaces-bad-ac-thermostat-hacker-stays-cool/) which also bears resemblance to this [Arduino Controlled Air Conditioner](http://hackaday.com/2015/06/11/arduino-controlled-air-conditioner). Both of which requires the person to set the desired temperature by walking up to the AC and turning a knob. I also would not recommend tampering with the AC itself because 120v can kill you! All in all, I think that the best solutions to some things require a well-balanced incorporation of both hardware and software. Stay tuned for newer versions of the WiFi Remote Outlet Thermostat!
+
+See part 2 here: https://wesleytian.github.io/2017/ac_hack_2/
