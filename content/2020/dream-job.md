@@ -6,7 +6,7 @@ draft: false
 tags: ["personal"]
 ---
 
-Last summer, in my [most popular and inspirational blog post](https://wesleytian.github.io/2019/gpa/) yet, I wrote about how believing in myself, dreaming big, and following my plans to a tee led me from nearly failing high school to landing offers at [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) (Facebook, Google, Microsoft, Amazon, Apple). Near the end of that post, I stated that my next goal was to find my "dream job." 
+Last summer, in my [most popular and inspirational blog post](https://wesleytian.github.io/2019/gpa/) yet, I wrote about how believing in myself, dreaming big, and following my plans led me from nearly failing high school to landing offers at [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) (Facebook, Google, Microsoft, Amazon, Apple). Near the end of that post, I stated that my next goal was to find my "dream job." 
 
 I suspected I had found this "dream" job a few months after working at [Virtually](https://www.tryvirtually.com/). Now that my 6-month work anniversary at Virtually has just passed, I can say with certainty that I've found it—for now. Things move quickly at startups.
 
