@@ -10,7 +10,7 @@ Last summer, in my [most popular and inspirational blog post](https://wesleytian
 
 I suspected I had found this "dream" job a few months after working at [Virtually](https://www.tryvirtually.com/). Now that my 6-month work anniversary at Virtually has just passed, I can say with certainty that I've found it—for now. Things move quickly at startups.
 
-In this post, I tell my story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too. 
+In this post, I tell the story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too. 
 
 *Stay tuned and [subscribe here](https://buttondown.email/wesleytian) to read about things such as what I’ve learned as the lead engineer at a fast-growing startup, what I’ve learned about the education industry, and why I chose to join a startup over Big Tech.*
 
