@@ -2,11 +2,11 @@ baseurl = "https://wesleytian.github.io"
 languageCode = "en"
 title = "Wesley Tian"
 theme = "kiss"
-copyright = "&copy; Wesley Tian 2019"
+copyright = "&copy; Wesley Tian 2020"
 disqusShortname = "wesleytian-github-io"
 googleAnalytics = "UA-89706210-1"
 # Number of posts per page
-Paginate = 20 
+Paginate = 15 
 enableRobotsTXT = true
 
 [params.features]
@@ -24,8 +24,8 @@ authorEmail = "tian.wesley@gmail.com"
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
-poweredby = false # Adds powered by Hugo and Kiss below Copyright section
+homeTitle = "Wesley Tian's Blog" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 related = true # Includes related articles
 
 [params.opengraph.facebook]
@@ -43,12 +43,12 @@ github = "wesleytian"
 email = "tian.wesley@gmail.com"
 linkedin = "wesleytian"
 gitlab = ""
-instagram = ""
+instagram = "wesleyclimbs"
 codepen = ""
 facebook = "wesleytian"
 
 [params.social.config]
-platforms = []
+platforms = ["twitter", "github", "linkedin", "instagram"]
 
 [params.matomoAnalytics]
 siteID = 1
@@ -64,3 +64,4 @@ tag ="tags"
 hrefTargetBlank = true
 
 [params.sections_left]
+"/about" = "About"
