@@ -20,7 +20,7 @@ In this post, I tell the story of how I became the first employee and engineer a
 
 I've interned at four companies of varying sizes during college, from a two-person startup to a 160,000 employee behemoth. Interning at these places made me realize that I perform better under pressure when I can see my direct impact and understand the big picture–AKA, the business side of things. I also enjoy having more value, responsibility, and autonomy over my work. The smaller the company, the more these attributes can be maximized. I also wanted a tighter-knit team and more mission-driven and determined co-workers. Thus, after a short break after graduating college in December 2019, in March of 2020, I began to apply to early-stage startups. (My initial plan was to study business, policy, and tech at Stanford and look for co-founders, but they rejected me. I'm honestly glad the way things turned out as I would’ve received way less value from attending Zoom university.)
 
-Note: If you're familiar with reinforcement learning concepts, what I'm vouching for is the solution to the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit) where you want to explore more in the beginning, and exploit more once you've explored more opportunities. In machine learning, it's known as the exploration vs. exploitation tradeoff.
+Note: If you're familiar with reinforcement learning concepts, what I'm vouching for is a dumbed-down solution to the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit) where you want to explore more in the beginning, and exploit more once you've explored more opportunities. In machine learning, it's known as the exploration vs. exploitation tradeoff.
 
 ## 2. Do what you love
 
