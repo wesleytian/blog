@@ -6,6 +6,8 @@ draft: false
 tags: ["personal"]
 ---
 
+> ⚠️ Note: Please go to [wesleytian.com/posts/dream-job](https://wesleytian.com/posts/dream-job) for the latest version of this article. Soon, this site will be deleted and all of my posts will be migrated to wesleytian.com/posts.
+
 Last summer, in my [most popular and inspirational blog post](https://wesleytian.github.io/2019/gpa/) yet, I wrote about how believing in myself, dreaming big, and following my plans led me from nearly failing high school to landing offers at [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). Near the end of that post, I stated that my next goal was to find my "dream job." 
 
 I suspected I had found this "dream" job a few months after working at [Virtually](https://www.tryvirtually.com/). Now that my 6-month work anniversary at Virtually has just passed, I can say with certainty that I've found it—for now. Things move quickly at startups.
